@@ -7,10 +7,30 @@ This pipeline collects qualitative research projects from open data repositories
 - **Dryad (Repository #2)**: Scientific data repository
 - **FSD (Repository #11)**: Finnish Social Science Data Archive
 
+## Getting Started
+
+### Clone the Repository
+```bash
+git clone https://github.com/Jubaer-Shondhi/Seeding-QDArchive.git
+cd Seeding-QDArchive
+```
+
+### Set Up Virtual Environment (Recommended)
+```bash
+# Create virtual environment
+python -m venv venv
+
+# Activate it
+# On Windows:
+venv\Scripts\activate
+# On Mac/Linux:
+source venv/bin/activate
+```
+
 ## Project Structure
 
 ```
-qdarchive-pipeline/
+Seeding-QDArchive/
 ├── scrapers/
 │   ├── __init__.py
 │   ├── base_scraper.py     # Abstract base class for all scrapers
