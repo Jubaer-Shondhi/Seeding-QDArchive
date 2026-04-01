@@ -216,4 +216,4 @@ data/
 
 ## License
 
-This project is part of the QDArchive seeding effort at FAU Erlangen.
+This project is licensed under the **MIT License**. The project is part of the QDArchive seeding effort at FAU Erlangen.
