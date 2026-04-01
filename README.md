@@ -9,7 +9,7 @@ This pipeline collects qualitative research projects from open data repositories
 
 ## Project Structure
 
-'''
+```
 qdarchive-pipeline/
 ├── scrapers/
 │   ├── __init__.py
@@ -23,7 +23,7 @@ qdarchive-pipeline/
 ├── export_csv.py           # Export database to CSV
 ├── README.md               # This file
 └── requirements.txt        # Python dependencies
-'''
+```
 ## Requirements
 
 Install dependencies:
@@ -165,7 +165,7 @@ All metadata and database files are available in the FAUbox folder:
 *(FAU login required)*
 
 **Folder Structure**:
-'''
+```
 data/
  ├── files
  │   ├── Dryad
@@ -182,7 +182,7 @@ data/
  ├── licenses_export.csv
  ├── person_role_export.csv
  └── projects_export.csv
-'''
+```
 
 ### What's Included
 
