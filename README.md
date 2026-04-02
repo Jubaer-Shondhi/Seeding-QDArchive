@@ -178,11 +178,6 @@ After running the pipeline, the following files and folders will be created:
 ### Project Structure
 ```
 Seeding-QDArchive/
-├── scrapers/
-│   ├── __init__.py
-│   ├── base_scraper.py     # Abstract base class for all scrapers
-│   ├── dryad_scraper.py    # Scraper for Dryad (repo #2)
-│   └── fsd_scraper.py      # Scraper for FSD Finland (repo #11)
 ├── data/
 │   ├── files
 │   │   ├── Dryad
@@ -199,6 +194,11 @@ Seeding-QDArchive/
 │   ├── licenses_export.csv
 │   ├── person_role_export.csv
 │   └── projects_export.csv
+├── scrapers/
+│   ├── __init__.py
+│   ├── base_scraper.py     # Abstract base class for all scrapers
+│   ├── dryad_scraper.py    # Scraper for Dryad (repo #2)
+│   └── fsd_scraper.py      # Scraper for FSD Finland (repo #11)
 ├── config.py               # Configuration (paths, API keys, search terms)
 ├── database.py             # SQLite database setup and helpers
 ├── downloader.py           # File downloader with resume support
