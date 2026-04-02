@@ -149,8 +149,8 @@ After running the pipeline, the following files and folders will be created:
 - **Database**: `data/archive.db` - Contains all project metadata in SQLite format
 - **CSV Exports**: `data/*.csv` - All 5 tables exported for easy viewing
 - **Downloaded Files**: `data/files/` - Contains subfolders for each repository:
-  - `data/files/Dryad/` - Downloaded files from Dryad (with also empty files, reason is given in archive.db file)
-  - `data/files/FSD/` - Downloaded files from FSD (with also empty files, reason is given in archive.db file)
+  - `data/files/Dryad/` - Downloaded files from Dryad (with also empty files/folders, reason is given in archive.db file)
+  - `data/files/FSD/` - Downloaded files from FSD (with also empty files/folders, reason is given in archive.db file)
 
 **Note**: The `data/` folder is excluded from Git due to size (>6 GB). See [Submission Contents](#submission-contents) for access to the complete data.
 
@@ -237,7 +237,7 @@ This pipeline completes all Part 1 requirements:
 
 ### Database & CSV Exports
 
-All metadata and database files are available in the FAUbox folder:
+All metadata and database files are available in the FAUbox folder and can easily be downloaded:
 
 - **Database**: `archive.db` - Complete SQLite database with all project metadata
 - **CSV Exports**: All 5 tables exported for easy review
