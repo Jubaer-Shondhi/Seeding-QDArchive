@@ -12,13 +12,13 @@ This pipeline collects qualitative research projects from open data repositories
 Following the project's recommendation to use file extension queries:
 
 ### QDA File Extension Queries (Primary)
-- `qdpx` — REFI-QDA standard (ATLAS.ti, NVivo, MAXQDA)
-- `mqda` — MAXQDA project files
-- `nvivo`, `nvp` — NVivo project files
-- `atlasti`, `atlasproj` — ATLAS.ti project files
-- `f4p` — f4analyse project files
-- `qlt`, `ppj` — QDA Miner project files
-- `qpd` — Quirkos project files
+- `qdpx`
+- `mqda`
+- `nvivo`, `nvp`
+- `atlasti`, `atlasproj`
+- `f4p`
+- `qlt`, `ppj`
+- `qpd`
 
 ### Broader Qualitative Research Queries (Secondary)
 - `qualitative research`, `interview study`
@@ -99,7 +99,7 @@ DRYAD_API_TOKEN  = "Your_Dryad_API_Token_Here" # Replace with your actual Dryad 
 ## Running the Pipeline
 
 ```bash
-# Run only Dryad (requires valid API token)
+# Run only Dryad files download (requires valid API token)
 python pipeline.py --source dryad
 ```
 
@@ -213,7 +213,7 @@ Seeding-QDArchive/
 
 - **ZIP Download Failure**: The actual files for **Level A** projects could not be downloaded programmatically because:
   - FSD requires users to click an "Download Data" button before download
-  - The download is triggered via a form POST with CSRF tokens
+  - The download is triggered via a form POST with CSRF tokens (already tried)
   - Session cookies are required and cannot be easily replicated with requests library
   - Multiple URL patterns were tested (`/catalogue/{study_number}/download`, `/catalogue/export/{study_number}`, `/catalogue/download.php?study={study_number}`) but all returned 404 or HTML login pages
   - The download process is designed for browser interaction, not API access
