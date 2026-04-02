@@ -105,6 +105,20 @@ DRYAD_API_TOKEN  = "Your_Dryad_API_Token_Here" # Replace with your actual Dryad 
 
 ## Running the Pipeline
 
+### Important Note Before Running
+
+If you want a **fresh start** (clean database and new CSV exports), delete the existing data files first:
+
+```bash
+# Delete existing database and CSV exports
+rm -f data/archive.db
+rm -f data/*.csv
+
+# Or on Windows:
+del data\archive.db
+del data\*.csv
+```
+
 ```bash
 # Run only Dryad files download (requires valid API token)
 python pipeline.py --source dryad
