@@ -7,6 +7,24 @@ This pipeline collects qualitative research projects from open data repositories
 - **Dryad (Repository #2)**: Scientific data repository
 - **FSD (Repository #11)**: Finnish Social Science Data Archive
 
+## Query Strategy
+
+Following the professor's recommendation to use file extension queries:
+
+### QDA File Extension Queries (Primary)
+- `qdpx` — REFI-QDA standard (ATLAS.ti, NVivo, MAXQDA)
+- `mqda` — MAXQDA project files
+- `nvivo`, `nvp` — NVivo project files
+- `atlasti`, `atlasproj` — ATLAS.ti project files
+- `f4p` — f4analyse project files
+- `qlt`, `ppj` — QDA Miner project files
+- `qpd` — Quirkos project files
+
+### Broader Qualitative Research Queries (Secondary)
+- `qualitative research`, `interview study`
+- `interview transcript`, `thematic analysis`
+- `grounded theory`, `qualitative data analysis`
+
 ## Getting Started
 
 ### Clone the Repository
@@ -42,9 +60,13 @@ Seeding-QDArchive/
 ├── pipeline.py             # Main pipeline orchestrator
 ├── export_csv.py           # Export database to CSV
 ├── README.md               # This file
+├── .gitignore
 └── requirements.txt        # Python dependencies
 ```
 ## Requirements
+
+- **Python 3.8 or higher** (tested with Python 3.8.1)
+- Dependencies listed in `requirements.txt`
 
 Install dependencies:
 
@@ -120,6 +142,53 @@ python pipeline.py --export
 - **Projects**: 247
 - **Downloads**: 1096
 - **Metadata**: Complete (titles, descriptions, authors, keywords, licenses)
+
+## Output and Data Location
+
+After running the pipeline, the following files and folders will be created:
+
+- **Database**: `data/archive.db` - Contains all project metadata in SQLite format
+- **CSV Exports**: `data/*.csv` - All 5 tables exported for easy viewing
+- **Downloaded Files**: `data/files/` - Contains subfolders for each repository:
+  - `data/files/Dryad/` - Successfully downloaded files from Dryad
+  - `data/files/FSD/` - Manually downloaded Level A ZIP files (7 datasets)
+- **Log File**: `data/pipeline.log` - Complete execution log for debugging
+
+**Note**: The `data/` folder is excluded from Git due to size (>6 GB). See [Submission Contents](#submission-contents) for access to the complete data.
+
+### File Structure
+```
+Seeding-QDArchive/
+├── scrapers/
+│   ├── __init__.py
+│   ├── base_scraper.py     # Abstract base class for all scrapers
+│   ├── dryad_scraper.py    # Scraper for Dryad (repo #2)
+│   └── fsd_scraper.py      # Scraper for FSD Finland (repo #11)
+├── data/
+│   ├── files
+│   │   ├── Dryad
+│   │   │   ├── D9402J
+│   │   │   ├── dryad.0cfxpnwfq
+│   │   │   └── ....
+│   │   └── FSD
+│   │       ├── FSD1249
+│   │       ├── FSD1251
+│   │       └── ....
+│   ├── archive.db
+│   ├── files_export.csv
+│   ├── keywords_export.csv
+│   ├── licenses_export.csv
+│   ├── person_role_export.csv
+│   └── projects_export.csv
+├── config.py               # Configuration (paths, API keys, search terms)
+├── database.py             # SQLite database setup and helpers
+├── downloader.py           # File downloader with resume support
+├── pipeline.py             # Main pipeline orchestrator
+├── export_csv.py           # Export database to CSV
+├── README.md               # This file
+├── .gitignore
+└── requirements.txt        # Python dependencies
+```
 
 ## Technical Problems and Limitations
 
