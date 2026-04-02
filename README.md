@@ -257,6 +257,7 @@ This pipeline completes all Part 1 requirements:
 - Download files and metadata
 - Store metadata in SQLite database following recommended schema
 - Export to CSV format
+- **Git tag `part-1-release` created**
 
 ## Submission Contents
 
