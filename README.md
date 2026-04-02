@@ -275,7 +275,6 @@ data/
 - Complete metadata for **402 FSD projects** + **247 Dryad projects**
 - All 5 database tables exported as CSV
 - All files (1,096 Dryad + 7 FSD)
-- Full pipeline execution log
 - Complete source code in this repository
 
 **Note**: The data/files folder and csv files are not included in the repository due to size (more than 6 GB). 
