@@ -4,7 +4,7 @@
 This pipeline collects qualitative research projects from open data repositories for the QDArchive project. It scrapes metadata, downloads available files, and stores everything in a structured SQLite database.
 
 ## Repository Coverage
-- **Dryad (Repository #2)**: Scientific data repository
+- **Dryad (Repository #2)**: Open data publishing platform
 - **FSD (Repository #11)**: Finnish Social Science Data Archive
 
 ## Query Strategy
@@ -133,13 +133,13 @@ python pipeline.py --export
 ### FSD Repository
 
 - **Projects**: 402 qualitative datasets
-- **Level A (Open Access)**: 7 projects identified
+- **Level A (Open Access)**: 7 projects and files identified
 - **Metadata**: Complete (titles, descriptions, authors, keywords, licenses, etc.)
 
 ### Dryad Repository
 
 - **Projects**: 247
-- **Downloads**: 1096
+- **Downloads**: 1096 files
 - **Metadata**: Complete (titles, descriptions, authors, keywords, licenses, etc.)
 
 ## Output and Data Location
