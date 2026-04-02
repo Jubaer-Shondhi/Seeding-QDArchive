@@ -1,0 +1,2880 @@
+id,project_id,name,role
+1,1,"Shearman, Samantha Grace",AUTHOR
+2,1,"Hodges, Alison",AUTHOR
+3,1,"Butler, Jane",AUTHOR
+4,2,"Akinyemi, Oluwaseun",AUTHOR
+5,3,"Mitchell-Jones, Nicola",AUTHOR
+6,3,"Farren, Jessica A.",AUTHOR
+7,3,"Tobias, Aurelio",AUTHOR
+8,3,"Bourne, Tom",AUTHOR
+9,3,"Bottomley, Cecilia",AUTHOR
+10,4,"Pirzio Biroli, Alessandro",AUTHOR
+11,5,"Chiranjeevi, Shivani",AUTHOR
+12,5,"Jubery, Talukder Zaki",AUTHOR
+13,5,"Rairdin, Ashlyn",AUTHOR
+14,5,"Dutta, Somak",AUTHOR
+15,5,"Ganapathysubramanian, Baskar",AUTHOR
+16,5,"Singh, Arti",AUTHOR
+17,5,"Chiteri, Kevin",AUTHOR
+18,6,"Yagasaki, Kaori",AUTHOR
+19,6,"Komatsu, Hiroko",AUTHOR
+20,6,"Takahashi, Tsunehiro",AUTHOR
+21,7,"Layton, Alison M.",AUTHOR
+22,7,"Eady, Elizabeth Anne",AUTHOR
+23,7,"Peat, Maggie",AUTHOR
+24,7,"Whitehouse, Heather",AUTHOR
+25,7,"Levell, Nick J.",AUTHOR
+26,7,"Ridd, Matthew J.",AUTHOR
+27,7,"Cowdell, Fiona",AUTHOR
+28,7,"Patel, Mahendra G.",AUTHOR
+29,7,"Andrews, Stephen",AUTHOR
+30,7,"Oxnard, Christine",AUTHOR
+31,7,"Fenton, Mark",AUTHOR
+32,7,"Firkins, Lester",AUTHOR
+33,8,"Palacios-Ceña, Domingo",AUTHOR
+34,8,"Cachón-Pérez, José Miguel",AUTHOR
+35,8,"Martínez-Piedrola, Rosa",AUTHOR
+36,8,"Gueita-Rodriguez, Javier",AUTHOR
+37,8,"Perez-de-Heredia, Marta",AUTHOR
+38,8,"Fernández-de-las-Peñas, Cesar",AUTHOR
+39,9,"Wang, Qiaohong",AUTHOR
+40,9,"Chen, Yiping",AUTHOR
+41,9,"Li, Linbo",AUTHOR
+42,9,"Li, Chao",AUTHOR
+43,9,"Li, Li",AUTHOR
+44,9,"Cao, Huili",AUTHOR
+45,9,"Yang, Hui",AUTHOR
+46,10,"Shipley, Jessica",AUTHOR
+47,10,"Luker, Julie",AUTHOR
+48,10,"Thijs, Vincent",AUTHOR
+49,10,"Bernhardt, Julie",AUTHOR
+50,11,"Underwood, Raphael",AUTHOR
+51,11,"Kilner, Rachael",AUTHOR
+52,11,"Ridsdale, Leone",AUTHOR
+53,12,"Daftary, Rajesh K.",AUTHOR
+54,12,"Murray, Brittany L.",AUTHOR
+55,12,"Reynolds, Teri A.",AUTHOR
+56,13,"Kuta, Victoria",AUTHOR
+57,13,"Curry, Lauren",AUTHOR
+58,13,"McNeely, P. Daniel",AUTHOR
+59,13,"Walling, Simon",AUTHOR
+60,13,"Chorney, Jill M.",AUTHOR
+61,13,"Bezuhly, Michael",AUTHOR
+62,14,"Hajjar, Rima",AUTHOR
+63,14,"Bassatne, Aya",AUTHOR
+64,14,"Cheaito, Mohamad Ali",AUTHOR
+65,14,"Naser El Dine, Rabie",AUTHOR
+66,14,"Traboulsy, Sarah",AUTHOR
+67,14,"Haddadin, Fadi",AUTHOR
+68,14,"Honein-AbouHaidar, Gladys",AUTHOR
+69,14,"Akl, Elie A.",AUTHOR
+70,15,"Chelagat, Tecla",AUTHOR
+71,15,"Onyango, Joseph",AUTHOR
+72,15,"Kokwaro, Gilbert",AUTHOR
+73,15,"Rice, Jim",AUTHOR
+74,16,"Menang, Olga",AUTHOR
+75,16,"de Soyres-Kuemmerle, Andrea",AUTHOR
+76,16,"Maigetter, Karen",AUTHOR
+77,16,"Burri, Christian",AUTHOR
+78,17,"Han, Jiabei",AUTHOR
+79,18,"Montagu, Dominic",AUTHOR
+80,18,"Suchman, Lauren",AUTHOR
+81,19,"Gantayat, Nishan",AUTHOR
+82,20,"Lundeen, Tiffany",AUTHOR
+83,20,"Butrick, Elizabeth",AUTHOR
+84,20,"Walker, Dilys",AUTHOR
+85,20,"Azman, Hana",AUTHOR
+86,20,"Musange, Sabine",AUTHOR
+87,20,"Nzeyimana, David",AUTHOR
+88,20,"Murindahabi, Nathalie",AUTHOR
+89,21,"Hirschhorn, Lisa",AUTHOR
+90,21,"Frisch, Miriam",AUTHOR
+91,21,"Ntawukuriryayo, Jovial Thomas",AUTHOR
+92,21,"VanderZanden, Amelia",AUTHOR
+93,21,"Donahoe, Kateri",AUTHOR
+94,21,"Mathewos, Kedest",AUTHOR
+95,21,"Sayinzoga, Felix",AUTHOR
+96,21,"Binagwaho, Agnes",AUTHOR
+97,22,"Maggio, Lauren A.",AUTHOR
+98,22,"Moorhead, Laura L.",AUTHOR
+99,22,"Willinsky, John M.",AUTHOR
+100,23,"Doumayrou, Juliette",AUTHOR
+101,23,"Leblaye, Sophie",AUTHOR
+102,23,"Froissart, Rémy",AUTHOR
+103,23,"Michalakis, Yannis",AUTHOR
+104,24,"Ahern, Leanne",AUTHOR
+105,25,"McTavish, Jill R.",AUTHOR
+106,25,"Kimber, Melissa",AUTHOR
+107,25,"Devries, Karen",AUTHOR
+108,25,"Colombini, Manuela",AUTHOR
+109,25,"MacGregor, Jennifer C.D.",AUTHOR
+110,25,"Wathen, C. Nadine",AUTHOR
+111,25,"Agarwal, Arnav",AUTHOR
+112,25,"MacMillan, Harriet L.",AUTHOR
+113,26,"Boru, Waqo",AUTHOR
+114,26,"Makalliwa, George",AUTHOR
+115,26,"Musita, Caroline",AUTHOR
+116,27,"Nap, Henk Herman",AUTHOR
+117,27,"Hoefman, Renske",AUTHOR
+118,27,"de Jong, Nynke",AUTHOR
+119,27,"Lovink, Lieke",AUTHOR
+120,27,"Glimmerveen, Ludo",AUTHOR
+121,27,"Lewis, Feylyn",AUTHOR
+122,27,"Santini, Sara",AUTHOR
+123,27,"D’Amen, Barbara",AUTHOR
+124,27,"Socci, Marco",AUTHOR
+125,27,"Boccaletti, Licia",AUTHOR
+126,27,"Casu, Giulia",AUTHOR
+127,27,"Manattini, Alessandra",AUTHOR
+128,27,"Brolin, Rosita",AUTHOR
+129,27,"Sirk, Karina",AUTHOR
+130,27,"Hlebec, Valentina",AUTHOR
+131,27,"Rakar, Tatjana",AUTHOR
+132,27,"Hudobivnik, Tjasa",AUTHOR
+133,27,"Leu, Agnes",AUTHOR
+134,27,"Berger, Fabian",AUTHOR
+135,27,"Magnusson, Lennart",AUTHOR
+136,27,"Hanson, Elizabeth",AUTHOR
+137,28,"Kananura, Jean Louis",AUTHOR
+138,28,"S.Phiri, Kamija",AUTHOR
+139,28,"C.rono, Betsy",AUTHOR
+140,29,"Brondani, Mario",AUTHOR
+141,30,"Kahane, Fay",AUTHOR
+142,30,"Ralph, Melissa",AUTHOR
+143,30,"Shaw, Rosalind",AUTHOR
+144,31,"Eilon, Zachary",AUTHOR
+145,32,"Feleke, Zinabie",AUTHOR
+146,32,"Seyoum, Habtamu",AUTHOR
+147,32,"Abebe, Yigeremu",AUTHOR
+148,32,"Bikila, Dinkineh",AUTHOR
+149,32,"Yaregal, Alebel",AUTHOR
+150,32,"Ali, Seid",AUTHOR
+151,32,"Demisie, Amsalu",AUTHOR
+152,32,"Fisseha, Salem",AUTHOR
+153,32,"Battu, Audrey",AUTHOR
+154,32,"Lam, Felix",AUTHOR
+155,32,"Bayisa, Regasa",AUTHOR
+156,33,"Chematia, Hazel",AUTHOR
+157,33,"Karanja, Simon",AUTHOR
+158,33,"Kiilu, Elizabeth",AUTHOR
+159,34,"Rocchi, Valérie",AUTHOR
+160,34,"Brissaud, Daniel",AUTHOR
+161,35,"Atukunda, Mucunguzi",AUTHOR
+162,35,"Charlebois, Edwin",AUTHOR
+163,35,"Byamukama, Ambrose",AUTHOR
+164,35,"Twinamatsiko, Brian",AUTHOR
+165,35,"Ayebare, Michael",AUTHOR
+166,35,"Mutabazi, Andrew",AUTHOR
+167,35,"Akatukwasa, Cecilia",AUTHOR
+168,35,"Tindimwebwa, Winston",AUTHOR
+169,35,"Asiimwe, Alan",AUTHOR
+170,35,"Arinitwe, Elizabeth",AUTHOR
+171,35,"Nangendo, Joan",AUTHOR
+172,35,"Tumusiime, Justus",AUTHOR
+173,35,"Okello, Emmy",AUTHOR
+174,35,"Mutungi, Gerald",AUTHOR
+175,35,"Grosskurth, Heiner",AUTHOR
+176,35,"Kamya, Moses",AUTHOR
+177,35,"Balzer, Laura",AUTHOR
+178,35,"Lavoy, Geoffrey",AUTHOR
+179,35,"Kabami, Jane",AUTHOR
+180,36,"Virág, Attila",AUTHOR
+181,36,"Karádi, Viktor",AUTHOR
+182,37,"Fletcher, Benjamin",AUTHOR
+183,37,"Gheorghe, Adrian",AUTHOR
+184,37,"Moore, David",AUTHOR
+185,37,"Wilson, Sue",AUTHOR
+186,37,"Damery, Sarah",AUTHOR
+187,38,"McCallum, Andrew D.",AUTHOR
+188,38,"Nyirenda, Deborah",AUTHOR
+189,38,"Lora, Wezzie",AUTHOR
+190,38,"Khoo, Saye H.",AUTHOR
+191,38,"Sloan, Derek J.",AUTHOR
+192,38,"Mwandumba, Henry C.",AUTHOR
+193,38,"Desmond, Nicola",AUTHOR
+194,38,"Davies, Geraint R.",AUTHOR
+195,39,"Humphrey, Eve",AUTHOR
+196,40,"Davis, Hilary",AUTHOR
+197,40,"Nickels, Colin",AUTHOR
+198,41,"Yuhe, Lin",AUTHOR
+199,41,"Yongbo, Tan",AUTHOR
+200,41,"Junhao, Yu",AUTHOR
+201,41,"Qi, Qi",AUTHOR
+202,41,"Bin, Wu",AUTHOR
+203,41,"Weitao, Lyu",AUTHOR
+204,42,"Jamie, Gabriel",AUTHOR
+205,42,"van Belleghem, Steven M.",AUTHOR
+206,42,"Hogan, Benedict G.",AUTHOR
+207,42,"Hamama, Silky",AUTHOR
+208,42,"Moya, Collins",AUTHOR
+209,42,"Troscianko, Jolyon",AUTHOR
+210,42,"Stoddard, Mary",AUTHOR
+211,42,"Kilner, Rebecca",AUTHOR
+212,42,"Spottiswoode, Claire",AUTHOR
+213,43,"Briscoe Runquist, Ryan",AUTHOR
+214,43,"Gorton, Amanda",AUTHOR
+215,43,"Yoder, Jeremy",AUTHOR
+216,43,"Deacon, Nicholas",AUTHOR
+217,43,"Grossman, Jake",AUTHOR
+218,43,"Kothari, Shan",AUTHOR
+219,43,"Lyons, Marta",AUTHOR
+220,43,"Sheth, Seema",AUTHOR
+221,43,"Tiffin, Peter",AUTHOR
+222,43,"Moeller, David",AUTHOR
+223,44,"Hartung, Daniel M.",AUTHOR
+224,44,"Alley, Lindsey",AUTHOR
+225,44,"Johnston, Kirbee A.",AUTHOR
+226,44,"Bourdette, Dennis",AUTHOR
+227,45,"Makowicz, Amber M.",AUTHOR
+228,45,"Travis, Joseph",AUTHOR
+229,46,"Lituiev, Dmytro",AUTHOR
+230,47,"Oduor, A. M. O.",AUTHOR
+231,48,"Torres-Vanegas, Felipe",AUTHOR
+232,48,"Temesvári, Vanda",AUTHOR
+233,48,"García, Yedra",AUTHOR
+234,48,"Friberg, Magne",AUTHOR
+235,48,"Opedal, Øystein",AUTHOR
+236,49,"Peters, Carson",AUTHOR
+237,49,"Greve, Joan",AUTHOR
+238,49,"Karbasi, Arvin",AUTHOR
+239,49,"Walker, Michelle",AUTHOR
+240,49,"Adesanya, Luyi",AUTHOR
+241,49,"Gamble-George, Joyonna",AUTHOR
+242,49,"Redmond, Nicole",AUTHOR
+243,49,"Adjei, Brenda",AUTHOR
+244,49,"Olufemi, Olufunmilola",AUTHOR
+245,50,"Cha, Yoonha",AUTHOR
+246,50,"Jackson, Victoria",AUTHOR
+247,50,"Shu, Lauren",AUTHOR
+248,50,"van der Hoek, Andre",AUTHOR
+249,50,"Branham, Stacy",AUTHOR
+250,51,"Roch, Cassandra",AUTHOR
+251,51,"Klein, Shannon G.",AUTHOR
+252,51,"Angulo-Preckler, Carlos",AUTHOR
+253,51,"Hutahaean, Andreas A.",AUTHOR
+254,51,"Wambugu, Joshua",AUTHOR
+255,51,"Yranzo-Duque, Anaurora",AUTHOR
+256,51,"Alamoudi, Taiba",AUTHOR
+257,51,"Naseem, Aya",AUTHOR
+258,51,"Gonzalez-Diaz, Patricia",AUTHOR
+259,51,"Jiddawi, Narriman",AUTHOR
+260,51,"Pluma, Naira",AUTHOR
+261,51,"Algethami, Bashaer",AUTHOR
+262,51,"Duarte, Carlos M.",AUTHOR
+263,52,"Hernández Gutierrez, Kevin Amilcar",AUTHOR
+264,52,"Hernández, César",AUTHOR
+265,52,"Díaz, Doria América",AUTHOR
+266,53,"Jackson, Victoria",AUTHOR
+267,53,"Liu, Susannah",AUTHOR
+268,53,"van der Hoek, Andre",AUTHOR
+269,54,"Eyre-Walker, Adam",AUTHOR
+270,54,"Stoletzki, Nina",AUTHOR
+271,55,"Fabiani, Iacopo",AUTHOR
+272,55,"Palombo, Carlo",AUTHOR
+273,55,"Caramella, Davide",AUTHOR
+274,55,"Nilsson, Jan",AUTHOR
+275,55,"De Caterina, Raffaele",AUTHOR
+276,56,"Alothman, Shaima",AUTHOR
+277,57,"Weisshaupt, Nadja",AUTHOR
+278,57,"Lehmann, Volker",AUTHOR
+279,57,"Arizaga, Juan",AUTHOR
+280,57,"Maruri, Mercedes",AUTHOR
+281,58,"Milton, Shakira",AUTHOR
+282,58,"McIntosh, Jennifer",AUTHOR
+283,58,"Yogaparan, Thivagar",AUTHOR
+284,58,"Alphonse, Pavithran",AUTHOR
+285,58,"Saya, Sibel",AUTHOR
+286,58,"Karnchanachari, Napin",AUTHOR
+287,58,"Nguyen, Peter",AUTHOR
+288,58,"Lau, Phyllis",AUTHOR
+289,58,"Macrae, Finlay",AUTHOR
+290,58,"Emery, Jon",AUTHOR
+291,59,"Kassaye, Solomon",AUTHOR
+292,59,"Gebreselassie, Wosene",AUTHOR
+293,59,"Lulekal, Ermias",AUTHOR
+294,60,"Afghani, Behnoosh",AUTHOR
+295,60,"Zhu, Jenny",AUTHOR
+296,61,"Pound, Pandora",AUTHOR
+297,61,"Ram, Rebecca",AUTHOR
+298,62,"Krueger, Kristin L.",AUTHOR
+299,62,"Towle, Ian",AUTHOR
+300,62,"Matthews, Gregory J.",AUTHOR
+301,62,"Hlusko, Leslea J.",AUTHOR
+302,63,"Varghese, Joe",AUTHOR
+303,63,"Kutty, V.",AUTHOR
+304,63,"Ramanathan, Mala",AUTHOR
+305,64,"Tameling, Jan-Filip",AUTHOR
+306,64,"Lohöfener, Mareike",AUTHOR
+307,64,"Bereznai, Judith",AUTHOR
+308,64,"Tran, Thi Phuobg Anh",AUTHOR
+309,64,"Ritter, Marie",AUTHOR
+310,64,"Boos, Margarete",AUTHOR
+311,65,"Samuelson, Ash E.",AUTHOR
+312,65,"Leadbeater, Ellouise",AUTHOR
+313,66,"Miovsky, Nicole",AUTHOR
+314,66,"Woodworth, Amanda",AUTHOR
+315,66,"Schneider, Margaret",AUTHOR
+316,67,"Green, Alix E.",AUTHOR
+317,67,"Chadwick, Michael A.",AUTHOR
+318,67,"Unsworth, Richard K.F.",AUTHOR
+319,67,"Jones, Peter J.S.",AUTHOR
+320,68,"Pirie, Emma",AUTHOR
+321,69,"Davis, Katrina",AUTHOR
+322,69,"Chades, Iadine",AUTHOR
+323,69,"Rhodes, Jonathan",AUTHOR
+324,69,"Bode, Michael",AUTHOR
+325,70,"Spence, Caroline",AUTHOR
+326,70,"Jenkins, Sarah",AUTHOR
+327,70,"Osman, Magda",AUTHOR
+328,71,"Anderson, Sophia",AUTHOR
+329,71,"Cox, Philip",AUTHOR
+330,71,"Fitton, Laura",AUTHOR
+331,71,"Bates, Karl",AUTHOR
+332,71,"Gálvez-López, Eloy",AUTHOR
+333,72,"Brockett, Beth F. T.",AUTHOR
+334,72,"Browne, Alison L.",AUTHOR
+335,72,"Beanland, Andy",AUTHOR
+336,72,"Whitfield, Mike G.",AUTHOR
+337,72,"Watson, Nigel",AUTHOR
+338,72,"Blackburn, George Alan",AUTHOR
+339,72,"Bardgett, Richard D.",AUTHOR
+340,73,"Cramer, Emily",AUTHOR
+341,73,"Lifjeld, Jan T.",AUTHOR
+342,73,"Grønstøl, Gaute",AUTHOR
+343,74,"Andersen, Tom",AUTHOR
+344,74,"Hessen, Dag O.",AUTHOR
+345,74,"Håll, Johnny",AUTHOR
+346,74,"Khomich, Maryia",AUTHOR
+347,74,"Kyle, Marcia",AUTHOR
+348,74,"Lindholm, Markus",AUTHOR
+349,74,"Rasconi, Serana",AUTHOR
+350,74,"Skjelbred, Birger",AUTHOR
+351,74,"Thrane, Jan-Erik",AUTHOR
+352,74,"Walseng, Bjørn",AUTHOR
+353,75,"Waggitt, James",AUTHOR
+354,76,"Cerioni, Matteo",AUTHOR
+355,76,"Brabec, Marek",AUTHOR
+356,76,"Bače, Radek",AUTHOR
+357,76,"Bāders, Endijs",AUTHOR
+358,76,"Bončina, Andrej",AUTHOR
+359,76,"Brůna, Josef",AUTHOR
+360,76,"Chećko, Ewa",AUTHOR
+361,76,"Cordonnier, Thomas",AUTHOR
+362,76,"de Koning, Johannes H.C.",AUTHOR
+363,76,"Jurij, Diaci",AUTHOR
+364,76,"Dobrowolska, Dorota",AUTHOR
+365,76,"Dountchev, Alexander",AUTHOR
+366,76,"Engelhart, Jeroen",AUTHOR
+367,76,"Fidej, Gal",AUTHOR
+368,76,"Fuhr, Marc",AUTHOR
+369,76,"Garbarino, Matteo",AUTHOR
+370,76,"Jansons, Āris",AUTHOR
+371,76,"Keren, Srdjan",AUTHOR
+372,76,"Kitenberga, Māra",AUTHOR
+373,76,"Klopčič, Matija",AUTHOR
+374,76,"Konôpka, Bohdan",AUTHOR
+375,76,"Kopecký, Martin",AUTHOR
+376,76,"Köster, Kajar",AUTHOR
+377,76,"Kucbel, Stanislav",AUTHOR
+378,76,"Lacombe, Eric",AUTHOR
+379,76,"Laurent, Lisa",AUTHOR
+380,76,"Leyman, Anja",AUTHOR
+381,76,"Lingua, Emanuele",AUTHOR
+382,76,"Macek, Martin",AUTHOR
+383,76,"Maciejewski, Zbigniew",AUTHOR
+384,76,"Malandra, Francesco",AUTHOR
+385,76,"Marzano, Raffaella",AUTHOR
+386,76,"Metslaid, Marek",AUTHOR
+387,76,"Morresi, Donato",AUTHOR
+388,76,"Panayotov, Momchil",AUTHOR
+389,76,"Pawlak, Bogdan",AUTHOR
+390,76,"Pittner, Ján",AUTHOR
+391,76,"Šebeň, Vladimír",AUTHOR
+392,76,"Socha, Jarosław",AUTHOR
+393,76,"Svoboda, Miroslav",AUTHOR
+394,76,"Szwagrzyk, Jerzy",AUTHOR
+395,76,"Tsvetanov, Nickolay",AUTHOR
+396,76,"Urbinati, Carlo",AUTHOR
+397,76,"Vallet, Patrick",AUTHOR
+398,76,"Van de Kerckhove, Peter",AUTHOR
+399,76,"Vandekerkhove, Kris",AUTHOR
+400,76,"Vencurik, Jaroslav",AUTHOR
+401,76,"Vitali, Alessandro",AUTHOR
+402,76,"Vodde, Floortje",AUTHOR
+403,76,"Wild, Jan",AUTHOR
+404,76,"Nagel, Thomas A.",AUTHOR
+405,77,"Francisco, Micanaldo Ernesto",AUTHOR
+406,77,"Carvajal, Thaddeus",AUTHOR
+407,77,"Watanabe, Kozo",AUTHOR
+408,78,"Altaras, Robin",AUTHOR
+409,78,"Nuwa, Anthony",AUTHOR
+410,78,"Agaba, Bosco",AUTHOR
+411,78,"Streat, Elizabeth",AUTHOR
+412,78,"Tibenderana, James K.",AUTHOR
+413,78,"Martin, Sandrine",AUTHOR
+414,78,"Strachan, Clare E.",AUTHOR
+415,79,"Bonsma-Fisher, Madeleine",AUTHOR
+416,79,"Goyal, Sidhartha",AUTHOR
+417,80,"Fischer, Valentin",AUTHOR
+418,80,"Bennion, Rebecca",AUTHOR
+419,80,"Foffa, Davide",AUTHOR
+420,80,"MacLaren, Jamie",AUTHOR
+421,80,"McCurry, Matthew",AUTHOR
+422,80,"Melstrom, Keegan",AUTHOR
+423,80,"Bardet, Nathalie",AUTHOR
+424,81,"Barychka, Tatsiana",AUTHOR
+425,81,"Mace, Georgina",AUTHOR
+426,81,"Purves, Drew",AUTHOR
+427,82,"Buckingham, Lydia",AUTHOR
+428,82,"Ashby, Ben",AUTHOR
+429,83,"Mendes Ferreira, Helena",AUTHOR
+430,83,"Alves, Denise",AUTHOR
+431,83,"Cool, Lloyd",AUTHOR
+432,83,"Oi, Cintia",AUTHOR
+433,83,"Oliveira, Ricardo",AUTHOR
+434,83,"Wenseleers, Tom",AUTHOR
+435,84,"Starr, Richard M.",AUTHOR
+436,84,"Wendt, Dean E.",AUTHOR
+437,84,"Barnes, Cheryl L.",AUTHOR
+438,84,"Marks, Corina I.",AUTHOR
+439,84,"Malone, Dan",AUTHOR
+440,84,"Waltz, Grant",AUTHOR
+441,84,"Schmidt, Katherine T.",AUTHOR
+442,84,"Chiu, Jennifer",AUTHOR
+443,84,"Launer, Andrea L.",AUTHOR
+444,84,"Hall, Nathan C.",AUTHOR
+445,84,"Yochum, Noelle",AUTHOR
+446,85,"Kritskaya, Tatyana",AUTHOR
+447,85,"Kashin, Alexandr",AUTHOR
+448,85,"Bogoslov, Artem",AUTHOR
+449,85,"Shilova, Irina",AUTHOR
+450,85,"Parkhomenko, Alena",AUTHOR
+451,85,"Ishmuratova, Maya",AUTHOR
+452,85,"Fedorov, Nikolai",AUTHOR
+453,86,"Gutiérrez-Arellano, Claudia",AUTHOR
+454,86,"Crone, Elizabeth",AUTHOR
+455,86,"Pettorelli, Nathalie",AUTHOR
+456,86,"Hodgson, Jenny",AUTHOR
+457,87,"Jaworski, Coline",AUTHOR
+458,87,"Geslin, Benoît",AUTHOR
+459,87,"Zakardjian, Marie",AUTHOR
+460,87,"Lecareux, Caroline",AUTHOR
+461,87,"Caillault, Pauline",AUTHOR
+462,87,"Nève, Gabriel",AUTHOR
+463,87,"Meunier, Jean-Yves",AUTHOR
+464,87,"Dupouyet, Sylvie",AUTHOR
+465,87,"Sweeney, Aoife",AUTHOR
+466,87,"Lewis, Owen",AUTHOR
+467,87,"Dicks, Lynn",AUTHOR
+468,87,"Fernandez, Catherine",AUTHOR
+469,88,"Rodrigues do Prado, Joyce",AUTHOR
+470,88,"Prado, Joyce R.",AUTHOR
+471,88,"Percequillo, Alexandre R.",AUTHOR
+472,88,"Thomaz, Andréa T.",AUTHOR
+473,88,"Knowles, L. Lacey",AUTHOR
+474,89,"Ore, Madelyn",AUTHOR
+475,89,"Wang, Silu",AUTHOR
+476,89,"Irwin, Darren E.",AUTHOR
+477,90,"Knell, Robert",AUTHOR
+478,90,"Parrett, Jonathan M.",AUTHOR
+479,91,"Mason, Chase",AUTHOR
+480,91,"Bahmani, Keivan",AUTHOR
+481,91,"Robinson, Anestacia",AUTHOR
+482,91,"Majumder, Sambadi",AUTHOR
+483,91,"LaVardera, Angelina",AUTHOR
+484,91,"Dowell, Jordan A.",AUTHOR
+485,91,"Goolsby, Eric W.",AUTHOR
+486,92,"Ciftci, Almıla",AUTHOR
+487,92,"Bostanci Ordu, Pinar Idil",AUTHOR
+488,92,"Erol, Osman",AUTHOR
+489,92,"Sık, Levent",AUTHOR
+490,92,"Mollman, Rachel",AUTHOR
+491,92,"Yazici, Ceyda",AUTHOR
+492,92,"Abudurusuli, Aihaiti",AUTHOR
+493,93,"Etzler, Erik",AUTHOR
+494,93,"ter Hofstede, Hannah",AUTHOR
+495,93,"Ratcliffe, John",AUTHOR
+496,94,"Tadiri, Christina",AUTHOR
+497,95,"Pérez-Pinedo, Daniel",AUTHOR
+498,95,"Neville, Jenna M.",AUTHOR
+499,95,"Pasinetti, Giovanni",AUTHOR
+500,95,"McKean, Christopher",AUTHOR
+501,95,"Taylor, Rod",AUTHOR
+502,95,"McIlroy, Duncan",AUTHOR
+503,96,"Delaplane, Keith",AUTHOR
+504,96,"Hagan, Katherine",AUTHOR
+505,96,"Vogel, Kevin",AUTHOR
+506,96,"Bartlett, Lewis",AUTHOR
+507,97,"Haavisto, Fiia",AUTHOR
+508,97,"Jormalainen, Veijo",AUTHOR
+509,98,"Foster, Charles",AUTHOR
+510,98,"Van Dyke, James",AUTHOR
+511,98,"Thompson, Michael",AUTHOR
+512,98,"Smith, Nicholas",AUTHOR
+513,98,"Simpfendorfer, Colin",AUTHOR
+514,98,"Murphy, Christopher",AUTHOR
+515,98,"Whittington, Camilla",AUTHOR
+516,99,"Kasimatis, Katja",AUTHOR
+517,99,"Rehaluk, Christine",AUTHOR
+518,99,"Rowe, Locke",AUTHOR
+519,99,"Cutter, Asher",AUTHOR
+520,100,"Lempidakis, Emmanouil",AUTHOR
+521,100,"Ross, Andrew N.",AUTHOR
+522,100,"Quetting, Michael",AUTHOR
+523,100,"Garde, Baptiste",AUTHOR
+524,100,"Wikelski, Martin",AUTHOR
+525,101,"Atake, Oghenevwogaga J.",AUTHOR
+526,101,"Berio, Fidji",AUTHOR
+527,101,"Debiais-Thibaud, Melanie",AUTHOR
+528,101,"Eames, B. Frank",AUTHOR
+529,102,"Nixon, Andrew",AUTHOR
+530,102,"Bampouras, Theodoros",AUTHOR
+531,102,"Gooch, Helen",AUTHOR
+532,102,"Young, Hannah",AUTHOR
+533,102,"Finlayson, Kenneth",AUTHOR
+534,102,"Pendleton, Neil",AUTHOR
+535,102,"Mitra, Sandip",AUTHOR
+536,102,"Brady, Mark",AUTHOR
+537,102,"Dhaygude, Ajay",AUTHOR
+538,103,"Le Goff, Anne",AUTHOR
+539,103,"Baranger, Claire",AUTHOR
+540,103,"Fayeulle, Antoine",AUTHOR
+541,104,"Huang, Jun",AUTHOR
+542,104,"Liu, Yuting",AUTHOR
+543,104,"Zhu, Tianqi",AUTHOR
+544,104,"Yang, Ziheng",AUTHOR
+545,105,"Dracxler, Caroline M.",AUTHOR
+546,105,"Kissling, W. Daniel",AUTHOR
+547,106,"Silk, Matthew",AUTHOR
+548,106,"Gimenez, Olivier",AUTHOR
+549,107,"Angelaki, Maria",AUTHOR
+550,107,"Donaldson, D. James",AUTHOR
+551,107,"Perrier, Sébastien",AUTHOR
+552,107,"Riva, Matthieu",AUTHOR
+553,107,"George, Christian",AUTHOR
+554,108,"Schuster, Lukas",AUTHOR
+555,108,"Cameron, Hayley",AUTHOR
+556,108,"White, Craig",AUTHOR
+557,108,"Marshall, Dustin",AUTHOR
+558,109,"Hoellerer, Nicole",AUTHOR
+559,109,"Gill, Nick",AUTHOR
+560,110,"McTavish, Jill R.",AUTHOR
+561,110,"McKee, Christine",AUTHOR
+562,110,"MacMillan, Harriet",AUTHOR
+563,111,"Osborne, Andrew",AUTHOR
+564,111,"Longden, Mike",AUTHOR
+565,111,"Bourke, Dave",AUTHOR
+566,111,"Coulthard, Emma",AUTHOR
+567,112,"Henriques, Gil",AUTHOR
+568,112,"Osmond, Matthew",AUTHOR
+569,113,"Gunter, Helen",AUTHOR
+570,114,"Schneemann, Hilde",AUTHOR
+571,114,"Munzur, Asli",AUTHOR
+572,114,"Thompson, Ken",AUTHOR
+573,114,"Welch, John",AUTHOR
+574,115,"Lee, Jong-Min",AUTHOR
+575,116,"Chen, Cheng",AUTHOR
+576,116,"Emperauger, Gabriel",AUTHOR
+577,116,"Bornet, Guillaume",AUTHOR
+578,116,"Caleca, Filippo",AUTHOR
+579,116,"Gély, Bastien",AUTHOR
+580,116,"Bintz, Marcus",AUTHOR
+581,116,"Chatterjee, Shubhayu",AUTHOR
+582,116,"Liu, Vincent",AUTHOR
+583,116,"Barredo, Daniel",AUTHOR
+584,116,"Yao, Norman",AUTHOR
+585,116,"Lahaye, Thierry",AUTHOR
+586,116,"Mezzacapo, Fabio",AUTHOR
+587,116,"Roscilde, Tommaso",AUTHOR
+588,116,"Browaeys, Antoine",AUTHOR
+589,117,"Nicholls, Stuart G.",AUTHOR
+590,117,"Quach, Pauline",AUTHOR
+591,117,"von Elm, Erik",AUTHOR
+592,117,"Guttmann, Astrid",AUTHOR
+593,117,"Moher, David",AUTHOR
+594,117,"Petersen, Irene",AUTHOR
+595,117,"Sørensen, Henrik T.",AUTHOR
+596,117,"Smeeth, Liam",AUTHOR
+597,117,"Langan, Sinéad M.",AUTHOR
+598,117,"Benchimol, Eric I.",AUTHOR
+599,118,"Leeson, Laura",AUTHOR
+600,119,"Viacava, Pietro",AUTHOR
+601,119,"Weisbecker, Vera",AUTHOR
+602,119,"Blomberg, Simone P.",AUTHOR
+603,119,"Sansalone, Gabriele",AUTHOR
+604,119,"Guillerme, Thomas",AUTHOR
+605,119,"Cameron, Skye F.",AUTHOR
+606,119,"Wilson, Robbie S.",AUTHOR
+607,119,"Phillips, Matthew J.",AUTHOR
+608,120,"Viros, Justine",AUTHOR
+609,120,"Santonja, Mathieu",AUTHOR
+610,120,"Temime-Roussel, Brice",AUTHOR
+611,120,"Wortham, Henri",AUTHOR
+612,120,"Fernandez, Catherine",AUTHOR
+613,120,"Ormeño, Elena",AUTHOR
+614,121,"Hoedjes, Katja",AUTHOR
+615,121,"Kostic, Hristina",AUTHOR
+616,121,"Keller, Laurent",AUTHOR
+617,121,"Flatt, Thomas",AUTHOR
+618,122,"Rafajlovic, Marina",AUTHOR
+619,122,"Rambla, Jordi",AUTHOR
+620,122,"Feder, Jeffrey L.",AUTHOR
+621,122,"Navarro, Arcadi",AUTHOR
+622,122,"Faria, Rui",AUTHOR
+623,123,"Tettamanti, Valerio",AUTHOR
+624,123,"de Busserolles, Fanny",AUTHOR
+625,123,"Lecchini, David",AUTHOR
+626,123,"Marshall, N. Justin",AUTHOR
+627,123,"Cortesi, Fabio",AUTHOR
+628,124,"Hanspach, Jan",AUTHOR
+629,124,"Haider, L. Jamila",AUTHOR
+630,124,"Oteris-Rozas, Elisa",AUTHOR
+631,124,"Stahl Olafsson, Anton",AUTHOR
+632,124,"Gulsrud, Natalie",AUTHOR
+633,124,"Raymond, Chris",AUTHOR
+634,124,"Torralba, Mario",AUTHOR
+635,124,"Martín-López, Berta",AUTHOR
+636,124,"Bieling, Claudia",AUTHOR
+637,124,"García Martín, María",AUTHOR
+638,124,"Albert, Christian",AUTHOR
+639,124,"Beery, Thomas",AUTHOR
+640,124,"Fagerholm, Nora",AUTHOR
+641,124,"Díaz-Reviriego, Isabel",AUTHOR
+642,124,"Drews-Shambroom, Annika",AUTHOR
+643,124,"Plieninger, Tobias",AUTHOR
+644,125,"Sundram, Pushpanathan",AUTHOR
+645,126,"Miller, Emily",AUTHOR
+646,126,"Miller, Jennifer",AUTHOR
+647,126,"Rao, Anoushka",AUTHOR
+648,126,"Ward-Lev, Eliana",AUTHOR
+649,126,"Halley, Meghan",AUTHOR
+650,127,"Bowsher, Julia",AUTHOR
+651,127,"Slater, Garett",AUTHOR
+652,127,"Yocum, George",AUTHOR
+653,128,"Astudillo-Clavijo, Viviana",AUTHOR
+654,128,"Mankis, Tobias",AUTHOR
+655,128,"López-Fernández, Hernán",AUTHOR
+656,129,"Hoedjes, Katja",AUTHOR
+657,129,"van den Heuvel, Joost",AUTHOR
+658,129,"Kapun, Martin",AUTHOR
+659,129,"Keller, Laurent",AUTHOR
+660,129,"Flatt, Thomas",AUTHOR
+661,129,"Zwaan, Bas",AUTHOR
+662,130,"Caldart, Vinícius Matheus",AUTHOR
+663,130,"dos Santos, Maurício Beux",AUTHOR
+664,130,"Machado, Glauco",AUTHOR
+665,131,"Princepe, Debora",AUTHOR
+666,131,"Aguiar, Marcus",AUTHOR
+667,132,"Iwata, Yoko",AUTHOR
+668,132,"Sato, Noriyosi",AUTHOR
+669,132,"Hirohashi, Noritaka",AUTHOR
+670,132,"Watanabe, Yoshiro",AUTHOR
+671,132,"Sauer, Warwick",AUTHOR
+672,132,"Shaw, Paul",AUTHOR
+673,133,"Jacquet, Claire",AUTHOR
+674,134,"Casali, Daniel",AUTHOR
+675,134,"Boscaini, Alberto",AUTHOR
+676,134,"Gaudin, Timothy",AUTHOR
+677,134,"Perini, Fernando",AUTHOR
+678,135,"Alciatore, Giacomo",AUTHOR
+679,135,"Ugelvig, Line V.",AUTHOR
+680,135,"Frank, Erik",AUTHOR
+681,135,"Bidaux, Jérémie",AUTHOR
+682,135,"Gal, Asaf",AUTHOR
+683,135,"Schmitt, Thomas",AUTHOR
+684,135,"Kronauer, Daniel J.C.",AUTHOR
+685,135,"Ulrich, Yuko",AUTHOR
+686,136,"Chorak, Gregory",AUTHOR
+687,137,"Carter, Wales",AUTHOR
+688,137,"Pearson, Scott",AUTHOR
+689,137,"Smith, Adam",AUTHOR
+690,137,"McWilliams, Scott",AUTHOR
+691,137,"Levey, Douglas",AUTHOR
+692,138,"Allen, Jessica",AUTHOR
+693,139,"Menang, Olga",AUTHOR
+694,139,"van Eeuwijk, Peter",AUTHOR
+695,139,"Maigetter, Karen",AUTHOR
+696,139,"Kuemmerle, Andrea",AUTHOR
+697,139,"Agbenu, Edinam",AUTHOR
+698,139,"Burri, Christian",AUTHOR
+699,140,"Goff, Kaleb",AUTHOR
+700,140,"Oldfather, Meagan",AUTHOR
+701,140,"Nachlinger, Jan",AUTHOR
+702,140,"Smithers, Brian",AUTHOR
+703,140,"Koontz, Micheal",AUTHOR
+704,140,"Bishop, Catie",AUTHOR
+705,140,"Bishop, Jim",AUTHOR
+706,140,"Burke, Mary",AUTHOR
+707,140,"Sheth, Seema",AUTHOR
+708,141,"Robinson, Zurika",AUTHOR
+709,141,"Uys, Thea",AUTHOR
+710,142,"Zhu, Liang",AUTHOR
+711,142,"Yuan, Ming-Zhu",AUTHOR
+712,142,"Armitage, David",AUTHOR
+713,142,"Ma, Chun-sen",AUTHOR
+714,143,"Barr-Walker, Jill",AUTHOR
+715,143,"Jayaweera, Ruvani",AUTHOR
+716,143,"Ramirez, Ana",AUTHOR
+717,143,"Gerdts, Caitlin",AUTHOR
+718,144,"Theobold, Allison",AUTHOR
+719,145,"Thorvaldsen, Steinar",AUTHOR
+720,146,"Young, Scott W. H.",AUTHOR
+721,146,"Chao, Zoe",AUTHOR
+722,146,"Chandler, Adam",AUTHOR
+723,147,"Engl, Elisabeth",AUTHOR
+724,147,"Kretschmer, Steve",AUTHOR
+725,147,"Jain, Mokshada",AUTHOR
+726,147,"Sharma, Saransh",AUTHOR
+727,147,"Prasad, Ram",AUTHOR
+728,147,"Ramesh, B. M.",AUTHOR
+729,147,"Shetye, Mrunal",AUTHOR
+730,147,"Tandon, Seema",AUTHOR
+731,147,"Kumar, Sanjiv",AUTHOR
+732,147,"Barrios Wilson, Tisa",AUTHOR
+733,147,"Sgaier, Sema K.",AUTHOR
+734,148,"Chekol, Zeynie",AUTHOR
+735,148,"Hadaro, Filmon",AUTHOR
+736,149,"White, David",AUTHOR
+737,149,"Phillips, P. Jonathan",AUTHOR
+738,149,"Hahn, Carina A.",AUTHOR
+739,149,"Hill, Matthew",AUTHOR
+740,149,"O'Toole, Alice J.",AUTHOR
+741,149,"Phillips, P. Jonathon",AUTHOR
+742,150,"Twining, Cornelia W.",AUTHOR
+743,150,"Brenna, John Thomas",AUTHOR
+744,150,"Hairston Jr., Nelson G.",AUTHOR
+745,150,"Flecker, Alexander S.",AUTHOR
+746,150,"Hairston, Nelson G.",AUTHOR
+747,151,"Berrios, Hazel",AUTHOR
+748,152,"Thompson, Ken A.",AUTHOR
+749,152,"Husband, Brian C.",AUTHOR
+750,152,"Maherali, Hafiz",AUTHOR
+751,153,"Roberts, Thomas",AUTHOR
+752,153,"Hope, Aimie",AUTHOR
+753,153,"Skelton, Alexandra",AUTHOR
+754,154,"Tagge, Raelle",AUTHOR
+755,155,"Hashemian, Mohammadreza",AUTHOR
+756,155,"Zare-Farashbandi, Firoozeh",AUTHOR
+757,155,"Yamani, Nikoo",AUTHOR
+758,155,"Rahimi, Alireza",AUTHOR
+759,155,"Adibi, Peyman",AUTHOR
+760,156,"Chatterjee, Rajanya",AUTHOR
+761,156,"Shah, Chhote Lal",AUTHOR
+762,156,"Gupta, Sayan",AUTHOR
+763,156,"Sarkar, Sunetra",AUTHOR
+764,157,"Kivikoski, Mikko",AUTHOR
+765,157,"Rastas, Pasi",AUTHOR
+766,157,"Löytynoja, Ari",AUTHOR
+767,157,"Merilä, Juha",AUTHOR
+768,158,"Kardam, Neha",AUTHOR
+769,158,"Wilson, Denise",AUTHOR
+770,159,"Collins, Claire",AUTHOR
+771,159,"Nuno, Ana",AUTHOR
+772,159,"Benaragama, Aloka",AUTHOR
+773,159,"Broderick, Annette",AUTHOR
+774,159,"Wijesundara, Isuru",AUTHOR
+775,159,"Wijetunge, Dilhara",AUTHOR
+776,159,"Letessier, Tom",AUTHOR
+777,160,"Doubell, Timothy P",AUTHOR
+778,160,"Alsetrawi, Ali",AUTHOR
+779,160,"Bastawrous, Diandra A S",AUTHOR
+780,160,"Bastawrous, Madonna A S",AUTHOR
+781,160,"Daibes, Ahmed",AUTHOR
+782,160,"Jadalla, AbuBaker",AUTHOR
+783,160,"Schnupp, J. W. H.",AUTHOR
+784,161,"Hansen, Dale",AUTHOR
+785,161,"Hunt, Brooklin",AUTHOR
+786,161,"Falvo, Caylee",AUTHOR
+787,161,"Ruiz-Aravena, Manuel",AUTHOR
+788,161,"Kessler, Maureen",AUTHOR
+789,161,"Hall, Jane",AUTHOR
+790,161,"Thompson, Paul",AUTHOR
+791,161,"Rose, Karrie",AUTHOR
+792,161,"Jones, Devin",AUTHOR
+793,161,"Lunn, Tamika",AUTHOR
+794,161,"Dale, Adrienne",AUTHOR
+795,161,"Peel, Alison",AUTHOR
+796,161,"Plowright, Raina",AUTHOR
+797,162,"Gui, Xinning",AUTHOR
+798,162,"Chen, Yunan",AUTHOR
+799,162,"Zhou, Xiaomu",AUTHOR
+800,162,"Reynolds, Tera L.",AUTHOR
+801,162,"Zheng, Kai",AUTHOR
+802,162,"Hanauer, David A.",AUTHOR
+803,163,"Fontes, João Tadeu",AUTHOR
+804,163,"Vieira, Pedro",AUTHOR
+805,163,"Ekrem, Torbjørn",AUTHOR
+806,163,"Soares, Pedro",AUTHOR
+807,163,"Costa, Filipe",AUTHOR
+808,164,"Coe, Michael",AUTHOR
+809,165,"McClure, Meredith",AUTHOR
+810,165,"Crowley, Daniel",AUTHOR
+811,165,"Haase, Catherine",AUTHOR
+812,165,"McGuire, Liam",AUTHOR
+813,165,"Fuller, Nathan",AUTHOR
+814,165,"Hayman, David",AUTHOR
+815,165,"Lausen, Cori",AUTHOR
+816,165,"Plowright, Raina",AUTHOR
+817,165,"Dickson, Brett",AUTHOR
+818,165,"Olson, Sarah",AUTHOR
+819,166,"Li, Han",AUTHOR
+820,166,"Qu, Haohao",AUTHOR
+821,166,"Tan, Xiaojun",AUTHOR
+822,166,"You, Linlin",AUTHOR
+823,166,"Zhu, Rui",AUTHOR
+824,166,"Fan, Wenqi",AUTHOR
+825,167,"Knatz Peck, Stephanie",AUTHOR
+826,167,"Kaye, Walter",AUTHOR
+827,167,"Shao, Samantha",AUTHOR
+828,167,"Gruen, Tessa",AUTHOR
+829,167,"Yang, Kevin",AUTHOR
+830,167,"Babankian, Alexandra",AUTHOR
+831,167,"Trim, Julie",AUTHOR
+832,167,"Finn, Daphna",AUTHOR
+833,168,"Choi, Seung",AUTHOR
+834,168,"Han, Seokyoung",AUTHOR
+835,168,"Lee, Yuong-Nam",AUTHOR
+836,169,"Platts, Philip J.",AUTHOR
+837,169,"Burgess, Neil D.",AUTHOR
+838,169,"Gereau, Roy E.",AUTHOR
+839,169,"Lovett, Jon C.",AUTHOR
+840,169,"Marshall, Andrew R.",AUTHOR
+841,169,"McClean, Colin J.",AUTHOR
+842,169,"Pellikka, Petri K. E.",AUTHOR
+843,169,"Swetnam, Ruth D.",AUTHOR
+844,169,"Marchant, Rob",AUTHOR
+845,170,"Watts, James",AUTHOR
+846,170,"Fitzpatrick, Courtney",AUTHOR
+847,171,"Lappin, A Kristopher",AUTHOR
+848,171,"Peterson, Karl",AUTHOR
+849,171,"Powell, Anthony",AUTHOR
+850,171,"Taylor, John",AUTHOR
+851,171,"Alexander, Jennifer",AUTHOR
+852,171,"Schuett, Gordon",AUTHOR
+853,172,"Kim, Yun-Hee",AUTHOR
+854,172,"Jang, Keum-Seong",AUTHOR
+855,172,"Lee, Mikyoung",AUTHOR
+856,172,"Park, Hyunyoung",AUTHOR
+857,172,"Chung, Kyung-Hee",AUTHOR
+858,172,"Baek, Myeong",AUTHOR
+859,172,"Kweon, Young-Ran",AUTHOR
+860,173,"Satler, Jordan D.",AUTHOR
+861,173,"Carstens, Bryan Charles",AUTHOR
+862,174,"Davison, Gail",AUTHOR
+863,175,"Campbell, Tristan",AUTHOR
+864,175,"Dixon, Kingsley",AUTHOR
+865,175,"Handcock, Rebecca",AUTHOR
+866,176,"Morales, Manuel",AUTHOR
+867,177,"Leybourne, Daniel J",AUTHOR
+868,177,"Preedy, Katharine F",AUTHOR
+869,177,"Valentine, Tracy A",AUTHOR
+870,177,"Bos, Jorunn I B",AUTHOR
+871,177,"Karley, Alison J",AUTHOR
+872,178,"Dalrymple, Rhiannon L.",AUTHOR
+873,178,"Hui, Francis K. C.",AUTHOR
+874,178,"Flores-Moreno, Habacuc",AUTHOR
+875,178,"Kemp, Darrell J.",AUTHOR
+876,178,"Moles, Angela T.",AUTHOR
+877,179,"Mahoney, Michael",AUTHOR
+878,179,"Johnson, Lucas",AUTHOR
+879,179,"Beier, Colin",AUTHOR
+880,180,"Jaiswal, Satish",AUTHOR
+881,180,"Nan, Jason",AUTHOR
+882,180,"Purpura, Suzanna R.",AUTHOR
+883,180,"Manchanda, James K.",AUTHOR
+884,180,"Garcia-pak, Iris",AUTHOR
+885,180,"Ramanathan, Dhakshin",AUTHOR
+886,180,"Chuss, Dawna",AUTHOR
+887,180,"Rana, Deborah T.",AUTHOR
+888,180,"Beck, Ellen",AUTHOR
+889,180,"Insel, Paul",AUTHOR
+890,180,"Chi, Neil",AUTHOR
+891,180,"Roth, David",AUTHOR
+892,180,"Patel, Hemal",AUTHOR
+893,180,"Mishra, Jyoti",AUTHOR
+894,181,"Gaoue, Orou G.",AUTHOR
+895,181,"Moutouama, Jacob",AUTHOR
+896,181,"Coe, Michael",AUTHOR
+897,181,"Bond, Matthew",AUTHOR
+898,181,"Green, Elizabeth",AUTHOR
+899,181,"Sero, Nadejda",AUTHOR
+900,181,"Simmy, Bezeng",AUTHOR
+901,181,"Yessoufou, Kowiyou",AUTHOR
+902,182,"Olazcuaga, Laure",AUTHOR
+903,182,"Foucaud, Julien",AUTHOR
+904,182,"Gautier, Mathieu",AUTHOR
+905,182,"Deschamps, Candice",AUTHOR
+906,182,"Loiseau, Anne",AUTHOR
+907,182,"Leménager, Nicolas",AUTHOR
+908,182,"Facon, Benoit",AUTHOR
+909,182,"Ravigné, Virginie",AUTHOR
+910,182,"Hufbauer, Ruth A.",AUTHOR
+911,182,"Estoup, Arnaud",AUTHOR
+912,182,"Rode, Nicolas O.",AUTHOR
+913,183,"Esker, Donald A.",AUTHOR
+914,183,"Forman, Steven L.",AUTHOR
+915,183,"Butler, Dava K.",AUTHOR
+916,184,"Thome, Maria Tereza C.",AUTHOR
+917,184,"Carstens, Bryan C.",AUTHOR
+918,185,"Locke, Samantha",AUTHOR
+919,185,"Wilson, Devon",AUTHOR
+920,185,"Arevalo-Mayorga, Stefany",AUTHOR
+921,185,"Sequeira, Sara",AUTHOR
+922,185,"Pempek, Jessica",AUTHOR
+923,185,"Arruda, Andreia",AUTHOR
+924,185,"Habing, Greg",AUTHOR
+925,186,"Chase, Jonathan M.",AUTHOR
+926,186,"Liebergesell, Mario",AUTHOR
+927,186,"Sagouis, Alban",AUTHOR
+928,186,"May, Felix",AUTHOR
+929,186,"Blowes, Shane A.",AUTHOR
+930,186,"Berg, Åke",AUTHOR
+931,186,"Bernard, Enrico",AUTHOR
+932,186,"Brosi, Berry J.",AUTHOR
+933,186,"Cadotte, Marc W.",AUTHOR
+934,186,"Cayuela, Luis",AUTHOR
+935,186,"Chiarello, Adriano G.",AUTHOR
+936,186,"Cosson, Jean-François",AUTHOR
+937,186,"Cresswell, Will",AUTHOR
+938,186,"Dami, Filibus Danjuma",AUTHOR
+939,186,"Dauber, Jens",AUTHOR
+940,186,"Dickman, Christopher R.",AUTHOR
+941,186,"Didham, Raphael K.",AUTHOR
+942,186,"Edwards, David P.",AUTHOR
+943,186,"Farneda, Fabio Z.",AUTHOR
+944,186,"Gavish, Yoni",AUTHOR
+945,186,"Gonçalves-Souza, Thiago",AUTHOR
+946,186,"Guadagnin, Demetrio Luis",AUTHOR
+947,186,"Henry, Mickaël",AUTHOR
+948,186,"López-Baucells, Adrià",AUTHOR
+949,186,"Kappes, Heike",AUTHOR
+950,186,"Mac Nally, Ralph",AUTHOR
+951,186,"Manu, Shiiwua",AUTHOR
+952,186,"Martensen, Alexandre Camargo",AUTHOR
+953,186,"McCollin, Duncan",AUTHOR
+954,186,"Meyer, Christoph F. J.",AUTHOR
+955,186,"Neckel‐Oliveira, Selvino",AUTHOR
+956,186,"Nogueira, André",AUTHOR
+957,186,"Pons, Jean-Marc",AUTHOR
+958,186,"Raheem, Dinarzarde C.",AUTHOR
+959,186,"Ramos, Flavio Nunes",AUTHOR
+960,186,"Rocha, Ricardo",AUTHOR
+961,186,"Sam, Katerina",AUTHOR
+962,186,"Slade, Eleanor",AUTHOR
+963,186,"Struebig, Matthew J.",AUTHOR
+964,186,"Vasconcelos, Heraldo",AUTHOR
+965,186,"Ziv, Yaron",AUTHOR
+966,187,"Caster, Ola",AUTHOR
+967,187,"Edwards, I. Ralph",AUTHOR
+968,188,"Mao, Dewang",AUTHOR
+969,188,"Ding, Zhongxiang",AUTHOR
+970,188,"Jia, Wenbin",AUTHOR
+971,188,"Liao, Wei",AUTHOR
+972,188,"Li, Xun",AUTHOR
+973,188,"Huang, Huiyuan",AUTHOR
+974,188,"Yuan, Jianhua",AUTHOR
+975,188,"Zang, Yu-Feng",AUTHOR
+976,188,"Zhang, Han",AUTHOR
+977,189,"Suter, Renata S.",AUTHOR
+978,189,"Pachur, Thorsten",AUTHOR
+979,189,"Hertwig, Ralph",AUTHOR
+980,189,"Endestad, Tor",AUTHOR
+981,189,"Biele, Guido",AUTHOR
+982,190,"Ross-Gillespie, Adin",AUTHOR
+983,190,"Dumas, Zoé",AUTHOR
+984,190,"Kümmerli, Rolf",AUTHOR
+985,191,"Vromans, Lisette",AUTHOR
+986,191,"Doyle, Gerardine",AUTHOR
+987,191,"Petak-Opel, Silvia",AUTHOR
+988,191,"Roediger, Alexander",AUTHOR
+989,191,"Roettgermann, Martina",AUTHOR
+990,191,"Schluessel, Elke",AUTHOR
+991,191,"Stetter, Eva",AUTHOR
+992,192,"LaBarbera, Katie",AUTHOR
+993,192,"Marsh, Kyle J.",AUTHOR
+994,192,"Hayes, Kia R. R.",AUTHOR
+995,192,"Hammond, Talisin T.",AUTHOR
+996,193,"Reatini, Bryan",AUTHOR
+997,193,"Vision, Todd",AUTHOR
+998,194,"Diamond-Smith, Nadia",AUTHOR
+999,194,"Sharma, Preetika",AUTHOR
+1000,194,"Duggal, Mona",AUTHOR
+1001,194,"Gill, Navneet",AUTHOR
+1002,194,"Gupta, Jagriti",AUTHOR
+1003,194,"Kumar, Vijay",AUTHOR
+1004,194,"Kaur, Jasmeet",AUTHOR
+1005,194,"Singh, Pushpendra",AUTHOR
+1006,194,"Vosburg, Katy",AUTHOR
+1007,194,"El Ayadi, Alison",AUTHOR
+1008,195,"M M Fernandes, Luisa",AUTHOR
+1009,195,"Lansky, Sônia",AUTHOR
+1010,195,"Reis Passos, Hozana",AUTHOR
+1011,195,"T. Bozlak, Christine",AUTHOR
+1012,195,"A. Shaw, Benjamin",AUTHOR
+1013,196,"Morris, Tessa Altair",AUTHOR
+1014,196,"Naik, Jasmine",AUTHOR
+1015,196,"Fibbin, Kirby Sinclair",AUTHOR
+1016,196,"Kong, Xiangdu",AUTHOR
+1017,196,"Kiyono, Tohru",AUTHOR
+1018,196,"Yokomori, Kyoko",AUTHOR
+1019,196,"Grosberg, Anna",AUTHOR
+1020,197,"Laws, Angela N.",AUTHOR
+1021,197,"Prather, Chelse M.",AUTHOR
+1022,197,"Branson, David H.",AUTHOR
+1023,197,"Pennings, Steven C.",AUTHOR
+1024,198,"Crone, Elizabeth E.",AUTHOR
+1025,199,"Miralles, Aurélien",AUTHOR
+1026,199,"Bruy, Teddy",AUTHOR
+1027,199,"Wolcott, Katherine",AUTHOR
+1028,199,"Scherz, Mark",AUTHOR
+1029,199,"Begerow, Dominik",AUTHOR
+1030,199,"Beszteri, Bank",AUTHOR
+1031,199,"Bonkowski, Michael",AUTHOR
+1032,199,"Felden, Janine",AUTHOR
+1033,199,"Gemeinholzer, Birgit",AUTHOR
+1034,199,"Glaw, Frank",AUTHOR
+1035,199,"Glöckner, Frank Oliver",AUTHOR
+1036,199,"Hawlitschek, Oliver",AUTHOR
+1037,199,"Kostadinov, Ivaylo",AUTHOR
+1038,199,"Nattkemper, Tim",AUTHOR
+1039,199,"Printzen, Christian",AUTHOR
+1040,199,"Renz, Jasmin",AUTHOR
+1041,199,"Rybalka, Nataliya",AUTHOR
+1042,199,"Stadler, Marc",AUTHOR
+1043,199,"Weibulat, Tanja",AUTHOR
+1044,199,"Wilke, Thomas",AUTHOR
+1045,199,"Renner, Susanne",AUTHOR
+1046,199,"Vences, Miguel",AUTHOR
+1047,200,"Nasser Almulhim, Abdullah",AUTHOR
+1048,200,"Alhowaish, Atheer",AUTHOR
+1049,200,"Madani, Alaa",AUTHOR
+1050,200,"AlQaddan, Munirah",AUTHOR
+1051,200,"Altuwalah, Abdulaziz S.",AUTHOR
+1052,200,"Goyder, Elizabeth",AUTHOR
+1053,201,"Anderson, Heidi",AUTHOR
+1054,201,"Davison, Stephen",AUTHOR
+1055,201,"Lytle, Katherine M.",AUTHOR
+1056,201,"Honkanen, Leena",AUTHOR
+1057,201,"Freyer, Jamie",AUTHOR
+1058,201,"Mathlin, Julia",AUTHOR
+1059,201,"Kyöstilä, Kaisa",AUTHOR
+1060,201,"Inman, Laura",AUTHOR
+1061,201,"Louviere, Annette",AUTHOR
+1062,201,"Chodroff Foran, Rebecca",AUTHOR
+1063,201,"Foran, Oliver P.",AUTHOR
+1064,201,"Lohi, Hannes",AUTHOR
+1065,201,"Donner, Jonas",AUTHOR
+1066,202,"Zhou, Xueqing",AUTHOR
+1067,202,"Zhang, Zhansong",AUTHOR
+1068,202,"Zhang, Chaomo",AUTHOR
+1069,203,"Hyvärinen, Olli",AUTHOR
+1070,204,"Halvachizadeh, Sascha",AUTHOR
+1071,205,"Balog, Brian M",AUTHOR
+1072,205,"Tangada, Abhilasha",AUTHOR
+1073,205,"Sheth, Pooja",AUTHOR
+1074,205,"Song, Qi-Xiang",AUTHOR
+1075,205,"Couri, Bruna M",AUTHOR
+1076,205,"Porras, Leah L",AUTHOR
+1077,205,"Deng, Gary G",AUTHOR
+1078,205,"Damaser, Margot S",AUTHOR
+1079,206,"Honein-AbouHaidar, Gladys N.",AUTHOR
+1080,206,"Stuart-McEwan, Terri",AUTHOR
+1081,206,"Waddell, Tom",AUTHOR
+1082,206,"Salvarrey, Alexandra",AUTHOR
+1083,206,"Smylie, Jennifer",AUTHOR
+1084,206,"Dobrow, Mark J.",AUTHOR
+1085,206,"Brouwers, Melissa C.",AUTHOR
+1086,206,"Gagliardi, Anna R.",AUTHOR
+1087,207,"Xi, Xinqiang",AUTHOR
+1088,207,"Zhang, Beibei",AUTHOR
+1089,207,"Wang, Ying",AUTHOR
+1090,207,"Vazquez, Diego P.",AUTHOR
+1091,207,"Dong, Yuran",AUTHOR
+1092,207,"Sun, Shucun",AUTHOR
+1093,208,"D'Amore, Domenic C.",AUTHOR
+1094,208,"Harmon, Megan",AUTHOR
+1095,208,"Drumheller, Stephanie K.",AUTHOR
+1096,208,"Testin, Jason J.",AUTHOR
+1097,209,"Humphries, Claire",AUTHOR
+1098,209,"Jaganathan, Suganthi",AUTHOR
+1099,209,"Panniyammakal, Jeemon",AUTHOR
+1100,209,"Singh, Sanjeev",AUTHOR
+1101,209,"Goenka, Shifalika",AUTHOR
+1102,209,"Dorairaj, Prabhakaran",AUTHOR
+1103,209,"Gill, Paramjit",AUTHOR
+1104,209,"Greenfield, Sheila",AUTHOR
+1105,209,"Lilford, Richard",AUTHOR
+1106,209,"Manaseki-Holland, Semira",AUTHOR
+1107,210,"Pinheiro, Jessica",AUTHOR
+1108,210,"Bruno, Savio",AUTHOR
+1109,210,"Dib, Laís",AUTHOR
+1110,210,"dos Santos, Claudijane",AUTHOR
+1111,210,"Corrêa, Lais",AUTHOR
+1112,210,"Lima, Marcelo",AUTHOR
+1113,210,"Motoyama, Paulo Rogério",AUTHOR
+1114,210,"Amendoeira, Maria Regina",AUTHOR
+1115,210,"Barbosa, Alynne",AUTHOR
+1116,211,"Zhu, Yongxian",AUTHOR
+1117,211,"Armstrong, Kristina",AUTHOR
+1118,211,"Avery, Greg",AUTHOR
+1119,211,"Campbell, Nica",AUTHOR
+1120,211,"Delgado, Hernan",AUTHOR
+1121,211,"Dollinger, Caroline",AUTHOR
+1122,211,"Hawkins, Troy",AUTHOR
+1123,211,"Hendrickson, Thomas",AUTHOR
+1124,211,"Karki, Unique",AUTHOR
+1125,211,"Ma, Ookie",AUTHOR
+1126,211,"Nimbalkar, Sachin",AUTHOR
+1127,211,"Okeke, Ikenna",AUTHOR
+1128,211,"Peng, Peng",AUTHOR
+1129,211,"Powell, Kristin",AUTHOR
+1130,211,"Rao, Prakash",AUTHOR
+1131,211,"Ray, Brian",AUTHOR
+1132,211,"Singh, Udayan",AUTHOR
+1133,211,"Thierry, David",AUTHOR
+1134,211,"Yu, Li",AUTHOR
+1135,211,"Zuberi, Jibran",AUTHOR
+1136,211,"Supekar, Sarang",AUTHOR
+1137,212,"Jackson, Victoria",AUTHOR
+1138,212,"Prikladnicki, Rafael",AUTHOR
+1139,212,"van der Hoek, Andre",AUTHOR
+1140,213,"Cunningham, Una",AUTHOR
+1141,213,"De Brún, Aoife",AUTHOR
+1142,213,"Mayumi, Willgerodt",AUTHOR
+1143,213,"Blakeney, Erin",AUTHOR
+1144,213,"McAuliffe, Eilish",AUTHOR
+1145,214,"Srivathsa, Arjun",AUTHOR
+1146,215,"Akimoto, Michiko",AUTHOR
+1147,215,"Tanaka, Takuma",AUTHOR
+1148,215,"Ito, Junko",AUTHOR
+1149,215,"Kubota, Yasutaka",AUTHOR
+1150,215,"Seiyama, Akitoshi",AUTHOR
+1151,216,"Atangana, Alain R",AUTHOR
+1152,217,"Maurer, Bill",AUTHOR
+1153,217,"Wrapp, Melissa",AUTHOR
+1154,217,"Kladky, Ellen",AUTHOR
+1155,218,"Aun, Nádia",AUTHOR
+1156,218,"Assis, Renato Linhares de",AUTHOR
+1157,219,"Deardorff, Ariel",AUTHOR
+1158,220,"Rowangould, Gregory",AUTHOR
+1159,220,"Quallen, Erica",AUTHOR
+1160,220,"Clarke, Julia",AUTHOR
+1161,220,"Nelson, Clare",AUTHOR
+1162,221,"Cadena, Bailey",AUTHOR
+1163,221,"Puri, Mahi",AUTHOR
+1164,221,"Cole, Patrick",AUTHOR
+1165,221,"Maynard, Lily",AUTHOR
+1166,221,"Orwig, Jerran",AUTHOR
+1167,221,"du Toit, Samantha",AUTHOR
+1168,221,"Jenike, S. David",AUTHOR
+1169,221,"Kamanga, John",AUTHOR
+1170,222,"Gray, Thomas N.E.",AUTHOR
+1171,222,"Phommachak, Amphone",AUTHOR
+1172,222,"Vannachomchan, Kongseng",AUTHOR
+1173,222,"Guegan, Francois",AUTHOR
+1174,223,"Gadsby, April",AUTHOR
+1175,223,"Tsai, Yichang (James)",AUTHOR
+1176,223,"Harvey, John T.",AUTHOR
+1177,224,"Broekhuis, Femke",AUTHOR
+1178,224,"Ngene, Shadrack",AUTHOR
+1179,224,"Gopalaswamy, Arjun",AUTHOR
+1180,224,"Mwaura, Anastacia",AUTHOR
+1181,224,"Dloniak, Stephanie",AUTHOR
+1182,224,"Ngatia, Dedan",AUTHOR
+1183,224,"Tyrrell, Peter",AUTHOR
+1184,224,"Yamane, Yumi",AUTHOR
+1185,224,"Elliot, Nicholas",AUTHOR
+1186,225,"Kohno, Ayako",AUTHOR
+1187,225,"Nik Farid, Nik Daliana",AUTHOR
+1188,225,"Musa, Ghazali",AUTHOR
+1189,225,"Abdul Aziz, Norlaili",AUTHOR
+1190,225,"Nakayama, Takeo",AUTHOR
+1191,225,"Dahlui, Maznah",AUTHOR
+1192,226,"Corvol, Jean-christophe",AUTHOR
+1193,226,"Artaud, Fanny",AUTHOR
+1194,226,"Cormier-Dequaire, Florence",AUTHOR
+1195,226,"Rascol, Olivier",AUTHOR
+1196,226,"Durif, Franck",AUTHOR
+1197,226,"Derckinderen, Pascal",AUTHOR
+1198,226,"Marques, Ana-Raquel",AUTHOR
+1199,226,"Bourdain, Frédéric",AUTHOR
+1200,226,"Brandel, Jean-Philippe",AUTHOR
+1201,226,"Pico, Fernando",AUTHOR
+1202,226,"Lacomblez, Lucette",AUTHOR
+1203,226,"Bonnet, Cecilia",AUTHOR
+1204,226,"Brefel-Courbon, Christine",AUTHOR
+1205,226,"Ory-Magne, Fabienne",AUTHOR
+1206,226,"Grabli, David",AUTHOR
+1207,226,"Klebe, Stephan",AUTHOR
+1208,226,"Mangone, Graziella",AUTHOR
+1209,226,"You, Hana",AUTHOR
+1210,226,"Mesnages, Valérie",AUTHOR
+1211,226,"Lee, Pei-Chen",AUTHOR
+1212,226,"Brice, Alexis",AUTHOR
+1213,226,"Vidailhet, Marie",AUTHOR
+1214,226,"Elbaz, Alexis",AUTHOR
+1215,227,"Curty, Renata Gonçalves",AUTHOR
+1216,227,"Greer, Rebecca",AUTHOR
+1217,227,"White, Torin",AUTHOR
+1218,228,"Leung, Angela Yee Man",AUTHOR
+1219,228,"Bo, Ai",AUTHOR
+1220,228,"Hsiao, Hsin-Yi",AUTHOR
+1221,228,"Wang, Song Song",AUTHOR
+1222,228,"Chi, Iris",AUTHOR
+1223,229,"Halliday, Deanna",AUTHOR
+1224,229,"Schneider, Sara",AUTHOR
+1225,229,"Wakefield, Tanner",AUTHOR
+1226,229,"Durazo, Arturo",AUTHOR
+1227,229,"Tracy, Darrin",AUTHOR
+1228,229,"Song, Anna",AUTHOR
+1229,229,"Apollonio, Dorie",AUTHOR
+1230,230,"Katalinic, Alexander",AUTHOR
+1231,230,"Rupp, Jan",AUTHOR
+1232,230,"Klein, Christine",AUTHOR
+1233,231,"Ghoshal, Abhishek",AUTHOR
+1234,231,"Bhatnagar, Yash Veer",AUTHOR
+1235,231,"Pandav, Bivash",AUTHOR
+1236,231,"Sharma, Koustubh",AUTHOR
+1237,231,"Mishra, Charudutt",AUTHOR
+1238,231,"Raghunath, R.",AUTHOR
+1239,231,"Suryawanshi, Kulbhushansingh R.",AUTHOR
+1240,232,"Chang, Li-Chun",AUTHOR
+1241,232,"Chen, Yu-Chi",AUTHOR
+1242,232,"Wu, Fei Ling",AUTHOR
+1243,232,"Liao, Li-Ling",AUTHOR
+1244,233,"Mlalama, Killian",AUTHOR
+1245,234,"Westland, Heleen",AUTHOR
+1246,234,"Sluiter, Jill",AUTHOR
+1247,234,"te Dorsthorst, Sophie",AUTHOR
+1248,234,"Schröder, Carin D.",AUTHOR
+1249,234,"Trappenburg, Jaap C. A.",AUTHOR
+1250,234,"Vervoort, Sigrid C. J. M.",AUTHOR
+1251,234,"Schuurmans, Marieke J.",AUTHOR
+1252,235,"Upadhyay, Ushma",AUTHOR
+1253,235,"Kimport, Katrina",AUTHOR
+1254,235,"Belusa, Elise",AUTHOR
+1255,235,"Johns, Nicole",AUTHOR
+1256,235,"Laube, Douglas",AUTHOR
+1257,235,"Roberts, Sarah",AUTHOR
+1258,236,"Trauschke, Mathias",AUTHOR
+1259,237,"Hattingh, H. Laetitia",AUTHOR
+1260,237,"Sim, T. Fei",AUTHOR
+1261,237,"Parsons, R.",AUTHOR
+1262,237,"Czarniak, P.",AUTHOR
+1263,237,"Vickery, A.",AUTHOR
+1264,237,"Ayadurai, S.",AUTHOR
+1265,238,"Suvarnabhumi, Krishna",AUTHOR
+1266,239,"Vashist, Praveen",AUTHOR
+1267,239,"Tandon, Radhika",AUTHOR
+1268,239,"Murthy, GVS",AUTHOR
+1269,239,"Barua, CK",AUTHOR
+1270,239,"Deka, Dipali",AUTHOR
+1271,239,"Singh, Sachchidanand",AUTHOR
+1272,239,"Gupta, Vivek",AUTHOR
+1273,239,"Gupta, Noopur",AUTHOR
+1274,239,"Wadhwani, Meenakshi",AUTHOR
+1275,239,"Singh, Rashmi",AUTHOR
+1276,239,"Vishwanath, K",AUTHOR
+1277,240,"Pilcher, Nicolas J.",AUTHOR
+1278,240,"Adulyanukosol, Kanjana",AUTHOR
+1279,240,"Das, Himansu",AUTHOR
+1280,240,"Davis, Patricia",AUTHOR
+1281,240,"Hines, Ellen",AUTHOR
+1282,240,"Kwan, Donna",AUTHOR
+1283,240,"Marsh, Helene",AUTHOR
+1284,240,"Ponnampalam, Louisa",AUTHOR
+1285,240,"Reynolds, John",AUTHOR
+1286,241,"Manga, Isaac Akhenaton",AUTHOR
+1287,241,"Tairou, Fassiatou",AUTHOR
+1288,241,"Seck, Amadou",AUTHOR
+1289,241,"Kouevidjin, Ekoue",AUTHOR
+1290,241,"Ba, Mamadou Sarifou",AUTHOR
+1291,241,"Gaye, Omar",AUTHOR
+1292,241,"Faye, Babacar",AUTHOR
+1293,241,"Ndiaye, Jean Louis Abdourahim",AUTHOR
+1294,242,"Asfaw, Asaye",AUTHOR
+1295,243,"Thill, Zack",AUTHOR
+1296,243,"Vogel, Jason",AUTHOR
+1297,243,"Kalafatis, Scott",AUTHOR
+1298,243,"Worrell, Nicolette",AUTHOR
+1299,244,"Fernández-Crehuet, Pablo",AUTHOR
+1300,244,"Fernández-Crehuet, José Luis",AUTHOR
+1301,244,"Allam, Mohamed Farouk",AUTHOR
+1302,244,"Navajas, Rafael Fernández-Crehuet",AUTHOR
+1303,245,"Devenney, Emma M.",AUTHOR
+1304,245,"Ahmed, Rebekah M.",AUTHOR
+1305,245,"Halliday, Glenda",AUTHOR
+1306,245,"Piguet, Olivier",AUTHOR
+1307,245,"Kiernan, Matthew C.",AUTHOR
+1308,245,"Hodges, John R.",AUTHOR
+1309,246,"Trani, Jean-Francois",AUTHOR
+1310,246,"Bakhshi, Parul",AUTHOR
+1311,246,"Kuhlberg, Jill",AUTHOR
+1312,246,"Venkataraman, Sreelatha S.",AUTHOR
+1313,246,"Venkataraman, Hemalatha",AUTHOR
+1314,246,"Mishra, Nagendra N.",AUTHOR
+1315,246,"Groce, Nora E.",AUTHOR
+1316,246,"Jadhav, Sushrut",AUTHOR
+1317,246,"Deshpande, Smita",AUTHOR
+1318,247,"Fletcher-Lartey, Stephanie",AUTHOR
+1319,247,"Yee, Melissa",AUTHOR
+1320,247,"Gaarslev, Christina",AUTHOR
+1321,247,"Khan, Rabia",AUTHOR
+1322,248,"Tiitinen, Sanni",AUTHOR
+1323,248,"Lempiälä, Tea",AUTHOR
+1324,248,"Tiitinen, Sanni",AUTHOR
+1325,248,"Lempiälä, Tea",AUTHOR
+1326,249,"Tiitinen, Sanni",AUTHOR
+1327,249,"Tiitinen, Sanni",AUTHOR
+1328,250,Nuorisotutkimusseura. Nuorisotutkimusverkosto,AUTHOR
+1329,250,Turun yliopisto. Tulevaisuuden tutkimuskeskus,AUTHOR
+1330,250,Finnish Youth Research Society. Finnish Youth Research Network,AUTHOR
+1331,250,University of Turku. Finland Futures Research Centre,AUTHOR
+1332,251,"Heikkilä, Saara",AUTHOR
+1333,251,"Heikkilä, Saara",AUTHOR
+1334,252,"Pösö, Tarja",AUTHOR
+1335,252,"Pösö, Tarja",AUTHOR
+1336,253,Suomalaisen Kirjallisuuden Seura (SKS). Arkisto,AUTHOR
+1337,253,Finnish Literature Society. Archive,AUTHOR
+1338,254,Tampere Praksis,AUTHOR
+1339,254,Tampere Praksis Project,AUTHOR
+1340,255,"Santaoja, Minna",AUTHOR
+1341,255,"Santaoja, Minna",AUTHOR
+1342,256,"Torsti, Pilvi",AUTHOR
+1343,256,"van den Berg, Marko",AUTHOR
+1344,256,"Torsti, Pilvi",AUTHOR
+1345,256,"van den Berg, Marko",AUTHOR
+1346,257,"Santaoja, Minna",AUTHOR
+1347,257,"Santaoja, Minna",AUTHOR
+1348,258,"Vasara, Paula",AUTHOR
+1349,258,"Vasara, Paula",AUTHOR
+1350,259,Suomalaisen Kirjallisuuden Seura (SKS). Arkisto,AUTHOR
+1351,259,"Koski, Kaarina",AUTHOR
+1352,259,Suomen Akatemian Mieli ja toinen -projekti,AUTHOR
+1353,259,Finnish Literature Society (SKS). Archive,AUTHOR
+1354,259,"Koski, Kaarina",AUTHOR
+1355,259,Suomen Akatemian Mieli ja toinen -projekti,AUTHOR
+1356,260,Itä-Suomen yliopisto,AUTHOR
+1357,260,University of Eastern Finland,AUTHOR
+1358,261,"Saarelma-Töhönen, Hanna",AUTHOR
+1359,261,"Saarelma-Töhönen, Hanna",AUTHOR
+1360,262,"Linner Matikka, Johanna",AUTHOR
+1361,262,"Linner Matikka, Johanna",AUTHOR
+1362,263,"Kakkonen, Tuomo",AUTHOR
+1363,263,"Kakkonen, Tuomo",AUTHOR
+1364,264,"Lehtonen, Seija",AUTHOR
+1365,264,"Lehtonen, Seija",AUTHOR
+1366,265,Helsingin yliopisto,AUTHOR
+1367,265,Itä-Suomen yliopisto,AUTHOR
+1368,265,Lapin yliopisto,AUTHOR
+1369,265,University of Helsinki,AUTHOR
+1370,265,University of Eastern Finland,AUTHOR
+1371,265,University of Lapland,AUTHOR
+1372,266,"Hiitola, Joa",AUTHOR
+1373,266,"Leinonen, Johanna",AUTHOR
+1374,266,"Karimi, Zeinab",AUTHOR
+1375,266,"Hiitola, Joa",AUTHOR
+1376,266,"Leinonen, Johanna",AUTHOR
+1377,266,"Karimi, Zeinab",AUTHOR
+1378,267,"Haara, Paula",AUTHOR
+1379,267,"Reunanen, Esa",AUTHOR
+1380,267,"Haara, Paula",AUTHOR
+1381,267,"Reunanen, Esa",AUTHOR
+1382,268,"Hämäläinen, Minna",AUTHOR
+1383,268,"Hämäläinen, Minna",AUTHOR
+1384,269,"Santaoja, Minna",AUTHOR
+1385,269,"Santaoja, Minna",AUTHOR
+1386,270,"Kallio, Joel",AUTHOR
+1387,270,"Kallio, Joel",AUTHOR
+1388,271,"Väkeväinen, Nina",AUTHOR
+1389,271,"Väkeväinen, Nina",AUTHOR
+1390,272,"Haikonen, Matti",AUTHOR
+1391,272,"Haikonen, Matti",AUTHOR
+1392,273,"Kolhinen, Johanna",AUTHOR
+1393,273,"Kolhinen, Johanna",AUTHOR
+1394,274,"Jousmäki, Henna",AUTHOR
+1395,274,"Hautamäki, Tiina",AUTHOR
+1396,274,"Kinossalo, Maiju",AUTHOR
+1397,274,"Jousmäki, Henna",AUTHOR
+1398,274,"Hautamäki, Tiina",AUTHOR
+1399,274,"Kinossalo, Maiju",AUTHOR
+1400,275,"Mikkonen, Jukka",AUTHOR
+1401,275,"Mikkonen, Jukka",AUTHOR
+1402,276,Suomalaisen Kirjallisuuden Seura (SKS). Kansanrunousarkisto,AUTHOR
+1403,276,Talonpoikaiskulttuurisäätiö,AUTHOR
+1404,276,Finnish Literature Society (SKS). Folklore Archives,AUTHOR
+1405,276,Talonpoikaiskulttuurisäätiö,AUTHOR
+1406,277,"Ahrio, Leena",AUTHOR
+1407,277,"Ahrio, Leena",AUTHOR
+1408,278,"Ritola, Emmi",AUTHOR
+1409,278,"Ritola, Emmi",AUTHOR
+1410,279,Suomen ympäristökeskus,AUTHOR
+1411,279,Finnish Environment Institute,AUTHOR
+1412,280,Tampereen yliopisto. Kasvatustieteiden yksikkö,AUTHOR
+1413,280,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+1414,280,Tallinn University,AUTHOR
+1415,280,The Aristotle University of Thessaloniki,AUTHOR
+1416,280,University of Szeged,AUTHOR
+1417,280,Loughborough University London,AUTHOR
+1418,280,Social Sciences University of Ankara,AUTHOR
+1419,280,University College London,AUTHOR
+1420,280,University of Tampere. School of Education,AUTHOR
+1421,280,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+1422,280,Tallinn University,AUTHOR
+1423,280,The Aristotle University of Thessaloniki,AUTHOR
+1424,280,University of Szeged,AUTHOR
+1425,280,Loughborough University London,AUTHOR
+1426,280,Social Sciences University of Ankara,AUTHOR
+1427,280,University College London,AUTHOR
+1428,281,"Pulkkinen, Lea",AUTHOR
+1429,281,"Pulkkinen, Lea",AUTHOR
+1430,282,"Peltoniemi, Aila",AUTHOR
+1431,282,"Peltoniemi, Aila",AUTHOR
+1432,283,"Mankki, Ville",AUTHOR
+1433,283,"Mankki, Ville",AUTHOR
+1434,284,"Auranen, Tiina",AUTHOR
+1435,284,"Karhulahti, Veli-Matti",AUTHOR
+1436,284,"Saariniemi, Sara",AUTHOR
+1437,284,"Turtiainen, Emilia",AUTHOR
+1438,284,"Valtonen, Venla",AUTHOR
+1439,284,"Kauraoja, Valtteri",AUTHOR
+1440,284,"Nerg, Henri",AUTHOR
+1441,284,"Siidoroff, Aleksi",AUTHOR
+1442,284,"Malinen, Ville",AUTHOR
+1443,284,"Munukka, Pauliina",AUTHOR
+1444,284,"Siutila, Miia",AUTHOR
+1445,284,"Auranen, Tiina",AUTHOR
+1446,284,"Karhulahti, Veli-Matti",AUTHOR
+1447,284,"Saariniemi, Sara",AUTHOR
+1448,284,"Turtiainen, Emilia",AUTHOR
+1449,284,"Valtonen, Venla",AUTHOR
+1450,284,"Kauraoja, Valtteri",AUTHOR
+1451,284,"Nerg, Henri",AUTHOR
+1452,284,"Siidoroff, Aleksi",AUTHOR
+1453,284,"Malinen, Ville",AUTHOR
+1454,284,"Munukka, Pauliina",AUTHOR
+1455,284,"Siutila, Miia",AUTHOR
+1456,285,"Nousiainen, Marko",AUTHOR
+1457,285,"Nousiainen, Marko",AUTHOR
+1458,286,"Rangell, Suvi",AUTHOR
+1459,286,"Rangell, Suvi",AUTHOR
+1460,287,"Iltanen, Sonja",AUTHOR
+1461,287,"Iltanen, Sonja",AUTHOR
+1462,288,"Miettinen, Sonja",AUTHOR
+1463,288,"Miettinen, Sonja",AUTHOR
+1464,289,"Kasanen, Maria",AUTHOR
+1465,289,"Kitinoja, Helli",AUTHOR
+1466,289,"Nissinen, Kaija",AUTHOR
+1467,289,"Kasanen, Maria",AUTHOR
+1468,289,"Kitinoja, Helli",AUTHOR
+1469,289,"Nissinen, Kaija",AUTHOR
+1470,290,"Hartman, Maaria",AUTHOR
+1471,290,"Laine, Sofia",AUTHOR
+1472,290,"Hartman, Maaria",AUTHOR
+1473,290,"Laine, Sofia",AUTHOR
+1474,291,"Lehikoinen, Kai",AUTHOR
+1475,291,"Ruusuvirta, Minna",AUTHOR
+1476,291,Saukkonen Pasi,AUTHOR
+1477,291,"Lehikoinen, Kai",AUTHOR
+1478,291,"Ruusuvirta, Minna",AUTHOR
+1479,291,Saukkonen Pasi,AUTHOR
+1480,292,"Mary, Aurelie",AUTHOR
+1481,292,"Mary, Aurelie",AUTHOR
+1482,293,"Haavio-Mannila, Elina",AUTHOR
+1483,293,"Roos, J.P.",AUTHOR
+1484,293,"Rotkirch, Anna",AUTHOR
+1485,293,"Haavio-Mannila, Elina",AUTHOR
+1486,293,"Roos, J.P.",AUTHOR
+1487,293,"Rotkirch, Anna",AUTHOR
+1488,294,"Koivunen, Tuija",AUTHOR
+1489,294,"Koivunen, Tuija",AUTHOR
+1490,295,"Blom, Raimo",AUTHOR
+1491,295,"Leiulfsrud, Håkon",AUTHOR
+1492,295,"Melin, Harri",AUTHOR
+1493,295,"Oinonen, Eriikka",AUTHOR
+1494,295,"Savolainen, Raija",AUTHOR
+1495,295,"Blom, Raimo",AUTHOR
+1496,295,"Leiulfsrud, Håkon",AUTHOR
+1497,295,"Melin, Harri",AUTHOR
+1498,295,"Oinonen, Eriikka",AUTHOR
+1499,295,"Savolainen, Raija",AUTHOR
+1500,296,"Räty, Reetta",AUTHOR
+1501,296,"Räty, Reetta",AUTHOR
+1502,297,Tampere Praksis,AUTHOR
+1503,297,Tampere Praksis Project,AUTHOR
+1504,298,"Koivisto, Taru",AUTHOR
+1505,298,"Koivisto, Taru",AUTHOR
+1506,299,"Karlsson, Liisa",AUTHOR
+1507,299,"Karlsson, Liisa",AUTHOR
+1508,300,"Rautiainen, Pirjo",AUTHOR
+1509,300,"Rautiainen, Pirjo",AUTHOR
+1510,301,Suomalaisen Kirjallisuuden Seura (SKS). Arkisto,AUTHOR
+1511,301,Finnish Literature Society. Archive,AUTHOR
+1512,302,"Matikainen, Minni",AUTHOR
+1513,302,"Piironen, Anni",AUTHOR
+1514,302,"Matikainen, Minni",AUTHOR
+1515,302,"Piironen, Anni",AUTHOR
+1516,303,"Rantanen, Teijo",AUTHOR
+1517,303,"Rantanen, Teijo",AUTHOR
+1518,304,"Peltoniemi, Johanna",AUTHOR
+1519,304,"Weide, Marjukka",AUTHOR
+1520,304,"Nemcok, Miroslav",AUTHOR
+1521,304,"Wass, Hanna",AUTHOR
+1522,304,"Peltoniemi, Johanna",AUTHOR
+1523,304,"Weide, Marjukka",AUTHOR
+1524,304,"Nemcok, Miroslav",AUTHOR
+1525,304,"Wass, Hanna",AUTHOR
+1526,305,"Räty, Reetta",AUTHOR
+1527,305,"Räty, Reetta",AUTHOR
+1528,306,"Haavio-Mannila, Elina",AUTHOR
+1529,306,"Roos, J.P.",AUTHOR
+1530,306,"Haavio-Mannila, Elina",AUTHOR
+1531,306,"Roos, J.P.",AUTHOR
+1532,307,"Mäkinen, Jukka",AUTHOR
+1533,307,"Hietaniemi-Virtanen, Niina",AUTHOR
+1534,307,"Mäkelä, Maria",AUTHOR
+1535,307,"Mäkinen, Jukka",AUTHOR
+1536,307,"Hietaniemi-Virtanen, Niina",AUTHOR
+1537,307,"Mäkelä, Maria",AUTHOR
+1538,308,Tampere Praksis,AUTHOR
+1539,308,Tampere Praksis Project,AUTHOR
+1540,309,"Jama, Kaisa-Mari",AUTHOR
+1541,309,"Jama, Kaisa-Mari",AUTHOR
+1542,310,"Lehtonen, Jukka P.",AUTHOR
+1543,310,"Mustola, Kati",AUTHOR
+1544,310,"Lehtonen, Jukka P.",AUTHOR
+1545,310,"Mustola, Kati",AUTHOR
+1546,311,"Salonen, Helmi",AUTHOR
+1547,311,"Salonen, Helmi",AUTHOR
+1548,312,"Kaukonen, Erkki",AUTHOR
+1549,312,"Alestalo, Marja",AUTHOR
+1550,312,"Kaukonen, Erkki",AUTHOR
+1551,312,"Alestalo, Marja",AUTHOR
+1552,313,Tampere Praksis,AUTHOR
+1553,313,Tampere Praksis Project,AUTHOR
+1554,314,"Saarnio, Pekka",AUTHOR
+1555,314,"Saarnio, Pekka",AUTHOR
+1556,315,"Sarelin, Alessandra",AUTHOR
+1557,315,"Sarelin, Alessandra",AUTHOR
+1558,316,"Pietilä, Meri",AUTHOR
+1559,316,"Saurio, Kaisa",AUTHOR
+1560,316,"Hankonen, Nelli",AUTHOR
+1561,316,"Pietilä, Meri",AUTHOR
+1562,316,"Saurio, Kaisa",AUTHOR
+1563,316,"Hankonen, Nelli",AUTHOR
+1564,317,"Högbacka, Riitta",AUTHOR
+1565,317,"Högbacka, Riitta",AUTHOR
+1566,318,"Oksa, Jukka",AUTHOR
+1567,318,"Talsi, Noora",AUTHOR
+1568,318,"Tuuva-Hongisto, Sari",AUTHOR
+1569,318,"Uotinen, Johanna",AUTHOR
+1570,318,"Oksa, Jukka",AUTHOR
+1571,318,"Talsi, Noora",AUTHOR
+1572,318,"Tuuva-Hongisto, Sari",AUTHOR
+1573,318,"Uotinen, Johanna",AUTHOR
+1574,319,"Heikkilä, Riie",AUTHOR
+1575,319,"Heikkilä, Riie",AUTHOR
+1576,320,"Hynynen, Kaisa",AUTHOR
+1577,320,"Wallin, Antti",AUTHOR
+1578,320,"Häikiö, Liisa",AUTHOR
+1579,320,"Hynynen, Kaisa",AUTHOR
+1580,320,"Wallin, Antti",AUTHOR
+1581,320,"Häikiö, Liisa",AUTHOR
+1582,321,"Groop, Catharina",AUTHOR
+1583,321,"Groop, Catharina",AUTHOR
+1584,322,"Parviainen, Jaana",AUTHOR
+1585,322,"Alanen, Paula",AUTHOR
+1586,322,"Parviainen, Jaana",AUTHOR
+1587,322,"Alanen, Paula",AUTHOR
+1588,323,"Saarni, Matti",AUTHOR
+1589,323,"Saarni, Matti",AUTHOR
+1590,324,"Sandberg, Birgitta",AUTHOR
+1591,324,"Hurmerinta, Leila",AUTHOR
+1592,324,"Sandberg, Birgitta",AUTHOR
+1593,324,"Hurmerinta, Leila",AUTHOR
+1594,325,"Vehviläinen, Marja",AUTHOR
+1595,325,"Vehviläinen, Marja",AUTHOR
+1596,326,"Raittila, Pentti",AUTHOR
+1597,326,"Raittila, Pentti",AUTHOR
+1598,327,Yleisradio (YLE). Yleisötutkimus,AUTHOR
+1599,327,Jyväskylän yliopisto. Nykykulttuurin tutkimuskeskus,AUTHOR
+1600,327,Suomalaisen Kirjallisuuden Seura (SKS). Kansanrunousarkisto,AUTHOR
+1601,327,Finnish Broadcasting Company (YLE). Audience Research,AUTHOR
+1602,327,University of Jyväskylä. Research Centre for Contemporary Culture,AUTHOR
+1603,327,Finnish Literature Society (SKS). Folklore Archives,AUTHOR
+1604,328,"Isola, Anna-Maria",AUTHOR
+1605,328,"Vaara, Mariitta",AUTHOR
+1606,328,"Isola, Anna-Maria",AUTHOR
+1607,328,"Vaara, Mariitta",AUTHOR
+1608,329,"Ikonen, Hanna-Mari",AUTHOR
+1609,329,"Ikonen, Hanna-Mari",AUTHOR
+1610,330,"Alho, Joel",AUTHOR
+1611,330,"Mankinen, Katja",AUTHOR
+1612,330,"Alho, Joel",AUTHOR
+1613,330,"Mankinen, Katja",AUTHOR
+1614,331,"Räty, Reetta",AUTHOR
+1615,331,"Räty, Reetta",AUTHOR
+1616,332,"Niemelä, Anna",AUTHOR
+1617,332,"Niemelä, Anna",AUTHOR
+1618,333,"Tuuri, Kai",AUTHOR
+1619,333,"Koskela, Oskari",AUTHOR
+1620,333,"Tissari, Heli",AUTHOR
+1621,333,"Vahlo, Jukka",AUTHOR
+1622,333,"Tuuri, Kai",AUTHOR
+1623,333,"Koskela, Oskari",AUTHOR
+1624,333,"Tissari, Heli",AUTHOR
+1625,333,"Vahlo, Jukka",AUTHOR
+1626,334,"Dufva, Mikko",AUTHOR
+1627,334,"Dufva, Mikko",AUTHOR
+1628,335,Suomalaisen Kirjallisuuden Seura. Arkisto,AUTHOR
+1629,335,Talonpoikaiskulttuurisäätiö,AUTHOR
+1630,335,Finnish Literature Society. Archive,AUTHOR
+1631,335,Talonpoikaiskulttuurisäätiö [Foundation for Peasant Culture],AUTHOR
+1632,336,"Määttä, Mirja",AUTHOR
+1633,336,"Määttä, Mirja",AUTHOR
+1634,337,"Kontula, Osmo",AUTHOR
+1635,337,"Kontula, Osmo",AUTHOR
+1636,338,Vakaumusten tasa-arvo VATA ry,AUTHOR
+1637,338,Tampereen vapaa-ajattelijat ry,AUTHOR
+1638,338,Vakaumusten tasa-arvo VATA ry,AUTHOR
+1639,338,Tampereen vapaa-ajattelijat ry,AUTHOR
+1640,339,"Castrén, Sari",AUTHOR
+1641,339,"Hylkiä, Krista",AUTHOR
+1642,339,"Peltonen, Aino",AUTHOR
+1643,339,"Karhulahti, Veli-Matti",AUTHOR
+1644,339,"Castrén, Sari",AUTHOR
+1645,339,"Hylkiä, Krista",AUTHOR
+1646,339,"Peltonen, Aino",AUTHOR
+1647,339,"Karhulahti, Veli-Matti",AUTHOR
+1648,340,"Aro, Jari",AUTHOR
+1649,340,"Aro, Jari",AUTHOR
+1650,341,"Santaoja, Minna",AUTHOR
+1651,341,"Santaoja, Minna",AUTHOR
+1652,342,"Laine, Markus",AUTHOR
+1653,342,"Peltonen, Lasse",AUTHOR
+1654,342,"Laine, Markus",AUTHOR
+1655,342,"Peltonen, Lasse",AUTHOR
+1656,343,Suomalaisen Kirjallisuuden Seura (SKS). Arkisto,AUTHOR
+1657,343,Finnish Literature Society,AUTHOR
+1658,344,"Räty, Reetta",AUTHOR
+1659,344,"Räty, Reetta",AUTHOR
+1660,345,"Alasuutari, Maarit",AUTHOR
+1661,345,"Karila, Kirsti",AUTHOR
+1662,345,"Mäkinen, Eleanora",AUTHOR
+1663,345,"Paananen, Maiju",AUTHOR
+1664,345,"Repo, Katja",AUTHOR
+1665,345,"Hynynen, Kaisa",AUTHOR
+1666,345,"Alasuutari, Maarit",AUTHOR
+1667,345,"Karila, Kirsti",AUTHOR
+1668,345,"Mäkinen, Eleanora",AUTHOR
+1669,345,"Paananen, Maiju",AUTHOR
+1670,345,"Repo, Katja",AUTHOR
+1671,345,"Hynynen, Kaisa",AUTHOR
+1672,346,"Tuuri, Kai",AUTHOR
+1673,346,"Koskela, Oskari",AUTHOR
+1674,346,"Tissari, Heli",AUTHOR
+1675,346,"Vahlo, Jukka",AUTHOR
+1676,346,"Tuuri, Kai",AUTHOR
+1677,346,"Koskela, Oskari",AUTHOR
+1678,346,"Tissari, Heli",AUTHOR
+1679,346,"Vahlo, Jukka",AUTHOR
+1680,347,"Nokkala, Terhi",AUTHOR
+1681,347,"Diogo, Sara",AUTHOR
+1682,347,"Nokkala, Terhi",AUTHOR
+1683,347,"Diogo, Sara",AUTHOR
+1684,348,"Lehtonen, Jukka",AUTHOR
+1685,348,"Lehtonen, Jukka",AUTHOR
+1686,349,"Juvonen, Tuula",AUTHOR
+1687,349,"Juvonen, Tuula",AUTHOR
+1688,350,Kulttuuripolitiikan tutkimuskeskus Cupore,AUTHOR
+1689,350,Center for Cultural Policy Research,AUTHOR
+1690,351,"Hankonen, Nelli",AUTHOR
+1691,351,"Hankonen, Nelli",AUTHOR
+1692,352,"Galanakis, Michail",AUTHOR
+1693,352,"Galanakis, Michail",AUTHOR
+1694,353,"Kinnunen, Ulla",AUTHOR
+1695,353,"Kinnunen, Ulla",AUTHOR
+1696,354,"Lappalainen, Sirpa",AUTHOR
+1697,354,"Lappalainen, Sirpa",AUTHOR
+1698,355,"Hyvönen, Henri",AUTHOR
+1699,355,"Hyvönen, Henri",AUTHOR
+1700,356,"Laine, Nadja",AUTHOR
+1701,356,"Laine, Nadja",AUTHOR
+1702,357,Suomalaisen Kirjallisuuden Seura (SKS),AUTHOR
+1703,357,"Lauren, Kirsi",AUTHOR
+1704,357,"Niemelä, Reetta",AUTHOR
+1705,357,"Schuurman, Nora",AUTHOR
+1706,357,"Syrjämaa, Taina",AUTHOR
+1707,357,Finnish Literature Society (SKS),AUTHOR
+1708,357,"Lauren, Kirsi",AUTHOR
+1709,357,"Niemelä, Reetta",AUTHOR
+1710,357,"Schuurman, Nora",AUTHOR
+1711,357,"Syrjämaa, Taina",AUTHOR
+1712,358,"Haatainen, Oona",AUTHOR
+1713,358,"Haatainen, Oona",AUTHOR
+1714,359,"Hytönen, Kirsi-Maria",AUTHOR
+1715,359,"Markkola, Pirjo",AUTHOR
+1716,359,"Kuronen, Marjo",AUTHOR
+1717,359,"Korkiakangas, Pirjo",AUTHOR
+1718,359,"Oksanen, Johanna",AUTHOR
+1719,359,"Malinen, Antti",AUTHOR
+1720,359,"Salenius, Paula",AUTHOR
+1721,359,"Junkala, Pekka",AUTHOR
+1722,359,"Haikari, Janne",AUTHOR
+1723,359,"Tawah, Sanna",AUTHOR
+1724,359,"Hytönen, Kirsi-Maria",AUTHOR
+1725,359,"Markkola, Pirjo",AUTHOR
+1726,359,"Kuronen, Marjo",AUTHOR
+1727,359,"Korkiakangas, Pirjo",AUTHOR
+1728,359,"Oksanen, Johanna",AUTHOR
+1729,359,"Malinen, Antti",AUTHOR
+1730,359,"Salenius, Paula",AUTHOR
+1731,359,"Junkala, Pekka",AUTHOR
+1732,359,"Haikari, Janne",AUTHOR
+1733,359,"Tawah, Sanna",AUTHOR
+1734,360,Suomalaisen Kirjallisuuden Seura (SKS). Arkisto,AUTHOR
+1735,360,Finnish Literature Society. Archive,AUTHOR
+1736,361,"Aula, Inkeri",AUTHOR
+1737,361,"Aula, Inkeri",AUTHOR
+1738,362,"Määttä, Mirja",AUTHOR
+1739,362,"Määttä, Mirja",AUTHOR
+1740,363,"Räty, Reetta",AUTHOR
+1741,363,"Räty, Reetta",AUTHOR
+1742,364,Suomalaisen Kirjallisuuden Seura (SKS). Arkisto,AUTHOR
+1743,364,Finnish Literature Society. Archive,AUTHOR
+1744,365,"Turunen, Elina",AUTHOR
+1745,365,"Isola, Anna-Maria",AUTHOR
+1746,365,"Turunen, Elina",AUTHOR
+1747,365,"Isola, Anna-Maria",AUTHOR
+1748,366,"Kuula, Meri",AUTHOR
+1749,366,"Kuula, Meri",AUTHOR
+1750,367,"Malinen, Kaisa",AUTHOR
+1751,367,"Moilanen, Johnanna",AUTHOR
+1752,367,"Punna, Mari",AUTHOR
+1753,367,"Kiili, Johanna",AUTHOR
+1754,367,"Svenlin, Anu-Riina",AUTHOR
+1755,367,"Malinen, Kaisa",AUTHOR
+1756,367,"Moilanen, Johnanna",AUTHOR
+1757,367,"Punna, Mari",AUTHOR
+1758,367,"Kiili, Johanna",AUTHOR
+1759,367,"Svenlin, Anu-Riina",AUTHOR
+1760,368,"Schuurman, Nora",AUTHOR
+1761,368,"Schuurman, Nora",AUTHOR
+1762,369,"Räty, Reetta",AUTHOR
+1763,369,"Räty, Reetta",AUTHOR
+1764,370,Nordic Centre of Excellence on Women in Technology Driven Careers (NORDWIT),AUTHOR
+1765,370,Nordic Centre of Excellence on Women in Technology Driven Careers (NORDWIT),AUTHOR
+1766,371,"Jokiniemi, Sinikka",AUTHOR
+1767,371,"Jokiniemi, Sinikka",AUTHOR
+1768,372,"Miettilä, Heidi",AUTHOR
+1769,372,"Miettilä, Heidi",AUTHOR
+1770,373,"Juhila, Kirsi",AUTHOR
+1771,373,"Günther, Kirsi",AUTHOR
+1772,373,"Kaartamo, Riina",AUTHOR
+1773,373,"Kulmala, Anna",AUTHOR
+1774,373,"Raitakari, Suvi",AUTHOR
+1775,373,"Saario, Sirpa",AUTHOR
+1776,373,"Juhila, Kirsi",AUTHOR
+1777,373,"Günther, Kirsi",AUTHOR
+1778,373,"Kaartamo, Riina",AUTHOR
+1779,373,"Kulmala, Anna",AUTHOR
+1780,373,"Raitakari, Suvi",AUTHOR
+1781,373,"Saario, Sirpa",AUTHOR
+1782,374,"Taipale, Tiina",AUTHOR
+1783,374,"Taipale, Tiina",AUTHOR
+1784,375,"Kasesniemi, Eija-Liisa",AUTHOR
+1785,375,"Kasesniemi, Eija-Liisa",AUTHOR
+1786,376,"Lappalainen, Sirpa",AUTHOR
+1787,376,"Lappalainen, Sirpa",AUTHOR
+1788,377,"Haarni, Ilka",AUTHOR
+1789,377,"Haarni, Ilka",AUTHOR
+1790,378,"Kuukka, Katri",AUTHOR
+1791,378,"Kuukka, Katri",AUTHOR
+1792,379,"Pienimäki, Mari",AUTHOR
+1793,379,"Pienimäki, Mari",AUTHOR
+1794,380,"Siutila, Miia",AUTHOR
+1795,380,"Karhulahti, Veli-Matti",AUTHOR
+1796,380,"Päivinen, Antti",AUTHOR
+1797,380,"Perttu, Soli",AUTHOR
+1798,380,"Laitinen, Tanja",AUTHOR
+1799,380,"Korhonen, Venla",AUTHOR
+1800,380,"Siutila, Miia",AUTHOR
+1801,380,"Karhulahti, Veli-Matti",AUTHOR
+1802,380,"Päivinen, Antti",AUTHOR
+1803,380,"Perttu, Soli",AUTHOR
+1804,380,"Laitinen, Tanja",AUTHOR
+1805,380,"Korhonen, Venla",AUTHOR
+1806,381,"Gretschel, Anu",AUTHOR
+1807,381,Nuorisotutkimusseura. Nuorisotutkimusverkosto,AUTHOR
+1808,381,"Gretschel, Anu",AUTHOR
+1809,381,Finnish Youth Research Society. Finnish Youth Research Network,AUTHOR
+1810,382,"Faehnle, Maija",AUTHOR
+1811,382,"Schulman, Harry",AUTHOR
+1812,382,"Söderman, Tarja",AUTHOR
+1813,382,"Kopperoinen, Leena",AUTHOR
+1814,382,"Hirvensalo, Jenni",AUTHOR
+1815,382,"Faehnle, Maija",AUTHOR
+1816,382,"Schulman, Harry",AUTHOR
+1817,382,"Söderman, Tarja",AUTHOR
+1818,382,"Kopperoinen, Leena",AUTHOR
+1819,382,"Hirvensalo, Jenni",AUTHOR
+1820,383,"Ikonen, Hanna-Mari",AUTHOR
+1821,383,"Ikonen, Hanna-Mari",AUTHOR
+1822,384,"Pulkkinen, Lea",AUTHOR
+1823,384,"Pulkkinen, Lea",AUTHOR
+1824,385,"Kekkonen, Marjatta",AUTHOR
+1825,385,"Kekkonen, Marjatta",AUTHOR
+1826,386,"Airaksinen, Tiina",AUTHOR
+1827,386,"Airaksinen, Tiina",AUTHOR
+1828,387,Suomalaisen Kirjallisuuden Seura (SKS),AUTHOR
+1829,387,"Karonen, Petri",AUTHOR
+1830,387,Finnish Literature Society (SKS),AUTHOR
+1831,387,"Karonen, Petri",AUTHOR
+1832,388,"Puuronen, Anne",AUTHOR
+1833,388,"Tuominen, Tuula",AUTHOR
+1834,388,"Lindroos, Sanni",AUTHOR
+1835,388,"Nyman, Katrina",AUTHOR
+1836,388,"Taipale, Mikko",AUTHOR
+1837,388,"Puuronen, Anne",AUTHOR
+1838,388,"Tuominen, Tuula",AUTHOR
+1839,388,"Lindroos, Sanni",AUTHOR
+1840,388,"Nyman, Katrina",AUTHOR
+1841,388,"Taipale, Mikko",AUTHOR
+1842,389,Nuorisotutkimusseura. Nuorisotutkimusverkosto,AUTHOR
+1843,389,Opiskelijajärjestöjen tutkimussäätiö (Otus),AUTHOR
+1844,389,Finnish Youth Research Society. Finnish Youth Research Network,AUTHOR
+1845,389,Student Research Foundation (Otus),AUTHOR
+1846,390,"Salminen, Tilda",AUTHOR
+1847,390,"Salminen, Tilda",AUTHOR
+1848,391,Taiteen edistämiskeskus (TAIKE),AUTHOR
+1849,391,Arts Promotion Centre Finland (TAIKE),AUTHOR
+1850,392,"Rautiainen, Pirjo",AUTHOR
+1851,392,"Rautiainen, Pirjo",AUTHOR
+1852,393,"Nousiainen, Marko",AUTHOR
+1853,393,"Sillanpää, Julia",AUTHOR
+1854,393,"Nousiainen, Marko",AUTHOR
+1855,393,"Sillanpää, Julia",AUTHOR
+1856,394,"Näre, Lena",AUTHOR
+1857,394,Suomalaisen Kirjallisuuden Seura (SKS). Arkisto,AUTHOR
+1858,394,"Näre, Lena",AUTHOR
+1859,394,Finnish Literature Society (SKS). Archive,AUTHOR
+1860,395,"Pienimäki, Mari",AUTHOR
+1861,395,"Kotilainen, Sirkku",AUTHOR
+1862,395,"Kalfayan, Aline",AUTHOR
+1863,395,"Grönholm, Pauliina",AUTHOR
+1864,395,"Pienimäki, Mari",AUTHOR
+1865,395,"Kotilainen, Sirkku",AUTHOR
+1866,395,"Kalfayan, Aline",AUTHOR
+1867,395,"Grönholm, Pauliina",AUTHOR
+1868,396,"Taavetti, Riikka",AUTHOR
+1869,396,"Taavetti, Riikka",AUTHOR
+1870,397,"Isola, Anna-Maria",AUTHOR
+1871,397,"Isola, Anna-Maria",AUTHOR
+1872,398,"Huitula, Eeva",AUTHOR
+1873,398,"Huitula, Eeva",AUTHOR
+1874,399,"Karikoski, Anne",AUTHOR
+1875,399,"Karikoski, Anne",AUTHOR
+1876,400,"Alakoski, Riikka",AUTHOR
+1877,400,"Alakoski, Riikka",AUTHOR
+1878,401,Tampere Praksis,AUTHOR
+1879,401,Tampere Praksis Project,AUTHOR
+1880,402,"Hasanen, Kirsi",AUTHOR
+1881,402,"Hasanen, Kirsi",AUTHOR
+1882,403,"Räty, Reetta",AUTHOR
+1883,403,"Räty, Reetta",AUTHOR
+1884,404,"Peltola, Marja",AUTHOR
+1885,404,"Kosunen, Sonja",AUTHOR
+1886,404,"Luoma, Tiina",AUTHOR
+1887,404,"Oittinen, Riikka",AUTHOR
+1888,404,"Huilla, Heidi",AUTHOR
+1889,404,"Juvonen, Sara",AUTHOR
+1890,404,"Peltola, Marja",AUTHOR
+1891,404,"Kosunen, Sonja",AUTHOR
+1892,404,"Luoma, Tiina",AUTHOR
+1893,404,"Oittinen, Riikka",AUTHOR
+1894,404,"Huilla, Heidi",AUTHOR
+1895,404,"Juvonen, Sara",AUTHOR
+1896,405,"Tammisalo, Venla",AUTHOR
+1897,405,"Tammisalo, Venla",AUTHOR
+1898,406,"Lehtonen, Jukka P.",AUTHOR
+1899,406,"Mustola, Kati",AUTHOR
+1900,406,"Lehtonen, Jukka P.",AUTHOR
+1901,406,"Mustola, Kati",AUTHOR
+1902,407,"Syrjänen, Anne",AUTHOR
+1903,407,"Syrjänen, Anne",AUTHOR
+1904,408,"Harju, Ilkka",AUTHOR
+1905,408,"Kivivuori, Kaisa",AUTHOR
+1906,408,"Peltola, Marjaana",AUTHOR
+1907,408,"Harju, Ilkka",AUTHOR
+1908,408,"Kivivuori, Kaisa",AUTHOR
+1909,408,"Peltola, Marjaana",AUTHOR
+1910,409,"Riihelä, Monika",AUTHOR
+1911,409,"Karlsson, Liisa",AUTHOR
+1912,409,"Riihelä, Monika",AUTHOR
+1913,409,"Karlsson, Liisa",AUTHOR
+1914,410,"Lappalainen, Sirpa",AUTHOR
+1915,410,"Lappalainen, Sirpa",AUTHOR
+1916,411,"Latvala, Pauliina",AUTHOR
+1917,411,"Latvala, Pauliina",AUTHOR
+1918,412,"Noppari, Elina",AUTHOR
+1919,412,"Reunanen, Esa",AUTHOR
+1920,412,"Noppari, Elina",AUTHOR
+1921,412,"Reunanen, Esa",AUTHOR
+1922,413,"Kasesniemi, Eija-Liisa",AUTHOR
+1923,413,"Kasesniemi, Eija-Liisa",AUTHOR
+1924,414,"Leinonen, Minna",AUTHOR
+1925,414,"Haapakorpi, Arja",AUTHOR
+1926,414,"Otonkorpi-Lehtoranta, Katri",AUTHOR
+1927,414,"Leinonen, Minna",AUTHOR
+1928,414,"Haapakorpi, Arja",AUTHOR
+1929,414,"Otonkorpi-Lehtoranta, Katri",AUTHOR
+1930,415,"Reunanen, Esa",AUTHOR
+1931,415,"Kunelius, Risto",AUTHOR
+1932,415,"Noppari, Elina",AUTHOR
+1933,415,"Reunanen, Esa",AUTHOR
+1934,415,"Kunelius, Risto",AUTHOR
+1935,415,"Noppari, Elina",AUTHOR
+1936,416,"Räty, Reetta",AUTHOR
+1937,416,"Räty, Reetta",AUTHOR
+1938,417,"Koivunen, Tuija",AUTHOR
+1939,417,"Koivunen, Tuija",AUTHOR
+1940,418,Valtioneuvoston kanslia. VNTEAS Afganistan -tutkimuskonsortio,AUTHOR
+1941,418,Prime Minister's Office. VNTEAS Afghanistan - Research Consortium,AUTHOR
+1942,419,"Nevalainen, Inka",AUTHOR
+1943,419,"Nevalainen, Inka",AUTHOR
+1944,420,"Kasesniemi, Eija-Liisa",AUTHOR
+1945,420,"Oksman, Virpi",AUTHOR
+1946,420,"Kasesniemi, Eija-Liisa",AUTHOR
+1947,420,"Oksman, Virpi",AUTHOR
+1948,421,Suomalaisen Kirjallisuuden Seura (SKS). Arkisto,AUTHOR
+1949,421,Finnish Literature Society. Archive,AUTHOR
+1950,422,"Jokela, Susanna",AUTHOR
+1951,422,"Jokela, Susanna",AUTHOR
+1952,423,"Kesänen, Minna",AUTHOR
+1953,423,"Pietilä, Eija",AUTHOR
+1954,423,"Selin, Jani",AUTHOR
+1955,423,"Kesänen, Minna",AUTHOR
+1956,423,"Pietilä, Eija",AUTHOR
+1957,423,"Selin, Jani",AUTHOR
+1958,424,"Palukka, Hannele",AUTHOR
+1959,424,"Palukka, Hannele",AUTHOR
+1960,425,"Vähätalo, Lauri",AUTHOR
+1961,425,"Siukola, Anna",AUTHOR
+1962,425,"Vähätalo, Lauri",AUTHOR
+1963,425,"Siukola, Anna",AUTHOR
+1964,426,Tampereen yliopisto. Kasvatustieteiden yksikkö,AUTHOR
+1965,426,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+1966,426,Tallinn University,AUTHOR
+1967,426,The Aristotle University of Thessaloniki,AUTHOR
+1968,426,University of Szeged,AUTHOR
+1969,426,Loughborough University London,AUTHOR
+1970,426,Social Sciences University of Ankara,AUTHOR
+1971,426,University College London,AUTHOR
+1972,426,University of Tampere. School of Education,AUTHOR
+1973,426,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+1974,426,Tallinn University,AUTHOR
+1975,426,The Aristotle University of Thessaloniki,AUTHOR
+1976,426,University of Szeged,AUTHOR
+1977,426,Loughborough University London,AUTHOR
+1978,426,Social Sciences University of Ankara,AUTHOR
+1979,426,University College London,AUTHOR
+1980,427,"Avelin, Liisa",AUTHOR
+1981,427,"Avelin, Liisa",AUTHOR
+1982,428,"Kröger, Teppo",AUTHOR
+1983,428,"Jolanki, Outi",AUTHOR
+1984,428,"Leinonen, Anu",AUTHOR
+1985,428,"Kröger, Teppo",AUTHOR
+1986,428,"Jolanki, Outi",AUTHOR
+1987,428,"Leinonen, Anu",AUTHOR
+1988,429,"Seppälä, Milla",AUTHOR
+1989,429,"Seppälä, Milla",AUTHOR
+1990,430,"Kaihlavirta-Häikiö, Miia",AUTHOR
+1991,430,"Kaihlavirta-Häikiö, Miia",AUTHOR
+1992,431,"Aaltonen, Heini",AUTHOR
+1993,431,"Aaltonen, Heini",AUTHOR
+1994,432,"Helve, Helena",AUTHOR
+1995,432,"Helve, Helena",AUTHOR
+1996,433,"Salonlahti, Outi",AUTHOR
+1997,433,"Salonlahti, Outi",AUTHOR
+1998,434,"Ritola, Salli-Sofia",AUTHOR
+1999,434,"Ritola, Salli-Sofia",AUTHOR
+2000,435,Suomalaisen Kirjallisuuden Seura (SKS). Kansanrunousarkisto,AUTHOR
+2001,435,Finnish Literature Society (SKS). Folklore Archives,AUTHOR
+2002,436,Vakaumusten tasa-arvo VATA ry,AUTHOR
+2003,436,Tampereen vapaa-ajattelijat ry,AUTHOR
+2004,436,Vakaumusten tasa-arvo VATA ry,AUTHOR
+2005,436,Tampereen vapaa-ajattelijat ry,AUTHOR
+2006,437,"Vuolle, Terhi",AUTHOR
+2007,437,"Vuolle, Terhi",AUTHOR
+2008,438,"Räsänen, Pia",AUTHOR
+2009,438,"Jama, Subeida",AUTHOR
+2010,438,"Räsänen, Pia",AUTHOR
+2011,438,"Jama, Subeida",AUTHOR
+2012,439,"Isola, Anna-Maria",AUTHOR
+2013,439,"Larivaara, Meri",AUTHOR
+2014,439,"Mikkonen, Juha",AUTHOR
+2015,439,"Isola, Anna-Maria",AUTHOR
+2016,439,"Larivaara, Meri",AUTHOR
+2017,439,"Mikkonen, Juha",AUTHOR
+2018,440,"Törrönen, Jukka",AUTHOR
+2019,440,"Törrönen, Jukka",AUTHOR
+2020,441,"Seppänen, Sirke",AUTHOR
+2021,441,"Seppänen, Sirke",AUTHOR
+2022,442,"Matres, Inés",AUTHOR
+2023,442,"Matres, Inés",AUTHOR
+2024,443,Tampereen yliopisto. Kasvatustieteiden yksikkö,AUTHOR
+2025,443,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+2026,443,Tallinn University,AUTHOR
+2027,443,The Aristotle University of Thessaloniki,AUTHOR
+2028,443,University of Szeged,AUTHOR
+2029,443,Loughborough University London,AUTHOR
+2030,443,Social Sciences University of Ankara,AUTHOR
+2031,443,University College London,AUTHOR
+2032,443,University of Tampere. School of Education,AUTHOR
+2033,443,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+2034,443,Tallinn University,AUTHOR
+2035,443,The Aristotle University of Thessaloniki,AUTHOR
+2036,443,University of Szeged,AUTHOR
+2037,443,Loughborough University London,AUTHOR
+2038,443,Social Sciences University of Ankara,AUTHOR
+2039,443,University College London,AUTHOR
+2040,444,Museovirasto,AUTHOR
+2041,444,Suomen Kotiseutuliitto,AUTHOR
+2042,444,National Board of Antiquities,AUTHOR
+2043,444,Finnish Local Heritage Federation,AUTHOR
+2044,445,"Juhila, Kirsi",AUTHOR
+2045,445,"Günther, Kirsi",AUTHOR
+2046,445,"Kaartamo, Riina",AUTHOR
+2047,445,"Kulmala, Anna",AUTHOR
+2048,445,"Raitakari, Suvi",AUTHOR
+2049,445,"Saario, Sirpa",AUTHOR
+2050,445,"Juhila, Kirsi",AUTHOR
+2051,445,"Günther, Kirsi",AUTHOR
+2052,445,"Kaartamo, Riina",AUTHOR
+2053,445,"Kulmala, Anna",AUTHOR
+2054,445,"Raitakari, Suvi",AUTHOR
+2055,445,"Saario, Sirpa",AUTHOR
+2056,446,Yleisradio (YLE),AUTHOR
+2057,446,Finnish Broadcasting Company (YLE),AUTHOR
+2058,447,"Pettersson, Katarina",AUTHOR
+2059,447,"Pettersson, Katarina",AUTHOR
+2060,448,Tampereen vapaa-ajattelijat ry,AUTHOR
+2061,448,Tampereen vapaa-ajattelijat ry,AUTHOR
+2062,449,"Malinen, Antti",AUTHOR
+2063,449,Suomalaisen Kirjallisuuden Seura (SKS). Arkisto,AUTHOR
+2064,449,"Malinen, Antti",AUTHOR
+2065,449,Finnish Literature Society (SKS). Archive,AUTHOR
+2066,450,"Moberg, Joona",AUTHOR
+2067,450,"Moberg, Joona",AUTHOR
+2068,451,Tampere Praksis,AUTHOR
+2069,451,Tampere Praksis Project,AUTHOR
+2070,452,"Nystedt, Ursula",AUTHOR
+2071,452,"Nystedt, Ursula",AUTHOR
+2072,453,"Niskanen, Hanna",AUTHOR
+2073,453,"Niskanen, Hanna",AUTHOR
+2074,454,"Högbacka, Riitta",AUTHOR
+2075,454,"Högbacka, Riitta",AUTHOR
+2076,455,"Finell, Eerika",AUTHOR
+2077,455,Suomalaisen Kirjallisuuden Seura (SKS). Kansanrunousarkisto,AUTHOR
+2078,455,"Finell, Eerika",AUTHOR
+2079,455,Finnish Literature Society (SKS). Folklore Archives,AUTHOR
+2080,456,Vakaumusten tasa-arvo VATA ry,AUTHOR
+2081,456,Tampereen vapaa-ajattelijat ry,AUTHOR
+2082,456,Vakaumusten tasa-arvo VATA ry,AUTHOR
+2083,456,Tampereen vapaa-ajattelijat ry,AUTHOR
+2084,457,"Eriksson, Marja",AUTHOR
+2085,457,"Koski, Anne",AUTHOR
+2086,457,"Luomanen, Jari",AUTHOR
+2087,457,"Parviainen, Jaana",AUTHOR
+2088,457,"Eriksson, Marja",AUTHOR
+2089,457,"Koski, Anne",AUTHOR
+2090,457,"Luomanen, Jari",AUTHOR
+2091,457,"Parviainen, Jaana",AUTHOR
+2092,458,"Viita-aho, Mari",AUTHOR
+2093,458,"Kortti, Jukka",AUTHOR
+2094,458,"Viita-aho, Mari 0000-0002-3796-5004",AUTHOR
+2095,458,"Kortti, Jukka 0000-0003-0086-4143",AUTHOR
+2096,459,"Salonen, Kari",AUTHOR
+2097,459,"Salonen, Kari",AUTHOR
+2098,460,"Blom, Raimo",AUTHOR
+2099,460,"Leiulfsrud, Håkon",AUTHOR
+2100,460,"Melin, Harri",AUTHOR
+2101,460,"Oinonen, Eriikka",AUTHOR
+2102,460,"Savolainen, Raija",AUTHOR
+2103,460,"Blom, Raimo",AUTHOR
+2104,460,"Leiulfsrud, Håkon",AUTHOR
+2105,460,"Melin, Harri",AUTHOR
+2106,460,"Oinonen, Eriikka",AUTHOR
+2107,460,"Savolainen, Raija",AUTHOR
+2108,461,"Kangas, Kaisa",AUTHOR
+2109,461,"Kangas, Kaisa",AUTHOR
+2110,462,"Lempinen, Tanja",AUTHOR
+2111,462,"Lempinen, Tanja",AUTHOR
+2112,463,"Iivonen, Saija",AUTHOR
+2113,463,"Iivonen, Saija",AUTHOR
+2114,464,Tampereen yliopisto. Kasvatustieteiden yksikkö,AUTHOR
+2115,464,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+2116,464,Tallinn University,AUTHOR
+2117,464,The Aristotle University of Thessaloniki,AUTHOR
+2118,464,University of Szeged,AUTHOR
+2119,464,Loughborough University London,AUTHOR
+2120,464,Social Sciences University of Ankara,AUTHOR
+2121,464,University College London,AUTHOR
+2122,464,University of Tampere. School of Education,AUTHOR
+2123,464,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+2124,464,Tallinn University,AUTHOR
+2125,464,The Aristotle University of Thessaloniki,AUTHOR
+2126,464,University of Szeged,AUTHOR
+2127,464,Loughborough University London,AUTHOR
+2128,464,Social Sciences University of Ankara,AUTHOR
+2129,464,University College London,AUTHOR
+2130,465,"Räty, Reetta",AUTHOR
+2131,465,"Räty, Reetta",AUTHOR
+2132,466,"Kasesniemi, Eija-Liisa",AUTHOR
+2133,466,"Kasesniemi, Eija-Liisa",AUTHOR
+2134,467,Suomalaisen Kirjallisuuden Seura (SKS). Kansanrunousarkisto,AUTHOR
+2135,467,Finnish Literature Society (SKS). Folklore Archives,AUTHOR
+2136,468,"Manka, Mikko",AUTHOR
+2137,468,Suomalaisen Kirjallisuuden Seura. Arkisto,AUTHOR
+2138,468,"Manka, Mikko",AUTHOR
+2139,468,Finnish Literature Society. Archive,AUTHOR
+2140,469,Jyväskylän yliopisto. Koulutuksen tutkimuslaitos,AUTHOR
+2141,469,University of Jyväskylä. Finnish Institute for Educational Research,AUTHOR
+2142,470,"Ruokonen, Mirka",AUTHOR
+2143,470,"Ruokonen, Mirka",AUTHOR
+2144,471,"Mankki, Ville",AUTHOR
+2145,471,"Mankki, Ville",AUTHOR
+2146,472,"Jakonen, Mikko",AUTHOR
+2147,472,"Jakonen, Mikko",AUTHOR
+2148,473,"Mankki, Ville",AUTHOR
+2149,473,"Mankki, Ville",AUTHOR
+2150,474,"Mattinen, Pauliina",AUTHOR
+2151,474,"Mattinen, Pauliina",AUTHOR
+2152,475,"Palukka, Hannele",AUTHOR
+2153,475,"Tiilikka, Tiina",AUTHOR
+2154,475,"Palukka, Hannele",AUTHOR
+2155,475,"Tiilikka, Tiina",AUTHOR
+2156,476,"Kasesniemi, Eija-Liisa",AUTHOR
+2157,476,"Kasesniemi, Eija-Liisa",AUTHOR
+2158,477,"Luomanen, Jari",AUTHOR
+2159,477,"Pirskanen, Henna",AUTHOR
+2160,477,"Alasuutari, Pertti",AUTHOR
+2161,477,"Luomanen, Jari",AUTHOR
+2162,477,"Pirskanen, Henna",AUTHOR
+2163,477,"Alasuutari, Pertti",AUTHOR
+2164,478,"Haavio-Mannila, Elina",AUTHOR
+2165,478,Marttaliitto,AUTHOR
+2166,478,Museovirasto,AUTHOR
+2167,478,"Haavio-Mannila, Elina",AUTHOR
+2168,478,Martha Organization,AUTHOR
+2169,478,National Board of Antiquities,AUTHOR
+2170,479,Suomalaisen Kirjallisuuden Seura (SKS). Kansanrunousarkisto,AUTHOR
+2171,479,Kynnys ry,AUTHOR
+2172,479,Finnish Literature Society (SKS). Folklore Archives,AUTHOR
+2173,479,Threshold Association,AUTHOR
+2174,480,"Lammi-Taskula, Johanna",AUTHOR
+2175,480,"Närvi, Johanna",AUTHOR
+2176,480,"Alasuutari, Maarit",AUTHOR
+2177,480,"Kuukka, Anu",AUTHOR
+2178,480,"Ruutiainen, Ville",AUTHOR
+2179,480,"Siippainen, Anna",AUTHOR
+2180,480,"Terävä, Johanna",AUTHOR
+2181,480,"Eerola, Petteri",AUTHOR
+2182,480,"Fjällström, Salla",AUTHOR
+2183,480,"Karila, Kirsti",AUTHOR
+2184,480,"Repo, Katja",AUTHOR
+2185,480,"Lammi-Taskula, Johanna",AUTHOR
+2186,480,"Närvi, Johanna",AUTHOR
+2187,480,"Alasuutari, Maarit",AUTHOR
+2188,480,"Kuukka, Anu",AUTHOR
+2189,480,"Ruutiainen, Ville",AUTHOR
+2190,480,"Siippainen, Anna",AUTHOR
+2191,480,"Terävä, Johanna",AUTHOR
+2192,480,"Eerola, Petteri",AUTHOR
+2193,480,"Fjällström, Salla",AUTHOR
+2194,480,"Karila, Kirsti",AUTHOR
+2195,480,"Repo, Katja",AUTHOR
+2196,481,"Karhulahti, Veli-Matti",AUTHOR
+2197,481,"Siutila, Miia",AUTHOR
+2198,481,"Kauraoja, Valtteri",AUTHOR
+2199,481,"Malinen, Ville",AUTHOR
+2200,481,"Karhulahti, Veli-Matti",AUTHOR
+2201,481,"Siutila, Miia",AUTHOR
+2202,481,"Kauraoja, Valtteri",AUTHOR
+2203,481,"Malinen, Ville",AUTHOR
+2204,482,"Mäkinen, Katariina",AUTHOR
+2205,482,"Korvajärvi, Päivi",AUTHOR
+2206,482,"Mäkinen, Katariina",AUTHOR
+2207,482,"Korvajärvi, Päivi",AUTHOR
+2208,483,"Ehrling, Leena",AUTHOR
+2209,483,"Koski-Jännes, Anja",AUTHOR
+2210,483,"Rakkolainen, Maria",AUTHOR
+2211,483,"Tolonen, Kari",AUTHOR
+2212,483,"Ehrling, Leena",AUTHOR
+2213,483,"Koski-Jännes, Anja",AUTHOR
+2214,483,"Rakkolainen, Maria",AUTHOR
+2215,483,"Tolonen, Kari",AUTHOR
+2216,484,"Valkendorff, Tiina",AUTHOR
+2217,484,"Valkendorff, Tiina",AUTHOR
+2218,485,Suomalaisen Kirjallisuuden Seura (SKS). Arkisto,AUTHOR
+2219,485,"Kamila, Marjo",AUTHOR
+2220,485,Finnish Literature Society (SKS). Archive,AUTHOR
+2221,485,"Kamila, Marjo",AUTHOR
+2222,486,"Lampi, Hannu",AUTHOR
+2223,486,"Lampi, Hannu",AUTHOR
+2224,487,Suomalaisen Kirjallisuuden Seura (SKS). Arkisto,AUTHOR
+2225,487,Finnish Literature Society. Archive,AUTHOR
+2226,488,"Eriksson, Susan",AUTHOR
+2227,488,"Eriksson, Susan",AUTHOR
+2228,489,"Galanakis, Michail",AUTHOR
+2229,489,"Galanakis, Michail",AUTHOR
+2230,490,"Hynnä-Granberg, Kaisu",AUTHOR
+2231,490,"Hynnä-Granberg, Kaisu",AUTHOR
+2232,491,"Rajala, Anna",AUTHOR
+2233,491,"Rajala, Anna",AUTHOR
+2234,492,"Turunen, Leo",AUTHOR
+2235,492,"Kivioja, Arvi",AUTHOR
+2236,492,"Riihimäki, Jouni",AUTHOR
+2237,492,"Määttä, Paula",AUTHOR
+2238,492,"Turunen, Leo",AUTHOR
+2239,492,"Kivioja, Arvi",AUTHOR
+2240,492,"Riihimäki, Jouni",AUTHOR
+2241,492,"Määttä, Paula",AUTHOR
+2242,493,"Hakapää, Jyrki",AUTHOR
+2243,493,"Hakapää, Jyrki",AUTHOR
+2244,494,"Pulkkinen, Marianne",AUTHOR
+2245,494,"Pulkkinen, Marianne",AUTHOR
+2246,495,"Rautiainen, Pirjo",AUTHOR
+2247,495,"Kasesniemi, Eija-Liisa",AUTHOR
+2248,495,"Järveläinen, Johanna",AUTHOR
+2249,495,"Rautiainen, Pirjo",AUTHOR
+2250,495,"Kasesniemi, Eija-Liisa",AUTHOR
+2251,495,"Järveläinen, Johanna",AUTHOR
+2252,496,"Hyttinen, Elsi",AUTHOR
+2253,496,"Lehtonen, Mikko",AUTHOR
+2254,496,"Hyttinen, Elsi",AUTHOR
+2255,496,"Lehtonen, Mikko",AUTHOR
+2256,497,"Eerola, Petteri",AUTHOR
+2257,497,"Eerola, Petteri",AUTHOR
+2258,498,"Olkkonen, Satu",AUTHOR
+2259,498,"Kotilainen, Sirkku",AUTHOR
+2260,498,"Pienimäki, Mari",AUTHOR
+2261,498,"Olkkonen, Satu",AUTHOR
+2262,498,"Kotilainen, Sirkku",AUTHOR
+2263,498,"Pienimäki, Mari",AUTHOR
+2264,499,"Kaukonen, Erkki",AUTHOR
+2265,499,"Rautio, Pertti",AUTHOR
+2266,499,"Suhonen, Pertti",AUTHOR
+2267,499,"Kaukonen, Erkki",AUTHOR
+2268,499,"Rautio, Pertti",AUTHOR
+2269,499,"Suhonen, Pertti",AUTHOR
+2270,500,Vakaumusten tasa-arvo VATA ry,AUTHOR
+2271,500,Tampereen vapaa-ajattelijat ry,AUTHOR
+2272,500,Vakaumusten tasa-arvo VATA ry,AUTHOR
+2273,500,Tampereen vapaa-ajattelijat ry,AUTHOR
+2274,501,"Fågel, Stina",AUTHOR
+2275,501,"Fågel, Stina",AUTHOR
+2276,502,"Haila, Yrjö",AUTHOR
+2277,502,"Jalonen, Pauliina",AUTHOR
+2278,502,"Kauppila, Jussi",AUTHOR
+2279,502,"Kettunen, Reetta",AUTHOR
+2280,502,"Niemi, Karoliina",AUTHOR
+2281,502,"Takala, Timo",AUTHOR
+2282,502,"Teeri, Teemu",AUTHOR
+2283,502,"Valve, Helena",AUTHOR
+2284,502,"Haila, Yrjö",AUTHOR
+2285,502,"Jalonen, Pauliina",AUTHOR
+2286,502,"Kauppila, Jussi",AUTHOR
+2287,502,"Kettunen, Reetta",AUTHOR
+2288,502,"Niemi, Karoliina",AUTHOR
+2289,502,"Takala, Timo",AUTHOR
+2290,502,"Teeri, Teemu",AUTHOR
+2291,502,"Valve, Helena",AUTHOR
+2292,503,"Oiva, Mila",AUTHOR
+2293,503,"Oiva, Mila",AUTHOR
+2294,504,Tampereen yliopisto. Kasvatustieteiden yksikkö,AUTHOR
+2295,504,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+2296,504,Tallinn University,AUTHOR
+2297,504,The Aristotle University of Thessaloniki,AUTHOR
+2298,504,University of Szeged,AUTHOR
+2299,504,Loughborough University London,AUTHOR
+2300,504,Social Sciences University of Ankara,AUTHOR
+2301,504,University College London,AUTHOR
+2302,504,University of Tampere. School of Education,AUTHOR
+2303,504,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+2304,504,Tallinn University,AUTHOR
+2305,504,The Aristotle University of Thessaloniki,AUTHOR
+2306,504,University of Szeged,AUTHOR
+2307,504,Loughborough University London,AUTHOR
+2308,504,Social Sciences University of Ankara,AUTHOR
+2309,504,University College London,AUTHOR
+2310,505,Avoimen tieteen ja tutkimuksen kansallisen koordinaation sihteeristö (Tieteellisten seurain valtuuskunta),AUTHOR
+2311,505,The National Open Science and Research Coordination (The Federation of Finnish Learned Societies),AUTHOR
+2312,506,"Era, Salla",AUTHOR
+2313,506,"Era, Salla",AUTHOR
+2314,507,"Sundbäck, Liselott",AUTHOR
+2315,507,"Sundbäck, Liselott",AUTHOR
+2316,508,"Parkkinen, Tiina",AUTHOR
+2317,508,"Parkkinen, Tiina",AUTHOR
+2318,509,"Hankonen, Nelli",AUTHOR
+2319,509,"Haukkala, Ari",AUTHOR
+2320,509,"Hankonen, Nelli",AUTHOR
+2321,509,"Haukkala, Ari",AUTHOR
+2322,510,"Mäkinen, Arja",AUTHOR
+2323,510,"Mäkinen, Arja",AUTHOR
+2324,511,"Malinen, Antti",AUTHOR
+2325,511,"Malinen, Antti",AUTHOR
+2326,512,"Räty, Reetta",AUTHOR
+2327,512,"Räty, Reetta",AUTHOR
+2328,513,"Hirvilammi, Tuuli",AUTHOR
+2329,513,"Matthies, Aila-Leena",AUTHOR
+2330,513,"Hirvilammi, Tuuli",AUTHOR
+2331,513,"Matthies, Aila-Leena",AUTHOR
+2332,514,"Lamminmäki, Suvi",AUTHOR
+2333,514,"Lamminmäki, Suvi",AUTHOR
+2334,515,"Laukkanen, Sanna",AUTHOR
+2335,515,"Laukkanen, Sanna",AUTHOR
+2336,516,"Juhila, Kirsi",AUTHOR
+2337,516,"Günther, Kirsi",AUTHOR
+2338,516,"Kaartamo, Riina",AUTHOR
+2339,516,"Kulmala, Anna",AUTHOR
+2340,516,"Raitakari, Suvi",AUTHOR
+2341,516,"Saario, Sirpa",AUTHOR
+2342,516,"Juhila, Kirsi",AUTHOR
+2343,516,"Günther, Kirsi",AUTHOR
+2344,516,"Kaartamo, Riina",AUTHOR
+2345,516,"Kulmala, Anna",AUTHOR
+2346,516,"Raitakari, Suvi",AUTHOR
+2347,516,"Saario, Sirpa",AUTHOR
+2348,517,"Saarnio, Pekka",AUTHOR
+2349,517,"Saarnio, Pekka",AUTHOR
+2350,518,Tampereen yliopisto. Kasvatustieteiden yksikkö,AUTHOR
+2351,518,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+2352,518,Tallinn University,AUTHOR
+2353,518,The Aristotle University of Thessaloniki,AUTHOR
+2354,518,University of Szeged,AUTHOR
+2355,518,Loughborough University London,AUTHOR
+2356,518,Social Sciences University of Ankara,AUTHOR
+2357,518,University College London,AUTHOR
+2358,518,University of Tampere. School of Education,AUTHOR
+2359,518,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+2360,518,Tallinn University,AUTHOR
+2361,518,The Aristotle University of Thessaloniki,AUTHOR
+2362,518,University of Szeged,AUTHOR
+2363,518,Loughborough University London,AUTHOR
+2364,518,Social Sciences University of Ankara,AUTHOR
+2365,518,University College London,AUTHOR
+2366,519,"Rautiainen, Pirjo",AUTHOR
+2367,519,"Rautiainen, Pirjo",AUTHOR
+2368,520,"Räty, Reetta",AUTHOR
+2369,520,"Räty, Reetta",AUTHOR
+2370,521,"Malm, Toni",AUTHOR
+2371,521,"Malm, Toni",AUTHOR
+2372,522,"Anttila, Anna",AUTHOR
+2373,522,"Anttila, Anna",AUTHOR
+2374,523,"Tuohineva, Anniina",AUTHOR
+2375,523,"Tuohineva, Anniina",AUTHOR
+2376,524,"Jansson, Julia",AUTHOR
+2377,524,"Jansson, Julia",AUTHOR
+2378,525,"Reunanen, Esa",AUTHOR
+2379,525,"Kunelius, Risto",AUTHOR
+2380,525,"Noppari, Elina",AUTHOR
+2381,525,"Reunanen, Esa",AUTHOR
+2382,525,"Kunelius, Risto",AUTHOR
+2383,525,"Noppari, Elina",AUTHOR
+2384,526,"Rautiainen, Pirjo",AUTHOR
+2385,526,"Rautiainen, Pirjo",AUTHOR
+2386,527,"Pulkkinen, Lea",AUTHOR
+2387,527,"Pulkkinen, Lea",AUTHOR
+2388,528,Vakaumusten tasa-arvo VATA ry,AUTHOR
+2389,528,Tampereen vapaa-ajattelijat ry,AUTHOR
+2390,528,Vakaumusten tasa-arvo VATA ry,AUTHOR
+2391,528,Tampereen vapaa-ajattelijat ry,AUTHOR
+2392,529,Taiteen edistämiskeskus (TAIKE),AUTHOR
+2393,529,Arts Promotion Centre Finland (TAIKE),AUTHOR
+2394,530,"Laes, Tuulikki",AUTHOR
+2395,530,"Koivisto, Taru-Anneli",AUTHOR
+2396,530,"Saether, Eva",AUTHOR
+2397,530,"Laes, Tuulikki",AUTHOR
+2398,530,"Koivisto, Taru-Anneli",AUTHOR
+2399,530,"Saether, Eva",AUTHOR
+2400,531,"Rautiainen, Pirjo",AUTHOR
+2401,531,"Kasesniemi, Eija-Liisa",AUTHOR
+2402,531,"Rautiainen, Pirjo",AUTHOR
+2403,531,"Kasesniemi, Eija-Liisa",AUTHOR
+2404,532,"Pulkkinen, Lea",AUTHOR
+2405,532,"Pulkkinen, Lea",AUTHOR
+2406,533,Suomalaisen Kirjallisuuden Seura. Arkisto,AUTHOR
+2407,533,"Salmi-Niklander, Kirsti",AUTHOR
+2408,533,"Pantti, Mervi",AUTHOR
+2409,533,"Laine, Sofia",AUTHOR
+2410,533,Finnish Literature Society. Archive,AUTHOR
+2411,533,"Salmi-Niklander, Kirsti",AUTHOR
+2412,533,"Pantti, Mervi",AUTHOR
+2413,533,"Laine, Sofia",AUTHOR
+2414,534,"Saarnio, Pekka",AUTHOR
+2415,534,"Saarnio, Pekka",AUTHOR
+2416,535,"Puuronen, Anne",AUTHOR
+2417,535,"Tuominen, Tuula",AUTHOR
+2418,535,"Nyman, Katrina",AUTHOR
+2419,535,"Lindroos, Sanni",AUTHOR
+2420,535,"Taipale, Mikko",AUTHOR
+2421,535,"Puuronen, Anne",AUTHOR
+2422,535,"Tuominen, Tuula",AUTHOR
+2423,535,"Nyman, Katrina",AUTHOR
+2424,535,"Lindroos, Sanni",AUTHOR
+2425,535,"Taipale, Mikko",AUTHOR
+2426,536,"Lamminmäki, Suvi",AUTHOR
+2427,536,"Lamminmäki, Suvi",AUTHOR
+2428,537,"Vähätalo, Lauri",AUTHOR
+2429,537,"Siukola, Anna",AUTHOR
+2430,537,"Vähätalo, Lauri",AUTHOR
+2431,537,"Siukola, Anna",AUTHOR
+2432,538,Helsingin Sanomat. Nyt-liite,AUTHOR
+2433,538,Helsingin Sanomat. Weekly supplement Nyt,AUTHOR
+2434,539,"Serna, Reyver",AUTHOR
+2435,539,"Serna, Reyver",AUTHOR
+2436,540,"Palukka, Hannele",AUTHOR
+2437,540,"Auvinen, Petra",AUTHOR
+2438,540,"Tiilikka, Tiina",AUTHOR
+2439,540,"Palukka, Hannele",AUTHOR
+2440,540,"Auvinen, Petra",AUTHOR
+2441,540,"Tiilikka, Tiina",AUTHOR
+2442,541,Suomalaisen Kirjallisuuden Seura (SKS). Arkisto,AUTHOR
+2443,541,"Vahtikari, Tanja",AUTHOR
+2444,541,Finnish Literature Society. Archive,AUTHOR
+2445,541,"Vahtikari, Tanja",AUTHOR
+2446,542,"Alasuutari, Pertti",AUTHOR
+2447,542,"Vento, Eetu",AUTHOR
+2448,542,"Pi Ferrer, Laia",AUTHOR
+2449,542,"Alasuutari, Pertti",AUTHOR
+2450,542,"Vento, Eetu",AUTHOR
+2451,542,"Pi Ferrer, Laia",AUTHOR
+2452,543,Tampereen yliopisto. Kasvatustieteiden yksikkö,AUTHOR
+2453,543,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+2454,543,Tallinn University,AUTHOR
+2455,543,The Aristotle University of Thessaloniki,AUTHOR
+2456,543,University of Szeged,AUTHOR
+2457,543,Loughborough University London,AUTHOR
+2458,543,Social Sciences University of Ankara,AUTHOR
+2459,543,University College London,AUTHOR
+2460,543,University of Tampere. School of Education,AUTHOR
+2461,543,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+2462,543,Tallinn University,AUTHOR
+2463,543,The Aristotle University of Thessaloniki,AUTHOR
+2464,543,University of Szeged,AUTHOR
+2465,543,Loughborough University London,AUTHOR
+2466,543,Social Sciences University of Ankara,AUTHOR
+2467,543,University College London,AUTHOR
+2468,544,"Kekkonen, Kari",AUTHOR
+2469,544,"Kekkonen, Kari",AUTHOR
+2470,545,"Kasesniemi, Eija-Liisa",AUTHOR
+2471,545,"Kasesniemi, Eija-Liisa",AUTHOR
+2472,546,Suomalaisen Kirjallisuuden Seura (SKS). Arkisto,AUTHOR
+2473,546,Finnish Literature Society. Archive,AUTHOR
+2474,547,"Annala, Johanna",AUTHOR
+2475,547,"Mäkinen, Marita",AUTHOR
+2476,547,"Annala, Johanna",AUTHOR
+2477,547,"Mäkinen, Marita",AUTHOR
+2478,548,"Viita-aho, Mari",AUTHOR
+2479,548,"Marti, Aleksi",AUTHOR
+2480,548,"Viita-aho, Mari 0000-0002-3796-5004",AUTHOR
+2481,548,"Marti, Aleksi",AUTHOR
+2482,549,"Virrankari, Lotta",AUTHOR
+2483,549,"Virrankari, Lotta",AUTHOR
+2484,550,"Kujala, Erkki",AUTHOR
+2485,550,"Kujala, Erkki",AUTHOR
+2486,551,Tampere Praksis,AUTHOR
+2487,551,Tampere Praksis Project,AUTHOR
+2488,552,"Pahikkala, Matilda",AUTHOR
+2489,552,"Pahikkala, Matilda",AUTHOR
+2490,553,"Leinonen, Susanna",AUTHOR
+2491,553,"Leinonen, Susanna",AUTHOR
+2492,554,"Isola, Anna-Maria",AUTHOR
+2493,554,"Rajala, Toni",AUTHOR
+2494,554,"Kallio, Johanna",AUTHOR
+2495,554,"Isola, Anna-Maria",AUTHOR
+2496,554,"Rajala, Toni",AUTHOR
+2497,554,"Kallio, Johanna",AUTHOR
+2498,555,Vakaumusten tasa-arvo VATA ry,AUTHOR
+2499,555,Tampereen vapaa-ajattelijat ry,AUTHOR
+2500,555,Vakaumusten tasa-arvo VATA ry,AUTHOR
+2501,555,Tampereen vapaa-ajattelijat ry,AUTHOR
+2502,556,"Rouhe, Ninna",AUTHOR
+2503,556,"Rautamaa, Heli",AUTHOR
+2504,556,"Rouhe, Ninna",AUTHOR
+2505,556,"Rautamaa, Heli",AUTHOR
+2506,557,"Suominen, Petteri",AUTHOR
+2507,557,"Suominen, Petteri",AUTHOR
+2508,558,"Vuolteenaho, Jani",AUTHOR
+2509,558,"Vuolteenaho, Jani",AUTHOR
+2510,559,Itä-Suomen yliopisto. Yhteiskuntatieteiden laitos,AUTHOR
+2511,559,University of Eastern Finland. Department of Social Sciences,AUTHOR
+2512,560,"Tiilikka, Tiina",AUTHOR
+2513,560,"Palukka, Hannele",AUTHOR
+2514,560,"Tolkki, Helena",AUTHOR
+2515,560,"Tiilikka, Tiina",AUTHOR
+2516,560,"Palukka, Hannele",AUTHOR
+2517,560,"Tolkki, Helena",AUTHOR
+2518,561,"Räty, Reetta",AUTHOR
+2519,561,"Räty, Reetta",AUTHOR
+2520,562,"Karhulahti, Veli-Matti",AUTHOR
+2521,562,"Nerg, Henri",AUTHOR
+2522,562,"Päivinen, Antti",AUTHOR
+2523,562,"Karhulahti, Veli-Matti",AUTHOR
+2524,562,"Nerg, Henri",AUTHOR
+2525,562,"Päivinen, Antti",AUTHOR
+2526,563,"Tormulainen, Aino",AUTHOR
+2527,563,"Tormulainen, Aino",AUTHOR
+2528,564,Suomalaisen Kirjallisuuden Seura (SKS). Arkisto,AUTHOR
+2529,564,Suomalaisen Kirjallisuuden Seura (SKS). Arkisto,AUTHOR
+2530,565,"Kinnunen, Taina",AUTHOR
+2531,565,"Kinnunen, Taina",AUTHOR
+2532,566,MTV3,AUTHOR
+2533,566,MTV3,AUTHOR
+2534,567,"Maunu, Antti",AUTHOR
+2535,567,"Maunu, Antti",AUTHOR
+2536,568,"Salonen, Kari",AUTHOR
+2537,568,"Salonen, Kari",AUTHOR
+2538,569,"Räty, Reetta",AUTHOR
+2539,569,"Räty, Reetta",AUTHOR
+2540,570,"Kauko, Jaakko",AUTHOR
+2541,570,"Kauko, Jaakko",AUTHOR
+2542,571,Helsingin Sanomat,AUTHOR
+2543,571,Helsingin Sanomat,AUTHOR
+2544,572,"Ikonen, Hanna-Mari",AUTHOR
+2545,572,"Ikonen, Hanna-Mari",AUTHOR
+2546,573,"Räty, Reetta",AUTHOR
+2547,573,"Räty, Reetta",AUTHOR
+2548,574,"Haikkola, Lotta",AUTHOR
+2549,574,"Uusikangas, Silja",AUTHOR
+2550,574,"Haikkola, Lotta",AUTHOR
+2551,574,"Uusikangas, Silja",AUTHOR
+2552,575,"Miller, Ella",AUTHOR
+2553,575,"Miller, Ella",AUTHOR
+2554,576,"Kasesniemi, Eija-Liisa",AUTHOR
+2555,576,"Kasesniemi, Eija-Liisa",AUTHOR
+2556,577,"Räty, Reetta",AUTHOR
+2557,577,"Räty, Reetta",AUTHOR
+2558,578,"Vuori, Jaana",AUTHOR
+2559,578,"Vuori, Jaana",AUTHOR
+2560,579,"Juhila, Kirsi",AUTHOR
+2561,579,"Günther, Kirsi",AUTHOR
+2562,579,"Kaartamo, Riina",AUTHOR
+2563,579,"Kulmala, Anna",AUTHOR
+2564,579,"Raitakari, Suvi",AUTHOR
+2565,579,"Saario, Sirpa",AUTHOR
+2566,579,"Juhila, Kirsi",AUTHOR
+2567,579,"Günther, Kirsi",AUTHOR
+2568,579,"Kaartamo, Riina",AUTHOR
+2569,579,"Kulmala, Anna",AUTHOR
+2570,579,"Raitakari, Suvi",AUTHOR
+2571,579,"Saario, Sirpa",AUTHOR
+2572,580,Tampereen yliopisto. Kasvatustieteiden yksikkö,AUTHOR
+2573,580,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+2574,580,Tallinn University,AUTHOR
+2575,580,The Aristotle University of Thessaloniki,AUTHOR
+2576,580,University of Szeged,AUTHOR
+2577,580,Loughborough University London,AUTHOR
+2578,580,Social Sciences University of Ankara,AUTHOR
+2579,580,University College London,AUTHOR
+2580,580,University of Tampere. School of Education,AUTHOR
+2581,580,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+2582,580,Tallinn University,AUTHOR
+2583,580,The Aristotle University of Thessaloniki,AUTHOR
+2584,580,University of Szeged,AUTHOR
+2585,580,Loughborough University London,AUTHOR
+2586,580,Social Sciences University of Ankara,AUTHOR
+2587,580,University College London,AUTHOR
+2588,581,Vakaumusten tasa-arvo VATA ry,AUTHOR
+2589,581,Tampereen vapaa-ajattelijat ry,AUTHOR
+2590,581,Vakaumusten tasa-arvo VATA ry,AUTHOR
+2591,581,Tampereen vapaa-ajattelijat ry,AUTHOR
+2592,582,"Ollila, Kaisa-Mari",AUTHOR
+2593,582,"Ollila, Kaisa-Mari",AUTHOR
+2594,583,"Korkalainen, Salla",AUTHOR
+2595,583,"Korkalainen, Salla",AUTHOR
+2596,584,"Vehviläinen, Marja",AUTHOR
+2597,584,"Toivo, Miia",AUTHOR
+2598,584,"Häikiö, Liisa",AUTHOR
+2599,584,"Marjeta, Anna-Laura",AUTHOR
+2600,584,"Åkerman, Maria",AUTHOR
+2601,584,"Uotinen, Johanna",AUTHOR
+2602,584,"Peltola, Taru",AUTHOR
+2603,584,Suomalaisen Kirjallisuuden Seura (SKS). Kansanrunousarkisto,AUTHOR
+2604,584,"Vehviläinen, Marja",AUTHOR
+2605,584,"Toivo, Miia",AUTHOR
+2606,584,"Häikiö, Liisa",AUTHOR
+2607,584,"Marjeta, Anna-Laura",AUTHOR
+2608,584,"Åkerman, Maria",AUTHOR
+2609,584,"Uotinen, Johanna",AUTHOR
+2610,584,"Peltola, Taru",AUTHOR
+2611,584,Finnish Literature Society (SKS). Folklore Archives,AUTHOR
+2612,585,"Räty, Reetta",AUTHOR
+2613,585,"Räty, Reetta",AUTHOR
+2614,586,"Juvonen, Tuula",AUTHOR
+2615,586,"Juvonen, Tuula",AUTHOR
+2616,587,"Hautamäki, Lauri",AUTHOR
+2617,587,"Taimi, Heikki",AUTHOR
+2618,587,"Kleemola, Jussi",AUTHOR
+2619,587,"Jyllilä, Erkki",AUTHOR
+2620,587,"Mäki-Rahkola, Jari",AUTHOR
+2621,587,"Hautamäki, Lauri",AUTHOR
+2622,587,"Taimi, Heikki",AUTHOR
+2623,587,"Kleemola, Jussi",AUTHOR
+2624,587,"Jyllilä, Erkki",AUTHOR
+2625,587,"Mäki-Rahkola, Jari",AUTHOR
+2626,588,"Kulha, Saija",AUTHOR
+2627,588,"Huttunen, Sari",AUTHOR
+2628,588,"Kulha, Saija",AUTHOR
+2629,588,"Huttunen, Sari",AUTHOR
+2630,589,Tampereen yliopisto. Kasvatustieteiden yksikkö,AUTHOR
+2631,589,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+2632,589,Tallinn University,AUTHOR
+2633,589,The Aristotle University of Thessaloniki,AUTHOR
+2634,589,University of Szeged,AUTHOR
+2635,589,Loughborough University London,AUTHOR
+2636,589,Social Sciences University of Ankara,AUTHOR
+2637,589,University College London,AUTHOR
+2638,589,University of Tampere. School of Education,AUTHOR
+2639,589,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+2640,589,Tallinn University,AUTHOR
+2641,589,The Aristotle University of Thessaloniki,AUTHOR
+2642,589,University of Szeged,AUTHOR
+2643,589,Loughborough University London,AUTHOR
+2644,589,Social Sciences University of Ankara,AUTHOR
+2645,589,University College London,AUTHOR
+2646,590,"Höckert, Emily",AUTHOR
+2647,590,"Höckert, Emily",AUTHOR
+2648,591,"Rasimus, Ari",AUTHOR
+2649,591,"Rasimus, Ari",AUTHOR
+2650,592,Hyvä erovanhemmuus ry,AUTHOR
+2651,592,Suomalaisen Kirjallisuuden Seura (SKS). Kansanrunousarkisto,AUTHOR
+2652,592,Hyvä erovanhemmuus [Association for Good Parenting after Divorce],AUTHOR
+2653,592,Finnish Literature Society (SKS). Folklore Archives,AUTHOR
+2654,593,"Puuronen, Anne",AUTHOR
+2655,593,"Puuronen, Anne",AUTHOR
+2656,594,"Elo, Kimmo",AUTHOR
+2657,594,"Rapeli, Lauri",AUTHOR
+2658,594,"Koskimaa, Vesa",AUTHOR
+2659,594,"Elo, Kimmo",AUTHOR
+2660,594,"Rapeli, Lauri",AUTHOR
+2661,594,"Koskimaa, Vesa",AUTHOR
+2662,595,"Kasesniemi, Eija-Liisa",AUTHOR
+2663,595,"Rautiainen, Pirjo",AUTHOR
+2664,595,"Kasesniemi, Eija-Liisa",AUTHOR
+2665,595,"Rautiainen, Pirjo",AUTHOR
+2666,596,"Helin, Tiina",AUTHOR
+2667,596,"Helin, Tiina",AUTHOR
+2668,597,"Salonen, Anna Sofia",AUTHOR
+2669,597,"Laiho, Marjukka",AUTHOR
+2670,597,"Salonen, Anna Sofia",AUTHOR
+2671,597,"Laiho, Marjukka",AUTHOR
+2672,598,"Heikkinen, Saara",AUTHOR
+2673,598,"Heikkinen, Saara",AUTHOR
+2674,599,"Peltola, Marja",AUTHOR
+2675,599,"Phoenix, Ann",AUTHOR
+2676,599,"Peltola, Marja",AUTHOR
+2677,599,"Phoenix, Ann",AUTHOR
+2678,600,Sinuiksi ry. Sinuiksi tuki- ja neuvontapalvelu,AUTHOR
+2679,600,Sinuiksi. Sinuiksi tuki- ja neuvontapalvelu [Sinuiksi. Sinuiksi online question and answer service],AUTHOR
+2680,601,"Wallin, Antti",AUTHOR
+2681,601,"Hirvilammi, Tuuli",AUTHOR
+2682,601,"Rikala, Sanna",AUTHOR
+2683,601,"Lahikainen, Lauri",AUTHOR
+2684,601,"Häikiö, Liisa",AUTHOR
+2685,601,"Wallin, Antti",AUTHOR
+2686,601,"Hirvilammi, Tuuli",AUTHOR
+2687,601,"Rikala, Sanna",AUTHOR
+2688,601,"Lahikainen, Lauri",AUTHOR
+2689,601,"Häikiö, Liisa",AUTHOR
+2690,602,"Koskela, Iina",AUTHOR
+2691,602,"Koskela, Iina",AUTHOR
+2692,603,"Kinnunen, Anu",AUTHOR
+2693,603,"Kinnunen, Anu",AUTHOR
+2694,604,"Puuska, Hanna-Mari",AUTHOR
+2695,604,"Miettinen, Marita",AUTHOR
+2696,604,"Himanen, Laura",AUTHOR
+2697,604,"Puuska, Hanna-Mari",AUTHOR
+2698,604,"Miettinen, Marita",AUTHOR
+2699,604,"Himanen, Laura",AUTHOR
+2700,605,"Juvonen, Tuula",AUTHOR
+2701,605,"Juvonen, Tuula",AUTHOR
+2702,606,"Leinikki, Sikke",AUTHOR
+2703,606,"Leinikki, Sikke",AUTHOR
+2704,607,"Mäkinen, Arja",AUTHOR
+2705,607,"Mäkinen, Arja",AUTHOR
+2706,608,"Kasesniemi, Eija-Liisa",AUTHOR
+2707,608,"Kasesniemi, Eija-Liisa",AUTHOR
+2708,609,"Koivunen, Tuija",AUTHOR
+2709,609,"Koivunen, Tuija",AUTHOR
+2710,610,"Määttä, Mirja",AUTHOR
+2711,610,"Määttä, Mirja",AUTHOR
+2712,611,"Puronaho, Anni",AUTHOR
+2713,611,"Puronaho, Anni",AUTHOR
+2714,612,"Hart, Linda",AUTHOR
+2715,612,"Hart, Linda",AUTHOR
+2716,613,"Mikkonen, Juha",AUTHOR
+2717,613,"Larivaara, Meri",AUTHOR
+2718,613,"Mikkonen, Juha",AUTHOR
+2719,613,"Larivaara, Meri",AUTHOR
+2720,614,"Hakovirta, Mia",AUTHOR
+2721,614,"Hakovirta, Mia",AUTHOR
+2722,615,"Juhila, Kirsi",AUTHOR
+2723,615,"Günther, Kirsi",AUTHOR
+2724,615,"Kaartamo, Riina",AUTHOR
+2725,615,"Kulmala, Anna",AUTHOR
+2726,615,"Raitakari, Suvi",AUTHOR
+2727,615,"Saario, Sirpa",AUTHOR
+2728,615,"Juhila, Kirsi",AUTHOR
+2729,615,"Günther, Kirsi",AUTHOR
+2730,615,"Kaartamo, Riina",AUTHOR
+2731,615,"Kulmala, Anna",AUTHOR
+2732,615,"Raitakari, Suvi",AUTHOR
+2733,615,"Saario, Sirpa",AUTHOR
+2734,616,"Homanen, Riikka",AUTHOR
+2735,616,"Kaartamo, Anna",AUTHOR
+2736,616,"Homanen, Riikka",AUTHOR
+2737,616,"Kaartamo, Anna",AUTHOR
+2738,617,"Räty, Reetta",AUTHOR
+2739,617,"Räty, Reetta",AUTHOR
+2740,618,"Vaittinen, Tiina",AUTHOR
+2741,618,"Vaittinen, Tiina",AUTHOR
+2742,619,"Karvinen, Juho",AUTHOR
+2743,619,"Karvinen, Juho",AUTHOR
+2744,620,"Kalmanlehto, Johan",AUTHOR
+2745,620,"Kalmanlehto, Johan",AUTHOR
+2746,621,Vakaumusten tasa-arvo VATA ry,AUTHOR
+2747,621,Tampereen vapaa-ajattelijat ry,AUTHOR
+2748,621,Vakaumusten tasa-arvo VATA ry,AUTHOR
+2749,621,Tampereen vapaa-ajattelijat ry,AUTHOR
+2750,622,"Puska, Maija",AUTHOR
+2751,622,"Pienimäki, Mari",AUTHOR
+2752,622,"Kotilainen, Sirkku",AUTHOR
+2753,622,"Puska, Maija",AUTHOR
+2754,622,"Pienimäki, Mari",AUTHOR
+2755,622,"Kotilainen, Sirkku",AUTHOR
+2756,623,"Jauhiainen, Iida",AUTHOR
+2757,623,"Jauhiainen, Iida",AUTHOR
+2758,624,"Rautiainen, Pirjo",AUTHOR
+2759,624,"Rautiainen, Pirjo",AUTHOR
+2760,625,"Wallin, Antti",AUTHOR
+2761,625,"Wallin, Antti",AUTHOR
+2762,626,"Niemelä, Kaisa",AUTHOR
+2763,626,"Niemelä, Kaisa",AUTHOR
+2764,627,"Lammi-Taskula, Johanna",AUTHOR
+2765,627,"Närvi, Johanna",AUTHOR
+2766,627,"Alasuutari, Maarit",AUTHOR
+2767,627,"Kuukka, Anu",AUTHOR
+2768,627,"Ruutiainen, Ville",AUTHOR
+2769,627,"Siippainen, Anna",AUTHOR
+2770,627,"Terävä, Johanna",AUTHOR
+2771,627,"Eerola, Petteri",AUTHOR
+2772,627,"Eronen, Eija",AUTHOR
+2773,627,"Fjällström, Salla",AUTHOR
+2774,627,"Karila, Kirsti",AUTHOR
+2775,627,"Paananen, Maiju",AUTHOR
+2776,627,"Repo, Katja",AUTHOR
+2777,627,"Lammi-Taskula, Johanna",AUTHOR
+2778,627,"Närvi, Johanna",AUTHOR
+2779,627,"Alasuutari, Maarit",AUTHOR
+2780,627,"Kuukka, Anu",AUTHOR
+2781,627,"Ruutiainen, Ville",AUTHOR
+2782,627,"Siippainen, Anna",AUTHOR
+2783,627,"Terävä, Johanna",AUTHOR
+2784,627,"Eerola, Petteri",AUTHOR
+2785,627,"Eronen, Eija",AUTHOR
+2786,627,"Fjällström, Salla",AUTHOR
+2787,627,"Karila, Kirsti",AUTHOR
+2788,627,"Paananen, Maiju",AUTHOR
+2789,627,"Repo, Katja",AUTHOR
+2790,628,"Kosonen, Ulla",AUTHOR
+2791,628,"Kosonen, Ulla",AUTHOR
+2792,629,"Siivonen, Katriina",AUTHOR
+2793,629,"Kotilainen, Sirkku",AUTHOR
+2794,629,"Siivonen, Katriina",AUTHOR
+2795,629,"Kotilainen, Sirkku",AUTHOR
+2796,630,"Koivunen, Tuija",AUTHOR
+2797,630,"Kinnunen, Taina",AUTHOR
+2798,630,"Parviainen, Jaana",AUTHOR
+2799,630,"Koivunen, Tuija",AUTHOR
+2800,630,"Kinnunen, Taina",AUTHOR
+2801,630,"Parviainen, Jaana",AUTHOR
+2802,631,"Pulkkinen, Lea",AUTHOR
+2803,631,"Pulkkinen, Lea",AUTHOR
+2804,632,"Mankki, Ville",AUTHOR
+2805,632,"Mankki, Ville",AUTHOR
+2806,633,Helsingin yliopiston ylioppilaskunta,AUTHOR
+2807,633,Jyväskylän yliopiston ylioppilaskunta,AUTHOR
+2808,633,Tampereen yliopiston ylioppilaskunta,AUTHOR
+2809,633,Teknillisen Korkeakoulun Ylioppilaskunta,AUTHOR
+2810,633,Turun yliopiston ylioppilaskunta,AUTHOR
+2811,633,Student Union of the University of Helsinki,AUTHOR
+2812,633,Student Union of the University of Jyväskylä,AUTHOR
+2813,633,Student Union of the University of Tampere,AUTHOR
+2814,633,Student Union of the Helsinki University of Technology,AUTHOR
+2815,633,Student Union of the University of Turku,AUTHOR
+2816,634,"Koski-Jännes, Anja",AUTHOR
+2817,634,"Sarpavaara, Harri",AUTHOR
+2818,634,"Tolonen, Kari",AUTHOR
+2819,634,"Koski-Jännes, Anja",AUTHOR
+2820,634,"Sarpavaara, Harri",AUTHOR
+2821,634,"Tolonen, Kari",AUTHOR
+2822,635,Suomalaisen Kirjallisuuden Seura. Arkisto,AUTHOR
+2823,635,Finnish Literature Society. Archive,AUTHOR
+2824,636,"Linkala, Minna-Kristiina",AUTHOR
+2825,636,"Linkala, Minna-Kristiina",AUTHOR
+2826,637,Tampereen yliopisto,AUTHOR
+2827,637,Tampere University,AUTHOR
+2828,638,Suomalaisen Kirjallisuuden Seura (SKS). Arkisto,AUTHOR
+2829,638,Finnish Literature Society. Archive,AUTHOR
+2830,639,"Tuomaala, Vaula",AUTHOR
+2831,639,"Tuomaala, Vaula",AUTHOR
+2832,640,"Kiuru, Inka",AUTHOR
+2833,640,"Myllynen, Milka",AUTHOR
+2834,640,"Pienimäki, Mari",AUTHOR
+2835,640,"Kotilainen, Sirkku",AUTHOR
+2836,640,"Kiuru, Inka",AUTHOR
+2837,640,"Myllynen, Milka",AUTHOR
+2838,640,"Pienimäki, Mari",AUTHOR
+2839,640,"Kotilainen, Sirkku",AUTHOR
+2840,641,"Airaksinen, Tiina",AUTHOR
+2841,641,"Airaksinen, Tiina",AUTHOR
+2842,642,Humanistinen ammattikorkeakoulu,AUTHOR
+2843,642,HUMAK University of Applied Sciences,AUTHOR
+2844,643,Suomalaisen Kirjallisuuden Seura (SKS). Arkisto,AUTHOR
+2845,643,Finnish Literature Society. Archive,AUTHOR
+2846,644,"Wessman, Anna",AUTHOR
+2847,644,"Wessman, Anna",AUTHOR
+2848,645,Tampereen yliopisto. Kasvatustieteiden yksikkö,AUTHOR
+2849,645,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+2850,645,Tallinn University,AUTHOR
+2851,645,The Aristotle University of Thessaloniki,AUTHOR
+2852,645,University of Szeged,AUTHOR
+2853,645,Loughborough University London,AUTHOR
+2854,645,Social Sciences University of Ankara,AUTHOR
+2855,645,University College London,AUTHOR
+2856,645,University of Tampere. School of Education,AUTHOR
+2857,645,Institute for International Cooperation of the German Adult Education Association (DVV International),AUTHOR
+2858,645,Tallinn University,AUTHOR
+2859,645,The Aristotle University of Thessaloniki,AUTHOR
+2860,645,University of Szeged,AUTHOR
+2861,645,Loughborough University London,AUTHOR
+2862,645,Social Sciences University of Ankara,AUTHOR
+2863,645,University College London,AUTHOR
+2864,646,"Hoppania, Hanna-Kaisa",AUTHOR
+2865,646,"Vilkko, Anni",AUTHOR
+2866,646,"Hoppania, Hanna-Kaisa",AUTHOR
+2867,646,"Vilkko, Anni",AUTHOR
+2868,647,"Siutila, Miia",AUTHOR
+2869,647,"Karhulahti, Veli-Matti",AUTHOR
+2870,647,"Korhonen, Venla",AUTHOR
+2871,647,"Laitinen, Tanja",AUTHOR
+2872,647,"Siutila, Miia",AUTHOR
+2873,647,"Karhulahti, Veli-Matti",AUTHOR
+2874,647,"Korhonen, Venla",AUTHOR
+2875,647,"Laitinen, Tanja",AUTHOR
+2876,648,Taiteen edistämiskeskus (TAIKE),AUTHOR
+2877,648,Arts Promotion Centre Finland (TAIKE),AUTHOR
+2878,649,"Mattinen, Pauliina",AUTHOR
+2879,649,"Mattinen, Pauliina",AUTHOR

@@ -1,14 +1,14 @@
 # Database
-data/archive.db
-data/*.db
-*.db
+# data/archive.db
+# data/*.db
+# *.db
 
 # Downloaded files (6 GB - too large for GitHub)
 data/files/
 data/files.zip
 
 # CSV exports (submit separately)
-data/*.csv
+# data/*.csv
 
 # Logs and debug files
 data/*.log
