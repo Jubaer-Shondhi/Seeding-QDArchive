@@ -214,12 +214,14 @@ Seeding-QDArchive/
 
 ### FSD Repository
 
+- **OAI-PMH Harvesting**: FSD metadata was harvested using the OAI-PMH (Open Archives Initiative Protocol for Metadata Harvesting) protocol, which provides structured XML metadata for all 402 qualitative datasets. The endpoint used was `https://services.fsd.tuni.fi/v0/oai` with the set parameter `data_kind:Qualitative`.
+
 - **Level A Detection**: Initial scraping of Level A study numbers failed due to incorrect URL pattern and HTML parsing. The regex pattern `/catalogue/(FSD\d+)\?` did not match FSD's actual HTML structure. Fixed by updating the URL to the correct catalogue endpoint and using broader regex pattern `FSD\d+` to find study numbers anywhere in the HTML.
 
 - **Access Credentials for Advanced Levels Data**: FSD Level A datasets are openly available without login. However, more advanced levels (B, C, and D) require credentials. An attempt was made to obtain credentials using institutional email through Aila (FSD's customer service) for implementing automated downloads. A response was received by email from them, but credentials were not provided.
 
 - **ZIP Download Failure**: The actual files for **Level A** projects could not be downloaded programmatically because:
-  - FSD requires users to click an "Download Data" button before download
+  - FSD requires users to click an "Download data" button before download
   - The download is triggered via a form POST with CSRF tokens (already tried)
   - Session cookies are required and cannot be easily replicated with requests library
   - Multiple URL patterns were tested (`/catalogue/{study_number}/download`, `/catalogue/export/{study_number}`, `/catalogue/download.php?study={study_number}`) but all returned 404 or HTML login pages
