@@ -49,6 +49,13 @@ source venv/bin/activate
 
 ```
 Seeding-QDArchive/
+├── data/
+│   ├── archive.db
+│   ├── files_export.csv
+│   ├── keywords_export.csv
+│   ├── licenses_export.csv
+│   ├── person_role_export.csv
+│   └── projects_export.csv
 ├── scrapers/
 │   ├── __init__.py
 │   ├── base_scraper.py     # Abstract base class for all scrapers
