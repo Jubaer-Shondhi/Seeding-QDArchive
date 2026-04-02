@@ -107,6 +107,8 @@ DRYAD_API_TOKEN  = "Your_Dryad_API_Token_Here" # Replace with your actual Dryad 
 
 ### Important Note Before Running
 
+The pipeline **appends** data to existing files rather than overwriting them. Running multiple times without cleaning will create duplicate records.
+
 If you want a **fresh start** (clean database and new CSV exports), delete the existing data files first:
 
 ```bash
