@@ -9,7 +9,7 @@ This pipeline collects qualitative research projects from open data repositories
 
 ## Query Strategy
 
-Following the professor's recommendation to use file extension queries:
+Following the project's recommendation to use file extension queries:
 
 ### QDA File Extension Queries (Primary)
 - `qdpx` — REFI-QDA standard (ATLAS.ti, NVivo, MAXQDA)
@@ -134,14 +134,13 @@ python pipeline.py --export
 
 - **Projects**: 402 qualitative datasets
 - **Level A (Open Access)**: 7 projects identified
-- **Metadata**: Complete (titles, descriptions, authors, keywords, licenses)
-- **Status**: File records marked as FAILED_LOGIN_REQUIRED in database
+- **Metadata**: Complete (titles, descriptions, authors, keywords, licenses, etc.)
 
 ### Dryad Repository
 
 - **Projects**: 247
 - **Downloads**: 1096
-- **Metadata**: Complete (titles, descriptions, authors, keywords, licenses)
+- **Metadata**: Complete (titles, descriptions, authors, keywords, licenses, etc.)
 
 ## Output and Data Location
 
@@ -150,13 +149,12 @@ After running the pipeline, the following files and folders will be created:
 - **Database**: `data/archive.db` - Contains all project metadata in SQLite format
 - **CSV Exports**: `data/*.csv` - All 5 tables exported for easy viewing
 - **Downloaded Files**: `data/files/` - Contains subfolders for each repository:
-  - `data/files/Dryad/` - Successfully downloaded files from Dryad
-  - `data/files/FSD/` - Manually downloaded Level A ZIP files (7 datasets)
-- **Log File**: `data/pipeline.log` - Complete execution log for debugging
+  - `data/files/Dryad/` - Downloaded files from Dryad (with also empty files, reason is given in archive.db file)
+  - `data/files/FSD/` - Downloaded files from FSD (with also empty files, reason is given in archive.db file)
 
 **Note**: The `data/` folder is excluded from Git due to size (>6 GB). See [Submission Contents](#submission-contents) for access to the complete data.
 
-### File Structure
+### Project Structure
 ```
 Seeding-QDArchive/
 ├── scrapers/
@@ -190,7 +188,7 @@ Seeding-QDArchive/
 └── requirements.txt        # Python dependencies
 ```
 
-## Technical Problems and Limitations
+## Technical Problems/Limitations and Solutions
 
 ### Dryad Repository
 
@@ -211,10 +209,10 @@ Seeding-QDArchive/
 
 - **Level A Detection**: Initial scraping of Level A study numbers failed due to incorrect URL pattern and HTML parsing. The regex pattern `/catalogue/(FSD\d+)\?` did not match FSD's actual HTML structure. Fixed by updating the URL to the correct catalogue endpoint and using broader regex pattern `FSD\d+` to find study numbers anywhere in the HTML.
 
-- **Access Credentials for Advanced Levels Data**: FSD Level A datasets are openly available without login. However, more advanced levels (B,C and D) require credentials. An attempt was made to obtain credentials through Aila for implementing automated downloads, but they were not provided.
+- **Access Credentials for Advanced Levels Data**: FSD Level A datasets are openly available without login. However, more advanced levels (B, C, and D) require credentials. An attempt was made to obtain credentials using institutional email through Aila (FSD's customer service) for implementing automated downloads. A response was received by email from them, but credentials were not provided.
 
-- **ZIP Download Failure**: The actual data ZIP files for Level A projects could not be downloaded programmatically because:
-  - FSD requires users to click an "Accept terms" button before download
+- **ZIP Download Failure**: The actual files for **Level A** projects could not be downloaded programmatically because:
+  - FSD requires users to click an "Download Data" button before download
   - The download is triggered via a form POST with CSRF tokens
   - Session cookies are required and cannot be easily replicated with requests library
   - Multiple URL patterns were tested (`/catalogue/{study_number}/download`, `/catalogue/export/{study_number}`, `/catalogue/download.php?study={study_number}`) but all returned 404 or HTML login pages
@@ -222,7 +220,7 @@ Seeding-QDArchive/
 
 - **Manual Download for Level A Projects**: Since automated download was not possible, the 7 "Level A" qualitative datasets were downloaded manually from the FSD website and placed in the corresponding project folders. These files are included in the submission.
 
-- **Automated Download Alternatives**: Research indicated that FSD downloads can be automated using browser automation frameworks like **Playwright**, which can handle the terms acceptance button and session management. However, this still requires valid login credentials and was not implemented due to the lack of credentials.
+- **Automated Download Alternatives**: Research indicated that FSD downloads can be automated using browser automation frameworks like **Playwright**, which can handle the terms acceptance, download buttons and session management. However, this still requires valid login credentials and was not implemented due to the lack of credentials.
 
 - **Metadata XML Files**: Initially, the pipeline attempted to download DDI XML files for all 402 projects. These were being saved as HTML login pages and incorrectly marked as SUCCEEDED. Fixed by removing XML downloads entirely and only recording ZIP file entries with proper status.
 
@@ -232,7 +230,7 @@ This pipeline completes all Part 1 requirements:
 
 - Find qualitative research projects from repositories
 - Download files and metadata
-- Store metadata in SQLite database following professor's schema
+- Store metadata in SQLite database following recommended schema
 - Export to CSV format
 
 ## Submission Contents
@@ -248,7 +246,6 @@ All metadata and database files are available in the FAUbox folder:
   - `keywords_export.csv`
   - `person_role_export.csv`
   - `licenses_export.csv`
-- **Log File**: `pipeline.log` - Complete execution log
 
 **FAUbox Link**: https://faubox.rrze.uni-erlangen.de/getlink/fi21EF1g2h2wXo6K5qLD2S/data
 *(FAU login required)*
@@ -277,7 +274,7 @@ data/
 
 - Complete metadata for **402 FSD projects** + **247 Dryad projects**
 - All 5 database tables exported as CSV
-- All successfully downloaded files (1,096 Dryad + 7 FSD)
+- All files (1,096 Dryad + 7 FSD)
 - Full pipeline execution log
 - Complete source code in this repository
 
