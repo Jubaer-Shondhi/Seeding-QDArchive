@@ -103,16 +103,14 @@ DRYAD_API_TOKEN  = "Your_Dryad_API_Token_Here" # Replace with your actual Dryad 
 
 The pipeline **appends** data to existing files rather than overwriting them. Running multiple times without cleaning will create duplicate records.
 
-If you want a **fresh start** (clean database and new CSV exports), delete the existing data files first:
+If you want a **fresh start** (clean database), delete the existing database file first:
 
 ```bash
-# Delete existing database and CSV exports
-rm -f data/archive.db
-rm -f data/*.csv
+# Delete existing database
+rm -f 23453618-seeding.db
 
 # Or on Windows:
-del data\archive.db
-del data\*.csv
+del 23453618-seeding.db
 ```
 
 ```bash
@@ -159,51 +157,16 @@ python pipeline.py --export
 - **Downloads**: 1096 files
 - **Metadata**: Complete (titles, descriptions, authors, keywords, licenses, etc.)
 
-## Output and Data Location
+## Output and Data Location (Local Machine)
 
-After running the pipeline, the following files and folders will be created:
+After running the pipeline locally, the following will be created in the `data/` folder:
 
-- **Database**: `data/archive.db` - Contains all project metadata in SQLite format
-- **CSV Exports**: `data/*.csv` - All 5 tables exported for easy viewing
-- **Downloaded Files**: `data/files/` - Contains subfolders for each repository:
-  - `data/files/Dryad/` - Downloaded files from Dryad (with also empty files/folders, reason is given in archive.db file)
-  - `data/files/FSD/` - Downloaded files from FSD (with also empty files/folders, reason is given in archive.db file)
+- **Database**: `archive.db` - SQLite database with all project metadata
+- **Downloaded Files**: `files/` - Subfolders for Dryad and FSD downloads
 
-**Note**: The `data/` folder is excluded from Git due to size (>6 GB). See [Submission Contents](#submission-contents) for access to the complete data.
+**For submission**: The database is renamed to `23453618-seeding.db` and placed in the GitHub root. The downloaded files are available on FAUbox.
 
-### Project Structure
-```
-Seeding-QDArchive/
-├── data/
-│   ├── files
-│   │   ├── Dryad
-│   │   │   ├── D9402J
-│   │   │   ├── dryad.0cfxpnwfq
-│   │   │   └── ....
-│   │   └── FSD
-│   │       ├── FSD1249
-│   │       ├── FSD1251
-│   │       └── ....
-│   ├── archive.db
-│   ├── files_export.csv
-│   ├── keywords_export.csv
-│   ├── licenses_export.csv
-│   ├── person_role_export.csv
-│   └── projects_export.csv
-├── scrapers/
-│   ├── __init__.py
-│   ├── base_scraper.py     # Abstract base class for all scrapers
-│   ├── dryad_scraper.py    # Scraper for Dryad (repo #2)
-│   └── fsd_scraper.py      # Scraper for FSD Finland (repo #11)
-├── config.py               # Configuration (paths, API keys, search terms)
-├── database.py             # SQLite database setup and helpers
-├── downloader.py           # File downloader with resume support
-├── pipeline.py             # Main pipeline orchestrator
-├── export_csv.py           # Export database to CSV
-├── README.md               # This file
-├── .gitignore
-└── requirements.txt        # Python dependencies
-```
+**Note**: The downloaded files (>6 GB) are excluded from Git. See [Submission Contents](#submission-contents) for access to the complete data.
 
 ## Technical Problems/Limitations and Solutions
 
@@ -249,55 +212,43 @@ This pipeline completes all Part 1 requirements:
 
 - Find qualitative research projects from repositories
 - Download files and metadata
-- Store metadata in SQLite database following recommended schema
-- Export to CSV format
+- Store metadata in SQLite database following required schema
+- **SQLite file named `23453618-seeding.db` in root folder**
 - **Git tag `part-1-release` created**
 
 ## Submission Contents
 
-### Database & CSV Exports
+### Database
 
-All metadata and database files are available in the FAUbox folder and can easily be downloaded:
+The metadata SQLite database file is located in the root of this repository:
 
-- **Database**: `archive.db` - Complete SQLite database with all project metadata
-- **CSV Exports**: All 5 tables exported for easy review
-  - `projects_export.csv`
-  - `files_export.csv`
-  - `keywords_export.csv`
-  - `person_role_export.csv`
-  - `licenses_export.csv`
+- **Database**: `23453618-seeding.db` - Complete SQLite database with all project metadata following the required schema
 
-**FAUbox Link**: https://faubox.rrze.uni-erlangen.de/getlink/fi21EF1g2h2wXo6K5qLD2S/data
+**Downloaded Files (FAUbox)**:
+
+The actual downloaded files (6+ GB) are available separately:
+
+**FAUbox Link**: https://faubox.rrze.uni-erlangen.de/getlink/fiYJqtrV9GGdAr9npYHPyf/files
 *(FAU login required)*
 
-**Folder Structure**:
+**Folder Structure on FAUbox**:
 ```
-data/
- ├── files
- │   ├── Dryad
- │   │   ├── D9402J
- │   │   ├── dryad.0cfxpnwfq
- │   │   └── ....
- │   └── FSD
- │       ├── FSD1249
- │       ├── FSD1251
- │       └── ....
- ├── 23453618-seeding.db
- ├── files_export.csv
- ├── keywords_export.csv
- ├── licenses_export.csv
- ├── person_role_export.csv
- └── projects_export.csv
+files
+├── Dryad
+│   ├── D9402J
+│   ├── dryad.0cfxpnwfq
+│   └── ....
+└── FSD
+    ├── FSD1249
+    ├── FSD1251
+    └── ....
 ```
 
 ### What's Included
 
 - Complete metadata for **402 FSD projects** + **247 Dryad projects**
-- All 5 database tables exported as CSV
 - All files (1,096 Dryad + 7 FSD)
 - Complete source code in this repository
-
-**Note**: The data/files folder and csv files are not included in the repository due to size (more than 6 GB). 
 
 ## License
 
