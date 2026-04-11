@@ -49,18 +49,12 @@ source venv/bin/activate
 
 ```
 Seeding-QDArchive/
-├── data/
-│   ├── archive.db
-│   ├── files_export.csv
-│   ├── keywords_export.csv
-│   ├── licenses_export.csv
-│   ├── person_role_export.csv
-│   └── projects_export.csv
 ├── scrapers/
 │   ├── __init__.py
 │   ├── base_scraper.py     # Abstract base class for all scrapers
 │   ├── dryad_scraper.py    # Scraper for Dryad (repo #2)
 │   └── fsd_scraper.py      # Scraper for FSD Finland (repo #11)
+├── 23453618-seeding.db     # DB file
 ├── config.py               # Configuration (paths, API keys, search terms)
 ├── database.py             # SQLite database setup and helpers
 ├── downloader.py           # File downloader with resume support
@@ -288,7 +282,7 @@ data/
  │       ├── FSD1249
  │       ├── FSD1251
  │       └── ....
- ├── archive.db
+ ├── 23453618-seeding.db
  ├── files_export.csv
  ├── keywords_export.csv
  ├── licenses_export.csv
