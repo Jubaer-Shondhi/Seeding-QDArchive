@@ -193,6 +193,8 @@ After running the pipeline locally, the following will be created in the `data/`
 
 - **Access Credentials for Advanced Levels Data**: FSD Level A datasets are openly available without login. However, more advanced levels (B, C, and D) require credentials. An attempt was made to obtain credentials using institutional email through Aila (FSD's customer service) for implementing automated downloads. A response was received by email from them, but credentials were not provided.
 
+- **FSD License Values**: For non-downloadable datasets (Levels B, C, D), FSD does not display a license on their public website. The OAI-PMH metadata returns a text string: *"Tietoarkiston ja aineiston luovuttajan tekemän sopimuksen mukaisesti. | In accordance with the agreement between FSD and the depositor."* Per the professor's instruction ("if there is a different original data string, use this and we'll fix later"), these values are preserved as harvested. The 7 downloadable Level A datasets correctly show `CC BY 4.0`.
+
 - **ZIP Download Failure**: The actual files for **Level A** projects could not be downloaded programmatically because:
   - FSD requires users to click an "Download data" button before download
   - The download is triggered via a form POST with CSRF tokens (already tried)
