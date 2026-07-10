@@ -57,7 +57,8 @@ def init_db():
             download_repository_folder TEXT,
             download_project_folder    TEXT,
             download_version_folder    TEXT,
-            download_method            TEXT DEFAULT 'API-CALL'
+            download_method            TEXT DEFAULT 'API-CALL',
+            project_type               TEXT
         )
     """)
 
@@ -103,6 +104,32 @@ def init_db():
     conn.commit()
     conn.close()
     logger.info("Database initialized at %s", DB_PATH)
+
+def add_project_type_column():
+    """Add PROJECT_TYPE column to projects table if not exists."""
+    conn = get_connection()
+    cursor = conn.cursor()
+    
+    cursor.execute("PRAGMA table_info(projects)")
+    columns = [col[1] for col in cursor.fetchall()]
+    
+    if 'project_type' not in columns:
+        cursor.execute("ALTER TABLE projects ADD COLUMN project_type TEXT")
+        logger.info("Added column 'project_type' to projects table")
+        print("✅ Added column 'project_type' to projects table")
+    else:
+        print("ℹ️ Column 'project_type' already exists")
+    
+    conn.commit()
+    conn.close()
+
+
+def update_project_type(project_id: int, project_type: str):
+    """Update the project_type column for a project."""
+    conn = get_connection()
+    conn.execute("UPDATE projects SET project_type = ? WHERE id = ?", (project_type, project_id))
+    conn.commit()
+    conn.close()
 
 
 def insert_project(data: dict) -> int:

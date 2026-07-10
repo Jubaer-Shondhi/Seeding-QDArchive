@@ -1,0 +1,130 @@
+======================================================================
+PART 2: CLASSIFICATION STATISTICS REPORT
+======================================================================
+
+PROJECT TYPE DISTRIBUTION (All Repositories):
+--------------------------------------------------
+  OTHER_PROJECT: 150 projects
+  QDA_PROJECT: 2 projects
+  QD_PROJECT: 497 projects
+
+  TOTAL: 649 projects
+
+======================================================================
+ISIC DIVISION DISTRIBUTION (All Repositories):
+--------------------------------------------------
+  N72 - Scientific research and development: 119 projects
+  B07 - Mining of metal ores: 91 projects
+  Q85 - Education: 82 projects
+  R86 - Human health activities: 59 projects
+  K62 - Computer programming, consultancy and related activities: 55 projects
+  B06 - Extraction of crude petroleum and natural gas: 46 projects
+  A01 - Crop and animal production, hunting and related service activities: 27 projects
+  C30 - Manufacture of other transport equipment: 22 projects
+  C29 - Manufacture of motor vehicles: 21 projects
+  A02 - Forestry and logging: 17 projects
+  C24 - Manufacture of basic metals: 15 projects
+  S91 - Library, archives, museum and other cultural activities: 15 projects
+  A03 - Fishing and aquaculture: 8 projects
+  R88 - Social work activities without accommodation: 8 projects
+  C10 - Manufacture of food products: 7 projects
+  C17 - Manufacture of paper and paper products: 6 projects
+  C18 - Printing and reproduction of recorded media: 6 projects
+  C21 - Manufacture of basic pharmaceutical products: 6 projects
+  C11 - Manufacture of beverages: 3 projects
+  C26 - Manufacture of computer, electronic and optical products: 3 projects
+  E36 - Water collection, treatment and supply: 3 projects
+  L64 - Financial service activities: 3 projects
+  O78 - Employment activities: 3 projects
+  S90 - Arts creation and performing arts activities: 3 projects
+  C14 - Manufacture of wearing apparel: 2 projects
+  C23 - Manufacture of other non-metallic mineral products: 2 projects
+  E38 - Waste collection, treatment and disposal: 2 projects
+  J58 - Publishing activities: 2 projects
+  J60 - Programming and broadcasting: 2 projects
+  N69 - Legal and accounting activities: 2 projects
+  C16 - Manufacture of wood and of products of wood and cork: 1 projects
+  C20 - Manufacture of chemicals and chemical products: 1 projects
+  C22 - Manufacture of rubber and plastic products: 1 projects
+  C27 - Manufacture of electrical equipment: 1 projects
+  H51 - Air transport: 1 projects
+  J59 - Motion picture and sound recording: 1 projects
+  K63 - Computing infrastructure and data processing: 1 projects
+  O79 - Travel agency and tour operator activities: 1 projects
+  P84 - Public administration and defence: 1 projects
+
+  TOTAL projects with ISIC: 649
+
+======================================================================
+ISIC DISTRIBUTION BY REPOSITORY:
+--------------------------------------------------
+
+  Dryad Repository:
+    R86 - Human health activities: 47 projects
+    B07 - Mining of metal ores: 45 projects
+    N72 - Scientific research and development: 31 projects
+    K62 - Computer programming, consultancy and related activities: 28 projects
+    A01 - Crop and animal production, hunting and related service activities: 21 projects
+    A02 - Forestry and logging: 14 projects
+    Q85 - Education: 12 projects
+    B06 - Extraction of crude petroleum and natural gas: 9 projects
+    A03 - Fishing and aquaculture: 8 projects
+    C29 - Manufacture of motor vehicles: 6 projects
+    C24 - Manufacture of basic metals: 5 projects
+    C10 - Manufacture of food products: 4 projects
+    C21 - Manufacture of basic pharmaceutical products: 4 projects
+    C30 - Manufacture of other transport equipment: 2 projects
+    E36 - Water collection, treatment and supply: 2 projects
+    C16 - Manufacture of wood and of products of wood and cork: 1 projects
+    C18 - Printing and reproduction of recorded media: 1 projects
+    C20 - Manufacture of chemicals and chemical products: 1 projects
+    C22 - Manufacture of rubber and plastic products: 1 projects
+    C23 - Manufacture of other non-metallic mineral products: 1 projects
+    J59 - Motion picture and sound recording: 1 projects
+    K63 - Computing infrastructure and data processing: 1 projects
+    L64 - Financial service activities: 1 projects
+    N69 - Legal and accounting activities: 1 projects
+    Total: 247 projects with ISIC
+
+  FSD Repository:
+    N72 - Scientific research and development: 88 projects
+    Q85 - Education: 70 projects
+    B07 - Mining of metal ores: 46 projects
+    B06 - Extraction of crude petroleum and natural gas: 37 projects
+    K62 - Computer programming, consultancy and related activities: 27 projects
+    C30 - Manufacture of other transport equipment: 20 projects
+    C29 - Manufacture of motor vehicles: 15 projects
+    S91 - Library, archives, museum and other cultural activities: 15 projects
+    R86 - Human health activities: 12 projects
+    C24 - Manufacture of basic metals: 10 projects
+    R88 - Social work activities without accommodation: 8 projects
+    A01 - Crop and animal production, hunting and related service activities: 6 projects
+    C17 - Manufacture of paper and paper products: 6 projects
+    C18 - Printing and reproduction of recorded media: 5 projects
+    A02 - Forestry and logging: 3 projects
+    C10 - Manufacture of food products: 3 projects
+    C11 - Manufacture of beverages: 3 projects
+    C26 - Manufacture of computer, electronic and optical products: 3 projects
+    O78 - Employment activities: 3 projects
+    S90 - Arts creation and performing arts activities: 3 projects
+    C14 - Manufacture of wearing apparel: 2 projects
+    C21 - Manufacture of basic pharmaceutical products: 2 projects
+    E38 - Waste collection, treatment and disposal: 2 projects
+    J58 - Publishing activities: 2 projects
+    J60 - Programming and broadcasting: 2 projects
+    L64 - Financial service activities: 2 projects
+    C23 - Manufacture of other non-metallic mineral products: 1 projects
+    C27 - Manufacture of electrical equipment: 1 projects
+    E36 - Water collection, treatment and supply: 1 projects
+    H51 - Air transport: 1 projects
+    N69 - Legal and accounting activities: 1 projects
+    O79 - Travel agency and tour operator activities: 1 projects
+    P84 - Public administration and defence: 1 projects
+    Total: 402 projects with ISIC
+
+======================================================================
+MOST COMMON CLASS (All Repositories):
+--------------------------------------------------
+  N72 - Scientific research and development: 119 projects
+
+======================================================================

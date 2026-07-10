@@ -67,3 +67,7 @@ htmlcov/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+# Do NOT exclude root .db files
+# 23453618-seeding.db
+# 23453618-sq26-classification.db

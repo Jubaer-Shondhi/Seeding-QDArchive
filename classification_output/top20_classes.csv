@@ -1,0 +1,21 @@
+rank,isic_code,class_name,count
+1,N72,Scientific research and development,119
+2,B07,Mining of metal ores,91
+3,Q85,Education,82
+4,R86,Human health activities,59
+5,K62,"Computer programming, consultancy and related activities",55
+6,B06,Extraction of crude petroleum and natural gas,46
+7,A01,"Crop and animal production, hunting and related service activities",27
+8,C30,Manufacture of other transport equipment,22
+9,C29,Manufacture of motor vehicles,21
+10,A02,Forestry and logging,17
+11,C24,Manufacture of basic metals,15
+12,S91,"Library, archives, museum and other cultural activities",15
+13,A03,Fishing and aquaculture,8
+14,R88,Social work activities without accommodation,8
+15,C10,Manufacture of food products,7
+16,C17,Manufacture of paper and paper products,6
+17,C18,Printing and reproduction of recorded media,6
+18,C21,Manufacture of basic pharmaceutical products,6
+19,C11,Manufacture of beverages,3
+20,C26,"Manufacture of computer, electronic and optical products",3
