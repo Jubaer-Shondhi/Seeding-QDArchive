@@ -83,7 +83,7 @@ pip install -r requirements.txt
 
 ### Important Note Before Running
 
-The classifier **uses the existing Part 1 database** (`23453618-seeding.db`) as input and **adds new columns** (`project_type`, `isic_code`, `isic_division_code`, `isic_division_name`) to it.
+The classifier **uses the existing Part 1 database** (`23453618-seeding.db`) as input and **adds new columns** (`project_type`, `isic_code`, `isic_division_code`, `isic_division_name`) to it. If this file is not present in the root folder, you need to run the Part 1 pipeline first.
 
 If you want to **run the classifier from scratch** (fresh classification):
 
