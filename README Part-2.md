@@ -47,7 +47,7 @@ Seeding-QDArchive/
 │   └── fsd_scraper.py      # Scraper for FSD Finland (repo #11)
 ├── classification_output/  # Part 2 reports and histograms   
 │   ├── classification_report.csv
-│   ├── 23453618-classification-table.xlsx
+│   ├── 23453618-sq26-classification.xlsx
 │   ├── statistics_report.txt
 │   ├── top20_classes.csv
 │   ├── histogram_dryad.svg

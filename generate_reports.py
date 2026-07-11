@@ -44,7 +44,7 @@ def generate_classification_report():
         writer.writerow(['repository_id', 'project_type', 'project_title', 'primary_class', 'secondary_class', 'no_project_files'])
         for row in rows:
             writer.writerow([row[0], row[1], row[2], row[3], row[4], row[5]])
-    print(f"✅ CSV report saved: {csv_path}")
+    print(f"CSV report saved: {csv_path}")
 
 
 def generate_xlsx():
@@ -52,16 +52,16 @@ def generate_xlsx():
     try:
         import pandas as pd
     except ImportError:
-        print("⚠️ pandas not installed. Run: pip install pandas openpyxl")
+        print("pandas not installed. Run: pip install pandas openpyxl")
         return
     
     csv_path = OUTPUT_DIR / "classification_report.csv"
-    xlsx_path = OUTPUT_DIR / "23453618-classification-table.xlsx"
+    xlsx_path = OUTPUT_DIR / "23453618-sq26-classification.xlsx"
     
     df = pd.read_csv(csv_path)
     df.to_excel(xlsx_path, index=False, sheet_name="Classification")
-    print(f"✅ XLSX table saved: {xlsx_path}")
-    print(f"   Total rows: {len(df)}")
+    print(f"XLSX table saved: {xlsx_path}")
+    print(f"Total rows: {len(df)}")
 
 
 def generate_statistics_report():
@@ -151,7 +151,7 @@ def generate_statistics_report():
         f.write("\n" + "=" * 70 + "\n")
     
     conn.close()
-    print(f"✅ Statistics report saved: {stats_path}")
+    print(f"Statistics report saved: {stats_path}")
 
 
 def generate_top20_csv():
@@ -172,7 +172,7 @@ def generate_top20_csv():
         """)
         for i, row in enumerate(cursor, 1):
             writer.writerow([i, row[0], row[1], row[2]])
-    print(f"✅ Top 20 classes saved: {top20_path}")
+    print(f"Top 20 classes saved: {top20_path}")
     conn.close()
 
 
@@ -222,16 +222,16 @@ def generate_histograms():
         
         svg_path = OUTPUT_DIR / f"histogram_{repo_name.lower()}.svg"
         plt.savefig(svg_path, format='svg', bbox_inches='tight')
-        print(f"✅ Histogram (SVG) for {repo_name}: {svg_path}")
+        print(f"Histogram (SVG) for {repo_name}: {svg_path}")
         
         png_path = OUTPUT_DIR / f"histogram_{repo_name.lower()}.png"
         plt.savefig(png_path, dpi=300, bbox_inches='tight')
-        print(f"✅ Histogram (PNG) for {repo_name}: {png_path}")
+        print(f"Histogram (PNG) for {repo_name}: {png_path}")
         
         plt.close()
         
         # Print top 20 list
-        print(f"\n📊 Top 20 ISIC Classes - {repo_name}:")
+        print(f"\nTop 20 ISIC Classes - {repo_name}:")
         print("-" * 70)
         for i, (code, name, count) in enumerate(reversed(rows), 1):
             print(f"{i:2}. {code} - {name[:55]}: {count} projects")
@@ -292,14 +292,14 @@ def print_repo_stats():
 
 def main():
     print("=" * 60)
-    print("📊 Generating Part 2 Reports")
+    print("Generating Part 2 Reports")
     print("=" * 60)
     
-    print("\n📋 Reading from database...")
+    print("\nReading from database...")
     print_stats()
     print_repo_stats()
     
-    print("\n📁 Generating report files...")
+    print("\nGenerating report files...")
     generate_classification_report()
     generate_xlsx()
     generate_statistics_report()
@@ -307,9 +307,9 @@ def main():
     generate_histograms()
     
     print("\n" + "=" * 60)
-    print(f"✅ All reports saved in: {OUTPUT_DIR}/")
+    print(f"All reports saved in: {OUTPUT_DIR}/")
     print("=" * 60)
-    print("\n📌 For Google Form, select the most common class shown above.")
+    print("\nFor Google Form, select the most common class shown above.")
 
 
 if __name__ == "__main__":

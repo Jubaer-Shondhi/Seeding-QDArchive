@@ -148,7 +148,7 @@ def add_columns():
     for col_name, col_type in columns_to_add:
         if col_name not in columns:
             cursor.execute(f"ALTER TABLE projects ADD COLUMN {col_name} {col_type}")
-            print(f"✅ Added column: {col_name}")
+            print(f"Added column: {col_name}")
     
     conn.commit()
     conn.close()
@@ -270,7 +270,7 @@ def run_classifier():
             update_isic(project_id, isic_code, division_code, division_name)
     
     conn.close()
-    print(f"✅ Classified {len(projects)} projects")
+    print(f"Classified {len(projects)} projects")
 
 
 def main():
@@ -281,7 +281,7 @@ def main():
     print("\n🔍 Running classifier on all projects...\n")
     run_classifier()
     
-    print("\n✅ Classification complete!")
+    print("\nClassification complete!")
     print("👉 Now run: python generate_reports.py")
 
 
