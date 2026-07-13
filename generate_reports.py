@@ -1,6 +1,5 @@
 """
 generate_reports.py - Generate all reports for Part 2 submission
-Run this after classifier.py has populated the database.
 """
 
 import sqlite3
@@ -9,7 +8,7 @@ from pathlib import Path
 import matplotlib.pyplot as plt
 
 # Configuration
-DB_PATH = Path("23453618-sq26-classification.db")
+DB_PATH = Path("23453618-seeding.db")
 OUTPUT_DIR = Path("classification_output")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
@@ -28,7 +27,7 @@ def generate_classification_report():
             p.project_type,
             p.title,
             p.isic_code as primary_class,
-            '' as secondary_class,
+            p.secondary_isic_code as secondary_class,
             (SELECT COUNT(*) FROM files f WHERE f.project_id = p.id) as no_project_files
         FROM projects p
         WHERE p.project_type IS NOT NULL
@@ -43,7 +42,7 @@ def generate_classification_report():
         writer = csv.writer(f)
         writer.writerow(['repository_id', 'project_type', 'project_title', 'primary_class', 'secondary_class', 'no_project_files'])
         for row in rows:
-            writer.writerow([row[0], row[1], row[2], row[3], row[4], row[5]])
+            writer.writerow([row[0], row[1], row[2], row[3], row[4] if row[4] else '', row[5]])
     print(f"CSV report saved: {csv_path}")
 
 
@@ -100,6 +99,23 @@ def generate_statistics_report():
             f.write(f"  {row[0]} - {row[1]}: {row[2]} projects\n")
             total_isic += row[2]
         f.write(f"\n  TOTAL projects with ISIC: {total_isic}\n\n")
+        
+        # Secondary ISIC distribution
+        f.write("=" * 70 + "\n")
+        f.write("SECONDARY ISIC DISTRIBUTION (All Repositories):\n")
+        f.write("-" * 50 + "\n")
+        cursor = conn.execute("""
+            SELECT secondary_isic_code, secondary_isic_division_name, COUNT(*) as count
+            FROM projects
+            WHERE secondary_isic_code IS NOT NULL
+            GROUP BY secondary_isic_code, secondary_isic_division_name
+            ORDER BY COUNT(*) DESC
+        """)
+        total_secondary = 0
+        for row in cursor:
+            f.write(f"  {row[0]} - {row[1]}: {row[2]} projects\n")
+            total_secondary += row[2]
+        f.write(f"\n  TOTAL projects with secondary ISIC: {total_secondary}\n\n")
         
         # Repository-wise ISIC distribution
         f.write("=" * 70 + "\n")
@@ -200,7 +216,7 @@ def generate_histograms():
         rows = cursor.fetchall()
         
         if not rows:
-            print(f"⚠️ No ISIC data for {repo_name}")
+            print(f"No ISIC data for {repo_name}")
             continue
         
         # Reverse for display (largest at top)

@@ -139,8 +139,8 @@ Projects are classified into ISIC Rev. 5 divisions (2 levels deep) using a rule-
 
 | Project Type | Count | Percentage |
 |--------------|-------|------------|
-| QD_PROJECT | 497 | 76.6% |
-| OTHER_PROJECT | 150 | 23.1% |
+| QD_PROJECT | 526 | 81.0% |
+| OTHER_PROJECT | 121 | 18.6% |
 | QDA_PROJECT | 2 | 0.3% |
 | NOT_A_PROJECT | 0 | 0% |
 | **Total** | **649** | **100%** |
@@ -161,8 +161,8 @@ Projects are classified into ISIC Rev. 5 divisions (2 levels deep) using a rule-
 
 | Project Type | Count | Percentage |
 |--------------|-------|------------|
-| QD_PROJECT | 253 | 62.9% |
-| OTHER_PROJECT | 149 | 37.1% |
+| QD_PROJECT | 282 | 70.1% |
+| OTHER_PROJECT | 120 | 29.9% |
 | QDA_PROJECT | 0 | 0% |
 | NOT_A_PROJECT | 0 | 0% |
 | **Total** | **402** | **100%** |
@@ -173,11 +173,11 @@ Projects are classified into ISIC Rev. 5 divisions (2 levels deep) using a rule-
 
 | Rank | ISIC Code | Division Name | Count |
 |------|-----------|---------------|-------|
-| 1 | N72 | Scientific research and development | 119 |
-| 2 | B07 | Mining of metal ores | 91 |
-| 3 | Q85 | Education | 82 |
-| 4 | R86 | Human health activities | 59 |
-| 5 | K62 | Computer programming, consultancy | 55 |
+| 1 | N72 | Scientific research and development | 231 |
+| 2 | Q85 | Education | 103 |
+| 3 | R86 | Human health activities | 62 |
+| 4 | B07 | Mining of metal ores | 46 |
+| 5 | K62 | Computer programming, consultancy | 31 |
 
 ### Top 5 ISIC Divisions by Repository
 
@@ -187,36 +187,49 @@ Projects are classified into ISIC Rev. 5 divisions (2 levels deep) using a rule-
 |------|-----------|---------------|-------|
 | 1 | R86 | Human health activities | 47 |
 | 2 | B07 | Mining of metal ores | 45 |
-| 3 | N72 | Scientific research and development | 31 |
-| 4 | K62 | Computer programming, consultancy | 28 |
-| 5 | A01 | Crop and animal production | 21 |
+| 3 | N72 | Scientific research and development | 29 |
+| 4 | K62 | Computer programming, consultancy | 27 |
+| 5 | A01 | Crop and animal production | 20 |
 
 #### FSD Repository
 
 | Rank | ISIC Code | Division Name | Count |
 |------|-----------|---------------|-------|
-| 1 | N72 | Scientific research and development | 88 |
-| 2 | Q85 | Education | 70 |
-| 3 | B07 | Mining of metal ores | 46 |
-| 4 | B06 | Extraction of crude petroleum and natural gas | 37 |
-| 5 | K62 | Computer programming, consultancy | 27 |
+| 1 | N72 | Scientific research and development | 202 |
+| 2 | Q85 | Education | 91 |
+| 3 | S91 | Library, archives, museum and other cultural activities | 36 |
+| 4 | R86 | Human health activities | 15 |
+| 5 | R88 | Social work activities without accommodation | 9 |
 
 ---
 
 ### Most Common ISIC Class
 
-**Overall**: N72 - Scientific research and development (119 projects)
+**Overall**: N72 - Scientific research and development (231 projects)
 
 **By Repository**:
 - **Dryad**: R86 - Human health activities (47 projects)
-- **FSD**: N72 - Scientific research and development (88 projects)
+- **FSD**: N72 - Scientific research and development (202 projects)
 
 ## Technical Problems/Limitations and Solutions
+
+### FSD Repository
+
+- **Finnish Language Metadata**: FSD metadata is primarily in Finnish, while the initial classifier used only English keywords. This resulted in many FSD projects being misclassified as OTHER_PROJECT instead of QD_PROJECT.
+  - **Solution**: Added Finnish keywords to both `QUALITATIVE_KEYWORDS` and `ISIC_MAPPING` lists (e.g., `laadullinen`, `haastattelu`, `koulutus`, etc.). This increased FSD QD_PROJECT classification from 253 to 282 projects.
+
+- **Download Limitations**: Only 7 Level A FSD datasets were downloadable; the remaining 395 projects (Levels B, C, D) could not be accessed due to authentication and terms acceptance requirements.
+  - **Solution**: All 402 FSD projects were classified using their metadata (titles, descriptions, and keywords) under the Tier-1 approach, which was sufficient for project type and ISIC classification.
+
+### Dryad Repository
+
+- **Misclassification Due to "Data" Keyword**: Many Dryad project titles start with "Data from: ...", causing them to be misclassified under K63 (Computing infrastructure and data processing) instead of their actual research topics.
+  - **Solution**: Removed the keyword "data" from the K63 ISIC mapping. This resulted in K63 dropping from #1 (111 projects) to #4, and R86 (Human health activities) becoming the most common class with 47 projects.
 
 ### ISIC Classification
 
 - **Keyword Matching Limitations**: The rule-based approach relies on keyword presence in metadata. Projects without clear keywords may be misclassified or left unclassified.
-  - **Solution**: The keyword list was carefully curated based on ISIC Rev. 5 division descriptions and reviewed for relevance to qualitative research. Future improvements could include expanding the keyword list or using a machine learning approach.
+  - **Solution**: The keyword list was carefully curated based on ISIC Rev. 5 division descriptions and reviewed for relevance to qualitative research. The keyword lists are bilingual (English + Finnish) to handle both repository languages.
 
 - **Division Coverage**: The classifier covers 72 ISIC divisions most relevant to qualitative research. Projects outside these divisions are left unclassified.
   - **Solution**: The 72 divisions were selected based on their relevance to typical qualitative research topics (education, health, social sciences, etc.). The classifier intentionally focuses on these areas to minimize false positives.
@@ -226,14 +239,14 @@ Projects are classified into ISIC Rev. 5 divisions (2 levels deep) using a rule-
 - **QDA_PROJECT Detection**: Projects are classified as QDA_PROJECT only if they contain explicit QDA file extensions (e.g., `.qdpx`, `.mx24`). Some projects may contain QDA data within other file formats (e.g., embedded in PDFs) which are not detected.
   - **Solution**: The classifier prioritizes explicit QDA file extensions as the most reliable indicator of QDA_PROJECT status. Additional file formats can be added to the `QDA_EXTENSIONS` set if identified.
 
-- **QD_PROJECT Detection**: Projects are classified as QD_PROJECT if they contain qualitative keywords or primary data files. However, some projects may not explicitly mention qualitative terms in their metadata.
-  - **Solution**: The qualitative keyword list was compiled from common qualitative research terminology. It can be expanded as new terms are identified.
-
 - **Metadata Quality**: The accuracy of classification depends on the quality and completeness of metadata collected in Part 1. Incomplete or inconsistent metadata may affect classification results.
   - **Solution**: The metadata collection process in Part 1 was designed to capture as much information as possible. Incomplete fields are handled gracefully by the classifier.
 
 - **Subjectivity in ISIC Mapping**: The mapping of research topics to ISIC divisions involves some subjectivity. Different classifiers might assign different ISIC codes to the same project based on interpretation of keywords.
   - **Solution**: The keyword-to-ISIC mapping is based on official ISIC Rev. 5 division descriptions. While some subjectivity is unavoidable, this approach ensures consistency and transparency in classification decisions.
+
+- **Secondary ISIC Classification**: Projects with a clear second research topic were assigned a secondary ISIC division. This was done using a threshold-based approach (secondary score ≥ 50% of primary score) to avoid weak or meaningless secondary assignments.
+  - **Solution**: The threshold ensures that only meaningful secondary topics are recorded, as per the professor's requirement "secondary_class // if any".
 
 ## Part 2 Submission
 

@@ -1,21 +1,21 @@
 rank,isic_code,class_name,count
-1,N72,Scientific research and development,119
-2,B07,Mining of metal ores,91
-3,Q85,Education,82
-4,R86,Human health activities,59
-5,K62,"Computer programming, consultancy and related activities",55
-6,B06,Extraction of crude petroleum and natural gas,46
-7,A01,"Crop and animal production, hunting and related service activities",27
-8,C30,Manufacture of other transport equipment,22
-9,C29,Manufacture of motor vehicles,21
-10,A02,Forestry and logging,17
-11,C24,Manufacture of basic metals,15
-12,S91,"Library, archives, museum and other cultural activities",15
-13,A03,Fishing and aquaculture,8
-14,R88,Social work activities without accommodation,8
-15,C10,Manufacture of food products,7
-16,C17,Manufacture of paper and paper products,6
-17,C18,Printing and reproduction of recorded media,6
-18,C21,Manufacture of basic pharmaceutical products,6
-19,C11,Manufacture of beverages,3
-20,C26,"Manufacture of computer, electronic and optical products",3
+1,N72,Scientific research and development,231
+2,Q85,Education,103
+3,R86,Human health activities,62
+4,B07,Mining of metal ores,46
+5,S91,"Library, archives, museum and other cultural activities",36
+6,K62,"Computer programming, consultancy and related activities",31
+7,A01,"Crop and animal production, hunting and related service activities",24
+8,A02,Forestry and logging,17
+9,B06,Extraction of crude petroleum and natural gas,10
+10,C29,Manufacture of motor vehicles,10
+11,R88,Social work activities without accommodation,9
+12,A03,Fishing and aquaculture,8
+13,C10,Manufacture of food products,8
+14,J58,Publishing activities,6
+15,C24,Manufacture of basic metals,5
+16,E36,"Water collection, treatment and supply",5
+17,C21,Manufacture of basic pharmaceutical products,4
+18,C17,Manufacture of paper and paper products,3
+19,O79,Travel agency and tour operator activities,3
+20,C14,Manufacture of wearing apparel,2

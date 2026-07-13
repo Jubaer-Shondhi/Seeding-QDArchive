@@ -4,56 +4,116 @@ PART 2: CLASSIFICATION STATISTICS REPORT
 
 PROJECT TYPE DISTRIBUTION (All Repositories):
 --------------------------------------------------
-  OTHER_PROJECT: 150 projects
+  OTHER_PROJECT: 121 projects
   QDA_PROJECT: 2 projects
-  QD_PROJECT: 497 projects
+  QD_PROJECT: 526 projects
 
   TOTAL: 649 projects
 
 ======================================================================
 ISIC DIVISION DISTRIBUTION (All Repositories):
 --------------------------------------------------
-  N72 - Scientific research and development: 119 projects
-  B07 - Mining of metal ores: 91 projects
-  Q85 - Education: 82 projects
-  R86 - Human health activities: 59 projects
-  K62 - Computer programming, consultancy and related activities: 55 projects
-  B06 - Extraction of crude petroleum and natural gas: 46 projects
-  A01 - Crop and animal production, hunting and related service activities: 27 projects
-  C30 - Manufacture of other transport equipment: 22 projects
-  C29 - Manufacture of motor vehicles: 21 projects
+  N72 - Scientific research and development: 231 projects
+  Q85 - Education: 103 projects
+  R86 - Human health activities: 62 projects
+  B07 - Mining of metal ores: 46 projects
+  S91 - Library, archives, museum and other cultural activities: 36 projects
+  K62 - Computer programming, consultancy and related activities: 31 projects
+  A01 - Crop and animal production, hunting and related service activities: 24 projects
   A02 - Forestry and logging: 17 projects
-  C24 - Manufacture of basic metals: 15 projects
-  S91 - Library, archives, museum and other cultural activities: 15 projects
+  B06 - Extraction of crude petroleum and natural gas: 10 projects
+  C29 - Manufacture of motor vehicles: 10 projects
+  R88 - Social work activities without accommodation: 9 projects
   A03 - Fishing and aquaculture: 8 projects
-  R88 - Social work activities without accommodation: 8 projects
-  C10 - Manufacture of food products: 7 projects
-  C17 - Manufacture of paper and paper products: 6 projects
-  C18 - Printing and reproduction of recorded media: 6 projects
-  C21 - Manufacture of basic pharmaceutical products: 6 projects
-  C11 - Manufacture of beverages: 3 projects
-  C26 - Manufacture of computer, electronic and optical products: 3 projects
-  E36 - Water collection, treatment and supply: 3 projects
-  L64 - Financial service activities: 3 projects
-  O78 - Employment activities: 3 projects
-  S90 - Arts creation and performing arts activities: 3 projects
+  C10 - Manufacture of food products: 8 projects
+  J58 - Publishing activities: 6 projects
+  C24 - Manufacture of basic metals: 5 projects
+  E36 - Water collection, treatment and supply: 5 projects
+  C21 - Manufacture of basic pharmaceutical products: 4 projects
+  C17 - Manufacture of paper and paper products: 3 projects
+  O79 - Travel agency and tour operator activities: 3 projects
   C14 - Manufacture of wearing apparel: 2 projects
   C23 - Manufacture of other non-metallic mineral products: 2 projects
+  C26 - Manufacture of computer, electronic and optical products: 2 projects
+  C30 - Manufacture of other transport equipment: 2 projects
   E38 - Waste collection, treatment and disposal: 2 projects
-  J58 - Publishing activities: 2 projects
-  J60 - Programming and broadcasting: 2 projects
-  N69 - Legal and accounting activities: 2 projects
+  F41 - Construction of buildings: 2 projects
   C16 - Manufacture of wood and of products of wood and cork: 1 projects
+  C18 - Printing and reproduction of recorded media: 1 projects
   C20 - Manufacture of chemicals and chemical products: 1 projects
   C22 - Manufacture of rubber and plastic products: 1 projects
   C27 - Manufacture of electrical equipment: 1 projects
   H51 - Air transport: 1 projects
+  H53 - Postal and courier activities: 1 projects
+  I56 - Food and beverage service activities: 1 projects
   J59 - Motion picture and sound recording: 1 projects
+  J60 - Programming and broadcasting: 1 projects
   K63 - Computing infrastructure and data processing: 1 projects
+  L64 - Financial service activities: 1 projects
+  N69 - Legal and accounting activities: 1 projects
+  N70 - Management consultancy activities: 1 projects
+  O78 - Employment activities: 1 projects
+  S90 - Arts creation and performing arts activities: 1 projects
+
+  TOTAL projects with ISIC: 649
+
+======================================================================
+SECONDARY ISIC DISTRIBUTION (All Repositories):
+--------------------------------------------------
+  N72 - Scientific research and development: 123 projects
+  S91 - Library, archives, museum and other cultural activities: 104 projects
+  B07 - Mining of metal ores: 61 projects
+  Q85 - Education: 42 projects
+  K62 - Computer programming, consultancy and related activities: 37 projects
+  R86 - Human health activities: 23 projects
+  C29 - Manufacture of motor vehicles: 21 projects
+  R88 - Social work activities without accommodation: 18 projects
+  B06 - Extraction of crude petroleum and natural gas: 12 projects
+  O82 - Office administrative and support activities: 10 projects
+  A01 - Crop and animal production, hunting and related service activities: 9 projects
+  K63 - Computing infrastructure and data processing: 9 projects
+  S90 - Arts creation and performing arts activities: 9 projects
+  C11 - Manufacture of beverages: 7 projects
+  C26 - Manufacture of computer, electronic and optical products: 6 projects
+  J58 - Publishing activities: 6 projects
+  C17 - Manufacture of paper and paper products: 5 projects
+  C18 - Printing and reproduction of recorded media: 5 projects
+  C24 - Manufacture of basic metals: 5 projects
+  O80 - Investigation and security activities: 5 projects
+  C23 - Manufacture of other non-metallic mineral products: 4 projects
+  D35 - Electricity, gas, steam and air conditioning supply: 4 projects
+  O78 - Employment activities: 4 projects
+  A02 - Forestry and logging: 3 projects
+  A03 - Fishing and aquaculture: 3 projects
+  B05 - Mining of coal and lignite: 3 projects
+  C10 - Manufacture of food products: 3 projects
+  C20 - Manufacture of chemicals and chemical products: 3 projects
+  C30 - Manufacture of other transport equipment: 3 projects
+  E36 - Water collection, treatment and supply: 3 projects
+  N69 - Legal and accounting activities: 3 projects
+  C21 - Manufacture of basic pharmaceutical products: 2 projects
+  C28 - Manufacture of machinery and equipment n.e.c.: 2 projects
+  F41 - Construction of buildings: 2 projects
+  J60 - Programming and broadcasting: 2 projects
+  L64 - Financial service activities: 2 projects
+  B08 - Other mining and quarrying: 1 projects
+  C12 - Manufacture of tobacco products: 1 projects
+  C13 - Manufacture of textiles: 1 projects
+  C15 - Manufacture of leather and related products: 1 projects
+  C22 - Manufacture of rubber and plastic products: 1 projects
+  C27 - Manufacture of electrical equipment: 1 projects
+  G47 - Retail trade: 1 projects
+  H52 - Warehousing and support activities for transportation: 1 projects
+  I55 - Accommodation: 1 projects
+  J59 - Motion picture and sound recording: 1 projects
+  L65 - Insurance and pension funding: 1 projects
+  N70 - Management consultancy activities: 1 projects
+  N71 - Architectural and engineering activities: 1 projects
+  N74 - Other professional and technical activities: 1 projects
   O79 - Travel agency and tour operator activities: 1 projects
   P84 - Public administration and defence: 1 projects
 
-  TOTAL projects with ISIC: 649
+  TOTAL projects with secondary ISIC: 579
 
 ======================================================================
 ISIC DISTRIBUTION BY REPOSITORY:
@@ -62,19 +122,19 @@ ISIC DISTRIBUTION BY REPOSITORY:
   Dryad Repository:
     R86 - Human health activities: 47 projects
     B07 - Mining of metal ores: 45 projects
-    N72 - Scientific research and development: 31 projects
-    K62 - Computer programming, consultancy and related activities: 28 projects
-    A01 - Crop and animal production, hunting and related service activities: 21 projects
+    N72 - Scientific research and development: 29 projects
+    K62 - Computer programming, consultancy and related activities: 27 projects
+    A01 - Crop and animal production, hunting and related service activities: 20 projects
     A02 - Forestry and logging: 14 projects
     Q85 - Education: 12 projects
     B06 - Extraction of crude petroleum and natural gas: 9 projects
     A03 - Fishing and aquaculture: 8 projects
-    C29 - Manufacture of motor vehicles: 6 projects
+    C29 - Manufacture of motor vehicles: 8 projects
     C24 - Manufacture of basic metals: 5 projects
     C10 - Manufacture of food products: 4 projects
     C21 - Manufacture of basic pharmaceutical products: 4 projects
+    E36 - Water collection, treatment and supply: 4 projects
     C30 - Manufacture of other transport equipment: 2 projects
-    E36 - Water collection, treatment and supply: 2 projects
     C16 - Manufacture of wood and of products of wood and cork: 1 projects
     C18 - Printing and reproduction of recorded media: 1 projects
     C20 - Manufacture of chemicals and chemical products: 1 projects
@@ -87,44 +147,40 @@ ISIC DISTRIBUTION BY REPOSITORY:
     Total: 247 projects with ISIC
 
   FSD Repository:
-    N72 - Scientific research and development: 88 projects
-    Q85 - Education: 70 projects
-    B07 - Mining of metal ores: 46 projects
-    B06 - Extraction of crude petroleum and natural gas: 37 projects
-    K62 - Computer programming, consultancy and related activities: 27 projects
-    C30 - Manufacture of other transport equipment: 20 projects
-    C29 - Manufacture of motor vehicles: 15 projects
-    S91 - Library, archives, museum and other cultural activities: 15 projects
-    R86 - Human health activities: 12 projects
-    C24 - Manufacture of basic metals: 10 projects
-    R88 - Social work activities without accommodation: 8 projects
-    A01 - Crop and animal production, hunting and related service activities: 6 projects
-    C17 - Manufacture of paper and paper products: 6 projects
-    C18 - Printing and reproduction of recorded media: 5 projects
+    N72 - Scientific research and development: 202 projects
+    Q85 - Education: 91 projects
+    S91 - Library, archives, museum and other cultural activities: 36 projects
+    R86 - Human health activities: 15 projects
+    R88 - Social work activities without accommodation: 9 projects
+    J58 - Publishing activities: 6 projects
+    A01 - Crop and animal production, hunting and related service activities: 4 projects
+    C10 - Manufacture of food products: 4 projects
+    K62 - Computer programming, consultancy and related activities: 4 projects
     A02 - Forestry and logging: 3 projects
-    C10 - Manufacture of food products: 3 projects
-    C11 - Manufacture of beverages: 3 projects
-    C26 - Manufacture of computer, electronic and optical products: 3 projects
-    O78 - Employment activities: 3 projects
-    S90 - Arts creation and performing arts activities: 3 projects
+    C17 - Manufacture of paper and paper products: 3 projects
+    O79 - Travel agency and tour operator activities: 3 projects
     C14 - Manufacture of wearing apparel: 2 projects
-    C21 - Manufacture of basic pharmaceutical products: 2 projects
+    C26 - Manufacture of computer, electronic and optical products: 2 projects
+    C29 - Manufacture of motor vehicles: 2 projects
     E38 - Waste collection, treatment and disposal: 2 projects
-    J58 - Publishing activities: 2 projects
-    J60 - Programming and broadcasting: 2 projects
-    L64 - Financial service activities: 2 projects
+    F41 - Construction of buildings: 2 projects
+    B06 - Extraction of crude petroleum and natural gas: 1 projects
+    B07 - Mining of metal ores: 1 projects
     C23 - Manufacture of other non-metallic mineral products: 1 projects
     C27 - Manufacture of electrical equipment: 1 projects
     E36 - Water collection, treatment and supply: 1 projects
     H51 - Air transport: 1 projects
-    N69 - Legal and accounting activities: 1 projects
-    O79 - Travel agency and tour operator activities: 1 projects
-    P84 - Public administration and defence: 1 projects
+    H53 - Postal and courier activities: 1 projects
+    I56 - Food and beverage service activities: 1 projects
+    J60 - Programming and broadcasting: 1 projects
+    N70 - Management consultancy activities: 1 projects
+    O78 - Employment activities: 1 projects
+    S90 - Arts creation and performing arts activities: 1 projects
     Total: 402 projects with ISIC
 
 ======================================================================
 MOST COMMON CLASS (All Repositories):
 --------------------------------------------------
-  N72 - Scientific research and development: 119 projects
+  N72 - Scientific research and development: 231 projects
 
 ======================================================================
