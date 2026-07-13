@@ -240,8 +240,7 @@ Projects are classified into ISIC Rev. 5 divisions (2 levels deep) using a rule-
 - **Subjectivity in ISIC Mapping**: The mapping of research topics to ISIC divisions involves some subjectivity. Different classifiers might assign different ISIC codes to the same project based on interpretation of keywords.
   - **Solution**: The keyword-to-ISIC mapping is based on official ISIC Rev. 5 division descriptions. While some subjectivity is unavoidable, this approach ensures consistency and transparency in classification decisions.
 
-- **Secondary ISIC Classification**: Projects with a clear second research topic were assigned a secondary ISIC division. This was done using a threshold-based approach (secondary score ≥ 50% of primary score) to avoid weak or meaningless secondary assignments.
-  - **Solution**: The threshold ensures that only meaningful secondary topics are recorded, as per the professor's requirement "secondary_class // if any".
+- **Secondary ISIC Classification**: Projects with a clear second research topic were assigned a secondary ISIC division. This was done using a threshold-based approach (secondary score ≥ 50% of primary score) to avoid weak or meaningless secondary assignments. The threshold ensures that only meaningful secondary topics are recorded.
 
 ## Part 2 Submission
 
