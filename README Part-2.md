@@ -221,11 +221,6 @@ Projects are classified into ISIC Rev. 5 divisions (2 levels deep) using a rule-
 - **Download Limitations**: Only 7 Level A FSD datasets were downloadable; the remaining 395 projects (Levels B, C, D) could not be accessed due to authentication and terms acceptance requirements.
   - **Solution**: All 402 FSD projects were classified using their metadata (titles, descriptions, and keywords) under the Tier-1 approach, which was sufficient for project type and ISIC classification.
 
-### Dryad Repository
-
-- **Misclassification Due to "Data" Keyword**: Many Dryad project titles start with "Data from: ...", causing them to be misclassified under K63 (Computing infrastructure and data processing) instead of their actual research topics.
-  - **Solution**: Removed the keyword "data" from the K63 ISIC mapping. This resulted in K63 dropping from #1 (111 projects) to #4, and R86 (Human health activities) becoming the most common class with 47 projects.
-
 ### ISIC Classification
 
 - **Keyword Matching Limitations**: The rule-based approach relies on keyword presence in metadata. Projects without clear keywords may be misclassified or left unclassified.
