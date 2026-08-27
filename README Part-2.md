@@ -53,7 +53,10 @@ Seeding-QDArchive/
 │   ├── histogram_dryad.svg
 │   ├── histogram_dryad.png
 │   ├── histogram_fsd.svg
-│   └── histogram_fsd.png
+│   ├── histogram_fsd.png
+│   ├── llm_histogram.png
+│   ├── llm_confidence.png
+│   └── llm_by_repository.png
 ├── 23453618-seeding.db     # DB file
 ├── 23453618-sq26-classification.db # Part 2 database
 ├── config.py               # Configuration (paths, API keys, search terms)
@@ -63,6 +66,8 @@ Seeding-QDArchive/
 ├── export_csv.py           # Export database to CSV
 ├── classifier.py           # Rule-based classifier
 ├── generate_reports.py     # Report generation script
+├── llm_classifier.py       # LLM-based classifier (optional)
+├── generate_llm_reports.py # LLM report generation
 ├── README_PART2.md         # This file
 ├── README.md               # Part-1 README.md
 ├── .gitignore
@@ -279,6 +284,74 @@ All reports are saved in the classification_output/ folder:
 - Classification results for 649 projects **(402 FSD projects** + **247 Dryad projects)**
 - All reports and histograms
 - Complete source code in this repository
+
+## LLM Classification (Optional)
+
+The pipeline includes an optional LLM-based classifier using **Groq API** (`qwen/qwen3.8-27b` model) as an alternative to the rule-based approach.
+
+### Prompt Engineering
+
+The LLM classifier uses a carefully engineered prompt with:
+
+- **Clear task definition** and structured input (title, description, keywords)
+- **JSON output constraint** for structured responses
+- **ISIC reference list** to guide the model
+- **Confidence scoring** (high/medium/low) for quality assessment
+- **Validation rules** ensuring section_code is a letter (A-V) and division_code is a 2-digit number
+
+### Running the LLM Classifier
+
+**Step 1: Set up API key** (free at https://console.groq.com)
+
+```bash
+export GROQ_API_KEY="your_api_key_here"
+```
+
+**Step 2: Run LLM classification**
+
+```bash
+python llm_classifier.py
+```
+
+This will:
+- Add LLM columns to the database (llm_section_code, llm_division_code, llm_division_name, llm_confidence)
+- Classify projects in batches of 10
+- Store results in the database
+
+**Step 3: Generate LLM Reports**
+
+```bash
+python generate_llm_reports.py
+```
+
+This will generate:
+
+- **llm_histogram.png** — Top 15 ISIC divisions from LLM
+- **llm_confidence.png** — Confidence distribution
+- **llm_by_repository.png** — Top 10 by repository
+
+### Results
+
+| Metric | Value |
+|--------|-------|
+| Total projects classified | 649 |
+| Most common ISIC division | 86 (Human health activities) |
+
+
+### Requirements
+
+- Groq API key (free at https://console.groq.com)
+- Set in `llm_classifier.py` or as environment variable `GROQ_API_KEY`
+
+### Files
+
+- `llm_classifier.py` — Run LLM classification
+- `generate_llm_reports.py` — Generate LLM visualizations
+
+### Limitations
+- Requires Groq API key (free tier available)
+- Rate limits: processed in batches of 10
+- Free tier is sufficient for 649 projects
 
 ## License
 
